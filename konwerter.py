@@ -1,20 +1,28 @@
 #!/usr/bin/python3
 import csv
-f1 = open('real.csv', 'r')
+f1 = open('real.csv', 'r', encoding="utf-8")
 c1 = list(csv.DictReader(f1, delimiter=';'))
-f2 = open('fakt.csv', 'r')
+f2 = open('fakt.csv', 'r', encoding="utf-8")
 c2 = list(csv.DictReader(f2, delimiter=';'))
 
-f3 = open('wynik.csv', 'w')
+f3 = open('wynik.csv', 'w', encoding="utf-8")
 filewriter = csv.writer(f3, delimiter=';', quotechar='"',
-                        quoting=csv.QUOTE_MINIMAL)
+                        quoting=csv.QUOTE_MINIMAL, lineterminator='\n')
 
-filewriter.writerow(['ID', 'Nazwa', 'Ilosc Real', 'Ilosc Fakt'])
+filewriter.writerow(['ID', 'Nazwa', 'Ilosc Real', 'Ilosc Fakt', 'Roznica Fakt Norm'])
 lista = []
 
 
-def roznicaStr(a, b):
-    return ""
+# class Baza(object):
+#     filename = None
+#     cvs = None
+#     def __init__(self, nazwapliku):
+        
+
+
+
+# def roznicaStr(a, b):
+#     return ""
 
 
 for i in range(len(c1) - 1):
@@ -23,8 +31,8 @@ for i in range(len(c1) - 1):
         if(c1[i]['ID'] == c2[j]['ID'] and c1[i]['ID'] != "00000"):
             # print(c1[i]['ID'], c2[j]['ID'], c1[i]['Nazwa'][:8], "\t", c1[i]
             #       ['Ilosc'], c2[j]['Ilosc'], roznicaStr(c1[i]['Ilosc'], c2[j]['Ilosc']))
-            filewriter.writerow(
-                [c1[i]['ID'], c1[i]['Nazwa'], c1[i]['Ilosc'], c2[j]['Ilosc']])
+            filewriter.writerow([c1[i]['ID'], c1[i]['Nazwa'], c1[i]['Ilosc'], c2[j]['Ilosc']]) #( float(c2[j]['Ilosc'].replace(",",".")) - float(c1[i]['Ilosc'].replace(",",".")))])
+
             znaleziono = 1
             break
         else:
@@ -34,7 +42,7 @@ for i in range(len(c1) - 1):
         # dziala ale wyciszyc
         # print("Nie znaleziono ", c1[i]['ID'])
         lista.append([c1[i]['ID'], c1[i]['Nazwa'],
-                      c1[i]['Ilosc'],])
-for row in lista:
-    filewriter.writerow(row)
+                      c1[i]['Ilosc']])
+# for row in lista:
+#     filewriter.writerow(row)
 f3.close()
