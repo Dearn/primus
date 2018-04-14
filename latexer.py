@@ -8,7 +8,7 @@ lista = []
 def funkc(a):
     if(os.path.isfile(''.join(["/home/dearn/zdjecia/",i['ID'],".jpg"]))):
         # print(''.join([i['ID'], " ", i['Nazwa'], i['Cena']]))
-        f2.write(''.join(["\\begin{wrapfigure}{L}{0.3\\textwidth}\n\\includegraphics[max width=100px, max height=100px]{/home/dearn/zdjecia/", i['ID'],".jpg}\n\\end{wrapfigure}\n", i['ID'], " ", i['Nazwa'], "Cena: ", i['Cena'], "\\newline\n"]))
+        f2.write(''.join(["\centering{\n\\pbox{0.5\\textwidth}\n{Index: \\textbf{", i['ID'], "}\\\\\n", i['Nazwa'],"\\\\\nCena: ", i['Cena'],"\\\\\n  \\includegraphics[height=150px,width=250px]{/home/dearn/zdjecia/", i['ID'], ".jpg}}}\n"]))
 
 
 for i in c1:
