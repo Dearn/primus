@@ -13,8 +13,11 @@ def funkc(a):
 
 def funkb(a):
     for j in lista:
+        nazwa = i['Nazwa']
+        if(len(nazwa)) > 25:
+           nazwa = ''.join([nazwa[:25], ' ...'])
         if(j == i['ID'] and os.path.isfile(''.join(["/home/dearn/zdjecia/",i['ID'],".jpg"]))):
-                    f2.write(''.join(["\n\\pbox{0.5\\textwidth}\n{Index: \\textbf{", i['ID'], "}\\\\\n", i['Nazwa'],"\\\\\nCena: ", i['CenaN']," netto / ", i['Cena'], " brutto\\\\\n  \\includegraphics[height=200px]{/home/dearn/zdjecia/", i['ID'], ".jpg}}\\newline\\newline\n"]))
+                    f2.write(''.join(["\n\\pbox{0.5\\textwidth}\n{Index: \\textbf{", i['ID'], "}\\\\\n", nazwa,"\\\\\nCena: ", i['CenaN']," netto / ", i['Cena'], " brutto\\\\\n  \\includegraphics[height=150px]{/home/dearn/zdjecia/", i['ID'], ".jpg}}\\newline\\newline\n"]))
         
         
 for i in c1:
