@@ -9,8 +9,10 @@ lista = ["00054", "00058", "00107", "00106", "00108", "00112", "00122", "00204",
 def funkc(a):
     if(os.path.isfile(''.join(["/home/dearn/zdjecia/",i['ID'],".jpg"]))):
         # print(''.join([i['ID'], " ", i['Nazwa'], i['Cena']]))
-        f2.write(''.join(["\n\\pbox{0.5\\textwidth}\n{Index: \\textbf{", i['ID'], "}\\\\\n", i['Nazwa'],"\\\\\nCena: ", i['Cena'],"\\\\\n  \\includegraphics[height=150px,width=250px]{/home/dearn/zdjecia/", i['ID'], ".jpg}}\\newline\n\\newline\n"]))
-
+        nazwa = i['Nazwa']
+        if(len(nazwa)) > 25:
+           nazwa = ''.join([nazwa[:25], ' ...'])
+        f2.write(''.join(["\n\\pbox{0.5\\textwidth}\n{Index: \\textbf{", i['ID'], "}\\\\\n", nazwa,"\\\\\nCena: ", i['CenaN']," netto / ", i['Cena'], " brutto\\\\\n  \\includegraphics[height=150px]{/home/dearn/zdjecia/", i['ID'], ".jpg}}\\newline\\newline\n"]))
 def funkb(a):
     for j in lista:
         nazwa = i['Nazwa']
@@ -23,7 +25,7 @@ def funkb(a):
 for i in c1:
  # if(os.path.isfile('/home/dearn/zdjecia'.join([i['ID'],".jpg"]))):
     # print(''.join([i['ID'], " duzo kosztuje czyli ", i['Cena']]))
-    funkb(c1)
+    funkc(c1)
               
 
 
