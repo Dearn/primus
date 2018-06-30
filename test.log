@@ -1,14 +1,18 @@
+<<<<<<< HEAD
 This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Arch Linux) (preloaded format=pdflatex 2018.3.7)  5 JUN 2018 11:16
+=======
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2018.4.12)  4 JUN 2018 20:19
+>>>>>>> 7d09c91c24aa520f4afd78b5e6c773a89d0f2f83
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**test.tex
+**./test.tex
 (./test.tex
 LaTeX2e <2017-04-15>
 Babel <3.18> and hyphenation patterns for 84 language(s) loaded.
-(/usr/share/texmf-dist/tex/latex/base/article.cls
+(/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
-(/usr/share/texmf-dist/tex/latex/base/size10.clo
+(/usr/share/texlive/texmf-dist/tex/latex/base/size10.clo
 File: size10.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
 )
 \c@part=\count79
@@ -23,7 +27,7 @@ File: size10.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
 \belowcaptionskip=\skip42
 \bibindent=\dimen102
 )
-(/usr/share/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+(/usr/share/texlive/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
 Package: fancyhdr 2017/06/30 v3.9a Extensive control of page headers and footer
 s
 \f@nch@headwidth=\skip43
@@ -36,31 +40,31 @@ s
 \f@nch@O@olf=\skip50
 \f@nch@O@orf=\skip51
 )
-(/usr/share/texmf-dist/tex/latex/graphics/graphicx.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
 Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
 
-(/usr/share/texmf-dist/tex/latex/graphics/keyval.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
 \KV@toks@=\toks14
 )
-(/usr/share/texmf-dist/tex/latex/graphics/graphics.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
 Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
 
-(/usr/share/texmf-dist/tex/latex/graphics/trig.sty
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
 Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
 )
-(/usr/share/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
 Package graphics Info: Driver file: pdftex.def on input line 99.
 
-(/usr/share/texmf-dist/tex/latex/graphics-def/pdftex.def
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-def/pdftex.def
 File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
 ))
 \Gin@req@height=\dimen103
 \Gin@req@width=\dimen104
 )
-(/usr/share/texmf-dist/tex/latex/wrapfig/wrapfig.sty
+(/usr/share/texlive/texmf-dist/tex/latex/wrapfig/wrapfig.sty
 \wrapoverhang=\dimen105
 \WF@size=\dimen106
 \c@WF@wrappedlines=\count87
@@ -68,7 +72,7 @@ File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
 \WF@everypar=\toks15
 Package: wrapfig 2003/01/31  v 3.6
 )
-(/usr/share/texmf-dist/tex/latex/tools/multicol.sty
+(/usr/share/texlive/texmf-dist/tex/latex/tools/multicol.sty
 Package: multicol 2017/04/11 v1.8q multicolumn formatting (FMi)
 \c@tracingmulticols=\count88
 \mult@box=\box27
@@ -117,14 +121,14 @@ Package: multicol 2017/04/11 v1.8q multicolumn formatting (FMi)
 \colbreak@box=\box52
 \mc@col@check@num=\count96
 )
-(/usr/share/texmf-dist/tex/latex/lipsum/lipsum.sty
+(/usr/share/texlive/texmf-dist/tex/latex/lipsum/lipsum.sty
 Package: lipsum 2014/07/27 v1.3 150 paragraphs of Lorem Ipsum dummy text
 \c@lips@count=\count97
 )
-(/usr/share/texmf-dist/tex/latex/pbox/pbox.sty
+(/usr/share/texlive/texmf-dist/tex/latex/pbox/pbox.sty
 Package: pbox 2011/12/07 v1.2 Dynamic parboxes
 
-(/usr/share/texmf-dist/tex/latex/tools/calc.sty
+(/usr/share/texlive/texmf-dist/tex/latex/tools/calc.sty
 Package: calc 2014/10/28 v4.3 Infix arithmetic (KKT,FJ)
 \calc@Acount=\count98
 \calc@Bcount=\count99
@@ -137,33 +141,33 @@ LaTeX Info: Redefining \addtolength on input line 81.
 \calc@Ccount=\count100
 \calc@Cskip=\skip56
 )
-(/usr/share/texmf-dist/tex/latex/base/ifthen.sty
+(/usr/share/texlive/texmf-dist/tex/latex/base/ifthen.sty
 Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
 )
 \pb@xlen=\skip57
 )
-(/usr/share/texmf-dist/tex/latex/adjustbox/adjustbox.sty
+(/usr/share/texlive/texmf-dist/tex/latex/adjustbox/adjustbox.sty
 Package: adjustbox 2012/05/21 v1.0 Adjusting TeX boxes (trim, clip, ...)
 
-(/usr/share/texmf-dist/tex/latex/xkeyval/xkeyval.sty
+(/usr/share/texlive/texmf-dist/tex/latex/xkeyval/xkeyval.sty
 Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
 
-(/usr/share/texmf-dist/tex/generic/xkeyval/xkeyval.tex
-(/usr/share/texmf-dist/tex/generic/xkeyval/xkvutils.tex
+(/usr/share/texlive/texmf-dist/tex/generic/xkeyval/xkeyval.tex
+(/usr/share/texlive/texmf-dist/tex/generic/xkeyval/xkvutils.tex
 \XKV@toks=\toks16
 \XKV@tempa@toks=\toks17
 )
 \XKV@depth=\count101
 File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
 ))
-(/usr/share/texmf-dist/tex/latex/adjustbox/adjcalc.sty
+(/usr/share/texlive/texmf-dist/tex/latex/adjustbox/adjcalc.sty
 Package: adjcalc 2012/05/16 v1.1 Provides advanced setlength with multiple back
 -ends (calc, etex, pgfmath)
 )
-(/usr/share/texmf-dist/tex/latex/adjustbox/trimclip.sty
+(/usr/share/texlive/texmf-dist/tex/latex/adjustbox/trimclip.sty
 Package: trimclip 2012/05/16 v1.0 Trim and clip general TeX material
 
-(/usr/share/texmf-dist/tex/latex/collectbox/collectbox.sty
+(/usr/share/texlive/texmf-dist/tex/latex/collectbox/collectbox.sty
 Package: collectbox 2012/05/17 v0.4b Collect macro arguments as boxes
 \collectedbox=\box53
 )
@@ -173,7 +177,7 @@ Package: collectbox 2012/05/17 v0.4b Collect macro arguments as boxes
 \tc@ury=\dimen121
 Package trimclip Info: Using driver 'tc-pdftex.def'.
 
-(/usr/share/texmf-dist/tex/latex/adjustbox/tc-pdftex.def
+(/usr/share/texlive/texmf-dist/tex/latex/adjustbox/tc-pdftex.def
 File: tc-pdftex.def 2012/05/13 v1.0 Clipping driver for pdftex
 ))
 \adjbox@Width=\dimen122
@@ -181,28 +185,28 @@ File: tc-pdftex.def 2012/05/13 v1.0 Clipping driver for pdftex
 \adjbox@Depth=\dimen124
 \adjbox@Totalheight=\dimen125
 
-(/usr/share/texmf-dist/tex/latex/ifoddpage/ifoddpage.sty
+(/usr/share/texlive/texmf-dist/tex/latex/ifoddpage/ifoddpage.sty
 Package: ifoddpage 2016/04/23 v1.1 Conditionals for odd/even page detection
 \c@checkoddpage=\count102
 )
-(/usr/share/texmf-dist/tex/latex/varwidth/varwidth.sty
+(/usr/share/texlive/texmf-dist/tex/latex/varwidth/varwidth.sty
 Package: varwidth 2009/03/30 ver 0.92;  Variable-width minipages
 \@vwid@box=\box54
 \sift@deathcycles=\count103
 \@vwid@loff=\dimen126
 \@vwid@roff=\dimen127
 ))
-(/usr/share/texmf-dist/tex/latex/geometry/geometry.sty
+(/usr/share/texlive/texmf-dist/tex/latex/geometry/geometry.sty
 Package: geometry 2010/09/12 v5.6 Page Geometry
 
-(/usr/share/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifpdf.sty
 Package: ifpdf 2017/03/15 v3.2 Provides the ifpdf switch
 )
-(/usr/share/texmf-dist/tex/generic/oberdiek/ifvtex.sty
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifvtex.sty
 Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
 Package ifvtex Info: VTeX not detected.
 )
-(/usr/share/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+(/usr/share/texlive/texmf-dist/tex/generic/ifxetex/ifxetex.sty
 Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 )
 \Gm@cnth=\count104
@@ -218,17 +222,17 @@ Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 \Gm@layoutvoffset=\dimen135
 \Gm@dimlist=\toks18
 )
-(/usr/share/texmf-dist/tex/latex/polski/polski.sty
+(/usr/share/texlive/texmf-dist/tex/latex/polski/polski.sty
 Package: polski 2017/05/04 v1.3.4 Polish language package
 
    Switching to Polish text encoding and Polish maths fonts.
-(/usr/share/texmf-dist/tex/latex/base/ot4enc.def
+(/usr/share/texlive/texmf-dist/tex/latex/base/ot4enc.def
 File: ot4enc.def 2017/04/05 v2.0i Standard LaTeX file
 )
 LaTeX Font Info:    Try loading font information for OT4+cmr on input line 360.
 
 
-(/usr/share/texmf-dist/tex/latex/polski/ot4cmr.fd
+(/usr/share/texlive/texmf-dist/tex/latex/polski/ot4cmr.fd
 File: ot4cmr.fd 2008/02/24 v1.2.1 Font defs for fonts PL (MW)
 )
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
@@ -263,21 +267,21 @@ LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
 LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
 (Font)                  OMS/cmsy/b/n --> OMS/plsy/b/n on input line 360.
 )
-(/usr/share/texmf-dist/tex/generic/babel/babel.sty
+(/usr/share/texlive/texmf-dist/tex/generic/babel/babel.sty
 Package: babel 2018/02/14 3.18 The Babel package
 
-(/usr/share/texmf-dist/tex/generic/babel/switch.def
+(/usr/share/texlive/texmf-dist/tex/generic/babel/switch.def
 File: switch.def 2018/02/14 3.18 Babel switching mechanism
 )
-(/usr/share/texmf-dist/tex/generic/babel-polish/polish.ldf
+(/usr/share/texlive/texmf-dist/tex/generic/babel-polish/polish.ldf
 Language: polish 2005/03/31 v1.2l Polish support from the babel system
 
-(/usr/share/texmf-dist/tex/generic/babel/babel.def
+(/usr/share/texlive/texmf-dist/tex/generic/babel/babel.def
 File: babel.def 2018/02/14 3.18 Babel common definitions
 \babel@savecnt=\count107
 \U@D=\dimen136
 
-(/usr/share/texmf-dist/tex/generic/babel/txtbabel.def)
+(/usr/share/texlive/texmf-dist/tex/generic/babel/txtbabel.def)
 \bbl@dirlevel=\count108
 )
 Package babel Info: Making " an active character on input line 83.
@@ -286,19 +290,19 @@ Package babel Info: Making " an active character on input line 83.
 \pl@right=\dimen139
 \pl@temp=\dimen140
 ))
-(/usr/share/texmf-dist/tex/latex/base/inputenc.sty
+(/usr/share/texlive/texmf-dist/tex/latex/base/inputenc.sty
 Package: inputenc 2015/03/17 v1.2c Input encoding file
 \inpenc@prehook=\toks19
 \inpenc@posthook=\toks20
 
-(/usr/share/texmf-dist/tex/latex/base/utf8.def
+(/usr/share/texlive/texmf-dist/tex/latex/base/utf8.def
 File: utf8.def 2017/01/28 v1.1t UTF-8 support for inputenc
 Now handling font encoding OML ...
 ... no UTF-8 mapping file for font encoding OML
 Now handling font encoding T1 ...
 ... processing UTF-8 mapping file for font encoding T1
 
-(/usr/share/texmf-dist/tex/latex/base/t1enc.dfu
+(/usr/share/texlive/texmf-dist/tex/latex/base/t1enc.dfu
 File: t1enc.dfu 2017/01/28 v1.1t UTF-8 support for inputenc
    defining Unicode char U+00A0 (decimal 160)
    defining Unicode char U+00A1 (decimal 161)
@@ -539,7 +543,7 @@ File: t1enc.dfu 2017/01/28 v1.1t UTF-8 support for inputenc
 Now handling font encoding OT1 ...
 ... processing UTF-8 mapping file for font encoding OT1
 
-(/usr/share/texmf-dist/tex/latex/base/ot1enc.dfu
+(/usr/share/texlive/texmf-dist/tex/latex/base/ot1enc.dfu
 File: ot1enc.dfu 2017/01/28 v1.1t UTF-8 support for inputenc
    defining Unicode char U+00A0 (decimal 160)
    defining Unicode char U+00A1 (decimal 161)
@@ -580,7 +584,7 @@ File: ot1enc.dfu 2017/01/28 v1.1t UTF-8 support for inputenc
 Now handling font encoding OMS ...
 ... processing UTF-8 mapping file for font encoding OMS
 
-(/usr/share/texmf-dist/tex/latex/base/omsenc.dfu
+(/usr/share/texlive/texmf-dist/tex/latex/base/omsenc.dfu
 File: omsenc.dfu 2017/01/28 v1.1t UTF-8 support for inputenc
    defining Unicode char U+00A7 (decimal 167)
    defining Unicode char U+00B6 (decimal 182)
@@ -605,7 +609,8 @@ Now handling font encoding OT4 ...
    defining Unicode char U+2026 (decimal 8230)
    defining Unicode char U+2122 (decimal 8482)
    defining Unicode char U+2423 (decimal 9251)
-)) (./test.aux (./insider.aux))
+)) (./test.aux
+(./insider.aux))
 \openout1 = `test.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 14.
@@ -622,7 +627,8 @@ LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 14.
 LaTeX Font Info:    ... okay on input line 14.
 LaTeX Font Info:    Checking defaults for OT4/cmr/m/n on input line 14.
 LaTeX Font Info:    ... okay on input line 14.
- (/usr/share/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+
+(/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count109
 \scratchdimen=\dimen141
@@ -635,31 +641,31 @@ LaTeX Font Info:    ... okay on input line 14.
 \MPnumerator=\count113
 \makeMPintoPDFobject=\count114
 \everyMPtoPDFconversion=\toks22
-) (/usr/share/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+) (/usr/share/texlive/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
 Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
 
-(/usr/share/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/infwarerr.sty
 Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
 )
-(/usr/share/texmf-dist/tex/latex/oberdiek/grfext.sty
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/grfext.sty
 Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
 
-(/usr/share/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
 Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
 
-(/usr/share/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
 Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
 )))
-(/usr/share/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/kvoptions.sty
 Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
 
-(/usr/share/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
 Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
 
-(/usr/share/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/etexcmds.sty
 Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
 
-(/usr/share/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifluatex.sty
 Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
 Package ifluatex Info: LuaTeX not detected.
 )
@@ -668,7 +674,7 @@ Package etexcmds Info: Could not find \expanded.
 (etexcmds)             that some package has redefined \expanded.
 (etexcmds)             In the latter case, load this package earlier.
 )))
-(/usr/share/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
 Package: pdftexcmds 2018/01/21 v0.26 Utility functions of pdfTeX for LuaTeX (HO
 )
 Package pdftexcmds Info: LuaTeX not detected.
@@ -683,7 +689,7 @@ Package grfext Info: Graphics extension search list:
 G,.JBIG2,.JB2,.eps]
 (grfext)             \AppendGraphicsExtensions on input line 456.
 
-(/usr/share/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
@@ -725,17 +731,21 @@ e
 
 (./insider.tex
 LaTeX Font Info:    Try loading font information for OML+plm on input line 5.
+<<<<<<< HEAD
  (/usr/share/texmf-dist/tex/latex/polski/omlplm.fd
+=======
+ (/usr/share/texlive/texmf-dist/tex/latex/polski/omlplm.fd
+>>>>>>> 7d09c91c24aa520f4afd78b5e6c773a89d0f2f83
 File: omlplm.fd 2008/02/24 v1.2.1 Font defs for fonts PL (MW)
 )
 LaTeX Font Info:    Try loading font information for OMS+plsy on input line 5.
 
-(/usr/share/texmf-dist/tex/latex/polski/omsplsy.fd
+(/usr/share/texlive/texmf-dist/tex/latex/polski/omsplsy.fd
 File: omsplsy.fd 2008/02/24 v1.2.1 Font defs for fonts PL (MW)
 )
 LaTeX Font Info:    Try loading font information for OMX+plex on input line 5.
 
-(/usr/share/texmf-dist/tex/latex/polski/omxplex.fd
+(/usr/share/texlive/texmf-dist/tex/latex/polski/omxplex.fd
 File: omxplex.fd 2008/02/24 v1.2.1 Font defs for fonts PL (MW)
 )
 LaTeX Font Info:    External font `plex10' loaded for size
@@ -744,6 +754,7 @@ LaTeX Font Info:    External font `plex10' loaded for size
 (Font)              <7> on input line 5.
 LaTeX Font Info:    External font `plex10' loaded for size
 (Font)              <5> on input line 5.
+<<<<<<< HEAD
 </home/dearn/zdjecia/9998.jpg, id=1, 602.25pt x 494.59781pt>
 File: /home/dearn/zdjecia/9998.jpg Graphic file (type jpg)
 <use /home/dearn/zdjecia/9998.jpg>
@@ -753,6 +764,18 @@ File: /home/dearn/zdjecia/9998.jpg Graphic file (type jpg)
 <use /home/dearn/zdjecia/9998.jpg>
 Package pdftex.def Info: /home/dearn/zdjecia/9998.jpg  used on input line 5.
 (pdftex.def)             Requested size: 183.33217pt x 150.56305pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 5--5
+=======
+</home/dearn/zdjecia/9999.jpg, id=1, 399.4925pt x 650.43pt>
+File: /home/dearn/zdjecia/9999.jpg Graphic file (type jpg)
+<use /home/dearn/zdjecia/9999.jpg>
+Package pdftex.def Info: /home/dearn/zdjecia/9999.jpg  used on input line 5.
+(pdftex.def)             Requested size: 92.47263pt x 150.56305pt.
+File: /home/dearn/zdjecia/9999.jpg Graphic file (type jpg)
+<use /home/dearn/zdjecia/9999.jpg>
+Package pdftex.def Info: /home/dearn/zdjecia/9999.jpg  used on input line 5.
+(pdftex.def)             Requested size: 92.47263pt x 150.56305pt.
 
 Underfull \hbox (badness 10000) in paragraph at lines 5--5
 
@@ -768,6 +791,36 @@ Underfull \hbox (badness 10000) in paragraph at lines 5--6
 
  []
 
+</home/dearn/zdjecia/9998.jpg, id=2, 602.25pt x 494.59781pt>
+File: /home/dearn/zdjecia/9998.jpg Graphic file (type jpg)
+<use /home/dearn/zdjecia/9998.jpg>
+Package pdftex.def Info: /home/dearn/zdjecia/9998.jpg  used on input line 10.
+(pdftex.def)             Requested size: 183.33217pt x 150.56305pt.
+File: /home/dearn/zdjecia/9998.jpg Graphic file (type jpg)
+<use /home/dearn/zdjecia/9998.jpg>
+Package pdftex.def Info: /home/dearn/zdjecia/9998.jpg  used on input line 10.
+(pdftex.def)             Requested size: 183.33217pt x 150.56305pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 10--10
+>>>>>>> 7d09c91c24aa520f4afd78b5e6c773a89d0f2f83
+
+ []
+
+
+<<<<<<< HEAD
+Underfull \hbox (badness 10000) in paragraph at lines 5--6
+=======
+Underfull \hbox (badness 10000) in paragraph at lines 10--11
+>>>>>>> 7d09c91c24aa520f4afd78b5e6c773a89d0f2f83
+
+ []
+
+
+<<<<<<< HEAD
+Underfull \hbox (badness 10000) in paragraph at lines 5--6
+
+ []
+
 </home/dearn/zdjecia/9997.jpg, id=2, 602.25pt x 465.23813pt>
 File: /home/dearn/zdjecia/9997.jpg Graphic file (type jpg)
 <use /home/dearn/zdjecia/9997.jpg>
@@ -779,15 +832,37 @@ Package pdftex.def Info: /home/dearn/zdjecia/9997.jpg  used on input line 10.
 (pdftex.def)             Requested size: 194.90186pt x 150.56305pt.
 
 Underfull \hbox (badness 10000) in paragraph at lines 10--10
-
- []
-
-
+=======
 Underfull \hbox (badness 10000) in paragraph at lines 10--11
 
  []
 
+</home/dearn/zdjecia/9997.jpg, id=3, 602.25pt x 465.23813pt>
+File: /home/dearn/zdjecia/9997.jpg Graphic file (type jpg)
+<use /home/dearn/zdjecia/9997.jpg>
+Package pdftex.def Info: /home/dearn/zdjecia/9997.jpg  used on input line 15.
+(pdftex.def)             Requested size: 194.90186pt x 150.56305pt.
+File: /home/dearn/zdjecia/9997.jpg Graphic file (type jpg)
+<use /home/dearn/zdjecia/9997.jpg>
+Package pdftex.def Info: /home/dearn/zdjecia/9997.jpg  used on input line 15.
+(pdftex.def)             Requested size: 194.90186pt x 150.56305pt.
 
+Underfull \hbox (badness 10000) in paragraph at lines 15--15
+>>>>>>> 7d09c91c24aa520f4afd78b5e6c773a89d0f2f83
+
+ []
+
+
+<<<<<<< HEAD
+Underfull \hbox (badness 10000) in paragraph at lines 10--11
+=======
+Underfull \hbox (badness 10000) in paragraph at lines 15--16
+>>>>>>> 7d09c91c24aa520f4afd78b5e6c773a89d0f2f83
+
+ []
+
+
+<<<<<<< HEAD
 Underfull \hbox (badness 10000) in paragraph at lines 10--11
 
  []
@@ -803,15 +878,37 @@ Package pdftex.def Info: /home/dearn/zdjecia/9996.jpg  used on input line 15.
 (pdftex.def)             Requested size: 175.07074pt x 150.56305pt.
 
 Underfull \hbox (badness 10000) in paragraph at lines 15--15
-
- []
-
-
+=======
 Underfull \hbox (badness 10000) in paragraph at lines 15--16
 
  []
 
+</home/dearn/zdjecia/9996.jpg, id=4, 602.25pt x 517.935pt>
+File: /home/dearn/zdjecia/9996.jpg Graphic file (type jpg)
+<use /home/dearn/zdjecia/9996.jpg>
+Package pdftex.def Info: /home/dearn/zdjecia/9996.jpg  used on input line 20.
+(pdftex.def)             Requested size: 175.07074pt x 150.56305pt.
+File: /home/dearn/zdjecia/9996.jpg Graphic file (type jpg)
+<use /home/dearn/zdjecia/9996.jpg>
+Package pdftex.def Info: /home/dearn/zdjecia/9996.jpg  used on input line 20.
+(pdftex.def)             Requested size: 175.07074pt x 150.56305pt.
 
+Underfull \hbox (badness 10000) in paragraph at lines 20--20
+>>>>>>> 7d09c91c24aa520f4afd78b5e6c773a89d0f2f83
+
+ []
+
+
+<<<<<<< HEAD
+Underfull \hbox (badness 10000) in paragraph at lines 15--16
+=======
+Underfull \hbox (badness 10000) in paragraph at lines 20--21
+>>>>>>> 7d09c91c24aa520f4afd78b5e6c773a89d0f2f83
+
+ []
+
+
+<<<<<<< HEAD
 Underfull \hbox (badness 10000) in paragraph at lines 15--16
 
  []
@@ -827,15 +924,37 @@ Package pdftex.def Info: /home/dearn/zdjecia/9995.jpg  used on input line 20.
 (pdftex.def)             Requested size: 150.56213pt x 150.56305pt.
 
 Underfull \hbox (badness 10000) in paragraph at lines 20--20
-
- []
-
-
+=======
 Underfull \hbox (badness 10000) in paragraph at lines 20--21
 
  []
 
+</home/dearn/zdjecia/9995.jpg, id=5, 803.0pt x 803.0pt>
+File: /home/dearn/zdjecia/9995.jpg Graphic file (type jpg)
+<use /home/dearn/zdjecia/9995.jpg>
+Package pdftex.def Info: /home/dearn/zdjecia/9995.jpg  used on input line 25.
+(pdftex.def)             Requested size: 150.56213pt x 150.56305pt.
+File: /home/dearn/zdjecia/9995.jpg Graphic file (type jpg)
+<use /home/dearn/zdjecia/9995.jpg>
+Package pdftex.def Info: /home/dearn/zdjecia/9995.jpg  used on input line 25.
+(pdftex.def)             Requested size: 150.56213pt x 150.56305pt.
 
+Underfull \hbox (badness 10000) in paragraph at lines 25--25
+>>>>>>> 7d09c91c24aa520f4afd78b5e6c773a89d0f2f83
+
+ []
+
+
+<<<<<<< HEAD
+Underfull \hbox (badness 10000) in paragraph at lines 20--21
+=======
+Underfull \hbox (badness 10000) in paragraph at lines 25--26
+>>>>>>> 7d09c91c24aa520f4afd78b5e6c773a89d0f2f83
+
+ []
+
+
+<<<<<<< HEAD
 Underfull \hbox (badness 10000) in paragraph at lines 20--21
 
  []
@@ -851,15 +970,37 @@ Package pdftex.def Info: /home/dearn/zdjecia/9994.jpg  used on input line 25.
 (pdftex.def)             Requested size: 250.93689pt x 150.56305pt.
 
 Underfull \hbox (badness 10000) in paragraph at lines 25--25
-
- []
-
-
+=======
 Underfull \hbox (badness 10000) in paragraph at lines 25--26
 
  []
 
+</home/dearn/zdjecia/9994.jpg, id=6, 803.0pt x 481.8pt>
+File: /home/dearn/zdjecia/9994.jpg Graphic file (type jpg)
+<use /home/dearn/zdjecia/9994.jpg>
+Package pdftex.def Info: /home/dearn/zdjecia/9994.jpg  used on input line 30.
+(pdftex.def)             Requested size: 250.93689pt x 150.56305pt.
+File: /home/dearn/zdjecia/9994.jpg Graphic file (type jpg)
+<use /home/dearn/zdjecia/9994.jpg>
+Package pdftex.def Info: /home/dearn/zdjecia/9994.jpg  used on input line 30.
+(pdftex.def)             Requested size: 250.93689pt x 150.56305pt.
 
+Underfull \hbox (badness 10000) in paragraph at lines 30--30
+>>>>>>> 7d09c91c24aa520f4afd78b5e6c773a89d0f2f83
+
+ []
+
+
+<<<<<<< HEAD
+Underfull \hbox (badness 10000) in paragraph at lines 25--26
+=======
+Underfull \hbox (badness 10000) in paragraph at lines 30--31
+>>>>>>> 7d09c91c24aa520f4afd78b5e6c773a89d0f2f83
+
+ []
+
+
+<<<<<<< HEAD
 Underfull \hbox (badness 10000) in paragraph at lines 25--26
 
  []
@@ -875,15 +1016,37 @@ Package pdftex.def Info: /home/dearn/zdjecia/9993.jpg  used on input line 30.
 (pdftex.def)             Requested size: 237.5691pt x 150.56305pt.
 
 Underfull \hbox (badness 10000) in paragraph at lines 30--30
-
- []
-
-
+=======
 Underfull \hbox (badness 10000) in paragraph at lines 30--31
 
  []
 
+</home/dearn/zdjecia/9993.jpg, id=7, 803.0pt x 508.90125pt>
+File: /home/dearn/zdjecia/9993.jpg Graphic file (type jpg)
+<use /home/dearn/zdjecia/9993.jpg>
+Package pdftex.def Info: /home/dearn/zdjecia/9993.jpg  used on input line 35.
+(pdftex.def)             Requested size: 237.5691pt x 150.56305pt.
+File: /home/dearn/zdjecia/9993.jpg Graphic file (type jpg)
+<use /home/dearn/zdjecia/9993.jpg>
+Package pdftex.def Info: /home/dearn/zdjecia/9993.jpg  used on input line 35.
+(pdftex.def)             Requested size: 237.5691pt x 150.56305pt.
 
+Underfull \hbox (badness 10000) in paragraph at lines 35--35
+>>>>>>> 7d09c91c24aa520f4afd78b5e6c773a89d0f2f83
+
+ []
+
+
+<<<<<<< HEAD
+Underfull \hbox (badness 10000) in paragraph at lines 30--31
+=======
+Underfull \hbox (badness 10000) in paragraph at lines 35--36
+>>>>>>> 7d09c91c24aa520f4afd78b5e6c773a89d0f2f83
+
+ []
+
+
+<<<<<<< HEAD
 Underfull \hbox (badness 10000) in paragraph at lines 30--31
 
  []
@@ -899,15 +1062,37 @@ Package pdftex.def Info: /home/dearn/zdjecia/9992.jpg  used on input line 35.
 (pdftex.def)             Requested size: 246.31758pt x 150.56305pt.
 
 Underfull \hbox (badness 10000) in paragraph at lines 35--35
-
- []
-
-
+=======
 Underfull \hbox (badness 10000) in paragraph at lines 35--36
 
  []
 
+</home/dearn/zdjecia/9992.jpg, id=8, 803.0pt x 490.83376pt>
+File: /home/dearn/zdjecia/9992.jpg Graphic file (type jpg)
+<use /home/dearn/zdjecia/9992.jpg>
+Package pdftex.def Info: /home/dearn/zdjecia/9992.jpg  used on input line 40.
+(pdftex.def)             Requested size: 246.31758pt x 150.56305pt.
+File: /home/dearn/zdjecia/9992.jpg Graphic file (type jpg)
+<use /home/dearn/zdjecia/9992.jpg>
+Package pdftex.def Info: /home/dearn/zdjecia/9992.jpg  used on input line 40.
+(pdftex.def)             Requested size: 246.31758pt x 150.56305pt.
 
+Underfull \hbox (badness 10000) in paragraph at lines 40--40
+>>>>>>> 7d09c91c24aa520f4afd78b5e6c773a89d0f2f83
+
+ []
+
+
+<<<<<<< HEAD
+Underfull \hbox (badness 10000) in paragraph at lines 35--36
+=======
+Underfull \hbox (badness 10000) in paragraph at lines 40--41
+>>>>>>> 7d09c91c24aa520f4afd78b5e6c773a89d0f2f83
+
+ []
+
+
+<<<<<<< HEAD
 Underfull \hbox (badness 10000) in paragraph at lines 35--36
 
  []
@@ -923,15 +1108,47 @@ Package pdftex.def Info: /home/dearn/zdjecia/9991.jpg  used on input line 40.
 (pdftex.def)             Requested size: 112.41695pt x 150.56305pt.
 
 Underfull \hbox (badness 10000) in paragraph at lines 40--40
-
- []
-
-
+=======
 Underfull \hbox (badness 10000) in paragraph at lines 40--41
 
  []
 
+<./logo.jpg, id=9, 471.7625pt x 248.93pt>
+File: ./logo.jpg Graphic file (type jpg)
+<use ./logo.jpg>
+Package pdftex.def Info: ./logo.jpg  used on input line 41.
+(pdftex.def)             Requested size: 57.06256pt x 30.11261pt.
+[1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}
 
+ <./logo.jpg> </home/dearn/zdjecia/9999.jpg> </home/dearn/zdjecia/9998.jpg> </h
+ome/dearn/zdjecia/9997.jpg> </home/dearn/zdjecia/9996.jpg> </home/dearn/zdjecia
+/9995.jpg> </home/dearn/zdjecia/9994.jpg>]
+</home/dearn/zdjecia/9991.jpg, id=17, 221.82875pt x 297.11pt>
+File: /home/dearn/zdjecia/9991.jpg Graphic file (type jpg)
+<use /home/dearn/zdjecia/9991.jpg>
+Package pdftex.def Info: /home/dearn/zdjecia/9991.jpg  used on input line 45.
+(pdftex.def)             Requested size: 112.41695pt x 150.56305pt.
+File: /home/dearn/zdjecia/9991.jpg Graphic file (type jpg)
+<use /home/dearn/zdjecia/9991.jpg>
+Package pdftex.def Info: /home/dearn/zdjecia/9991.jpg  used on input line 45.
+(pdftex.def)             Requested size: 112.41695pt x 150.56305pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 45--45
+>>>>>>> 7d09c91c24aa520f4afd78b5e6c773a89d0f2f83
+
+ []
+
+
+<<<<<<< HEAD
+Underfull \hbox (badness 10000) in paragraph at lines 40--41
+=======
+Underfull \hbox (badness 10000) in paragraph at lines 45--46
+>>>>>>> 7d09c91c24aa520f4afd78b5e6c773a89d0f2f83
+
+ []
+
+
+<<<<<<< HEAD
 Underfull \hbox (badness 10000) in paragraph at lines 40--41
 
  []
@@ -957,15 +1174,37 @@ Package pdftex.def Info: /home/dearn/zdjecia/9990.jpg  used on input line 45.
 (pdftex.def)             Requested size: 140.84874pt x 150.56305pt.
 
 Underfull \hbox (badness 10000) in paragraph at lines 45--45
-
- []
-
-
+=======
 Underfull \hbox (badness 10000) in paragraph at lines 45--46
 
  []
 
+</home/dearn/zdjecia/9990.jpg, id=18, 903.375pt x 965.6075pt>
+File: /home/dearn/zdjecia/9990.jpg Graphic file (type jpg)
+<use /home/dearn/zdjecia/9990.jpg>
+Package pdftex.def Info: /home/dearn/zdjecia/9990.jpg  used on input line 50.
+(pdftex.def)             Requested size: 140.84874pt x 150.56305pt.
+File: /home/dearn/zdjecia/9990.jpg Graphic file (type jpg)
+<use /home/dearn/zdjecia/9990.jpg>
+Package pdftex.def Info: /home/dearn/zdjecia/9990.jpg  used on input line 50.
+(pdftex.def)             Requested size: 140.84874pt x 150.56305pt.
 
+Underfull \hbox (badness 10000) in paragraph at lines 50--50
+>>>>>>> 7d09c91c24aa520f4afd78b5e6c773a89d0f2f83
+
+ []
+
+
+<<<<<<< HEAD
+Underfull \hbox (badness 10000) in paragraph at lines 45--46
+=======
+Underfull \hbox (badness 10000) in paragraph at lines 50--51
+>>>>>>> 7d09c91c24aa520f4afd78b5e6c773a89d0f2f83
+
+ []
+
+
+<<<<<<< HEAD
 Underfull \hbox (badness 10000) in paragraph at lines 45--46
 
  []
@@ -981,15 +1220,37 @@ Package pdftex.def Info: /home/dearn/zdjecia/9989.jpg  used on input line 50.
 (pdftex.def)             Requested size: 112.41695pt x 150.56305pt.
 
 Underfull \hbox (badness 10000) in paragraph at lines 50--50
-
- []
-
-
+=======
 Underfull \hbox (badness 10000) in paragraph at lines 50--51
 
  []
 
+</home/dearn/zdjecia/9989.jpg, id=19, 221.82875pt x 297.11pt>
+File: /home/dearn/zdjecia/9989.jpg Graphic file (type jpg)
+<use /home/dearn/zdjecia/9989.jpg>
+Package pdftex.def Info: /home/dearn/zdjecia/9989.jpg  used on input line 55.
+(pdftex.def)             Requested size: 112.41695pt x 150.56305pt.
+File: /home/dearn/zdjecia/9989.jpg Graphic file (type jpg)
+<use /home/dearn/zdjecia/9989.jpg>
+Package pdftex.def Info: /home/dearn/zdjecia/9989.jpg  used on input line 55.
+(pdftex.def)             Requested size: 112.41695pt x 150.56305pt.
 
+Underfull \hbox (badness 10000) in paragraph at lines 55--55
+>>>>>>> 7d09c91c24aa520f4afd78b5e6c773a89d0f2f83
+
+ []
+
+
+<<<<<<< HEAD
+Underfull \hbox (badness 10000) in paragraph at lines 50--51
+=======
+Underfull \hbox (badness 10000) in paragraph at lines 55--56
+>>>>>>> 7d09c91c24aa520f4afd78b5e6c773a89d0f2f83
+
+ []
+
+
+<<<<<<< HEAD
 Underfull \hbox (badness 10000) in paragraph at lines 50--51
 
  []
@@ -1005,15 +1266,37 @@ Package pdftex.def Info: /home/dearn/zdjecia/9988.jpg  used on input line 55.
 (pdftex.def)             Requested size: 112.41695pt x 150.56305pt.
 
 Underfull \hbox (badness 10000) in paragraph at lines 55--55
-
- []
-
-
+=======
 Underfull \hbox (badness 10000) in paragraph at lines 55--56
 
  []
 
+</home/dearn/zdjecia/9988.jpg, id=20, 221.82875pt x 297.11pt>
+File: /home/dearn/zdjecia/9988.jpg Graphic file (type jpg)
+<use /home/dearn/zdjecia/9988.jpg>
+Package pdftex.def Info: /home/dearn/zdjecia/9988.jpg  used on input line 60.
+(pdftex.def)             Requested size: 112.41695pt x 150.56305pt.
+File: /home/dearn/zdjecia/9988.jpg Graphic file (type jpg)
+<use /home/dearn/zdjecia/9988.jpg>
+Package pdftex.def Info: /home/dearn/zdjecia/9988.jpg  used on input line 60.
+(pdftex.def)             Requested size: 112.41695pt x 150.56305pt.
 
+Underfull \hbox (badness 10000) in paragraph at lines 60--60
+>>>>>>> 7d09c91c24aa520f4afd78b5e6c773a89d0f2f83
+
+ []
+
+
+<<<<<<< HEAD
+Underfull \hbox (badness 10000) in paragraph at lines 55--56
+=======
+Underfull \hbox (badness 10000) in paragraph at lines 60--61
+>>>>>>> 7d09c91c24aa520f4afd78b5e6c773a89d0f2f83
+
+ []
+
+
+<<<<<<< HEAD
 Underfull \hbox (badness 10000) in paragraph at lines 55--56
 
  []
@@ -1029,15 +1312,37 @@ Package pdftex.def Info: /home/dearn/zdjecia/9987.jpg  used on input line 60.
 (pdftex.def)             Requested size: 141.00095pt x 150.56305pt.
 
 Underfull \hbox (badness 10000) in paragraph at lines 60--60
-
- []
-
-
+=======
 Underfull \hbox (badness 10000) in paragraph at lines 60--61
 
  []
 
+</home/dearn/zdjecia/9987.jpg, id=21, 399.4925pt x 426.59375pt>
+File: /home/dearn/zdjecia/9987.jpg Graphic file (type jpg)
+<use /home/dearn/zdjecia/9987.jpg>
+Package pdftex.def Info: /home/dearn/zdjecia/9987.jpg  used on input line 65.
+(pdftex.def)             Requested size: 141.00095pt x 150.56305pt.
+File: /home/dearn/zdjecia/9987.jpg Graphic file (type jpg)
+<use /home/dearn/zdjecia/9987.jpg>
+Package pdftex.def Info: /home/dearn/zdjecia/9987.jpg  used on input line 65.
+(pdftex.def)             Requested size: 141.00095pt x 150.56305pt.
 
+Underfull \hbox (badness 10000) in paragraph at lines 65--65
+>>>>>>> 7d09c91c24aa520f4afd78b5e6c773a89d0f2f83
+
+ []
+
+
+<<<<<<< HEAD
+Underfull \hbox (badness 10000) in paragraph at lines 60--61
+=======
+Underfull \hbox (badness 10000) in paragraph at lines 65--66
+>>>>>>> 7d09c91c24aa520f4afd78b5e6c773a89d0f2f83
+
+ []
+
+
+<<<<<<< HEAD
 Underfull \hbox (badness 10000) in paragraph at lines 60--61
 
  []
@@ -1053,15 +1358,37 @@ Package pdftex.def Info: /home/dearn/zdjecia/9986.jpg  used on input line 65.
 (pdftex.def)             Requested size: 141.00095pt x 150.56305pt.
 
 Underfull \hbox (badness 10000) in paragraph at lines 65--65
-
- []
-
-
+=======
 Underfull \hbox (badness 10000) in paragraph at lines 65--66
 
  []
 
+</home/dearn/zdjecia/9986.jpg, id=22, 399.4925pt x 426.59375pt>
+File: /home/dearn/zdjecia/9986.jpg Graphic file (type jpg)
+<use /home/dearn/zdjecia/9986.jpg>
+Package pdftex.def Info: /home/dearn/zdjecia/9986.jpg  used on input line 70.
+(pdftex.def)             Requested size: 141.00095pt x 150.56305pt.
+File: /home/dearn/zdjecia/9986.jpg Graphic file (type jpg)
+<use /home/dearn/zdjecia/9986.jpg>
+Package pdftex.def Info: /home/dearn/zdjecia/9986.jpg  used on input line 70.
+(pdftex.def)             Requested size: 141.00095pt x 150.56305pt.
 
+Underfull \hbox (badness 10000) in paragraph at lines 70--70
+>>>>>>> 7d09c91c24aa520f4afd78b5e6c773a89d0f2f83
+
+ []
+
+
+<<<<<<< HEAD
+Underfull \hbox (badness 10000) in paragraph at lines 65--66
+=======
+Underfull \hbox (badness 10000) in paragraph at lines 70--71
+>>>>>>> 7d09c91c24aa520f4afd78b5e6c773a89d0f2f83
+
+ []
+
+
+<<<<<<< HEAD
 Underfull \hbox (badness 10000) in paragraph at lines 65--66
 
  []
@@ -1077,15 +1404,44 @@ Package pdftex.def Info: /home/dearn/zdjecia/9981.jpg  used on input line 70.
 (pdftex.def)             Requested size: 119.8825pt x 150.56305pt.
 
 Underfull \hbox (badness 10000) in paragraph at lines 70--70
-
- []
-
-
+=======
 Underfull \hbox (badness 10000) in paragraph at lines 70--71
 
  []
 
+File: ./logo.jpg Graphic file (type jpg)
+<use ./logo.jpg>
+Package pdftex.def Info: ./logo.jpg  used on input line 71.
+(pdftex.def)             Requested size: 57.06256pt x 30.11261pt.
+[2 </home/dearn/zdjecia/9993.jpg> </home/dearn/zdjecia/9992.jpg> </home/dearn/z
+djecia/9991.jpg> </home/dearn/zdjecia/9990.jpg> </home/dearn/zdjecia/9989.jpg> 
+</home/dearn/zdjecia/9988.jpg>]
+</home/dearn/zdjecia/9981.jpg, id=26, 168.63pt x 211.79124pt>
+File: /home/dearn/zdjecia/9981.jpg Graphic file (type jpg)
+<use /home/dearn/zdjecia/9981.jpg>
+Package pdftex.def Info: /home/dearn/zdjecia/9981.jpg  used on input line 75.
+(pdftex.def)             Requested size: 119.8825pt x 150.56305pt.
+File: /home/dearn/zdjecia/9981.jpg Graphic file (type jpg)
+<use /home/dearn/zdjecia/9981.jpg>
+Package pdftex.def Info: /home/dearn/zdjecia/9981.jpg  used on input line 75.
+(pdftex.def)             Requested size: 119.8825pt x 150.56305pt.
 
+Underfull \hbox (badness 10000) in paragraph at lines 75--75
+>>>>>>> 7d09c91c24aa520f4afd78b5e6c773a89d0f2f83
+
+ []
+
+
+<<<<<<< HEAD
+Underfull \hbox (badness 10000) in paragraph at lines 70--71
+=======
+Underfull \hbox (badness 10000) in paragraph at lines 75--76
+>>>>>>> 7d09c91c24aa520f4afd78b5e6c773a89d0f2f83
+
+ []
+
+
+<<<<<<< HEAD
 Underfull \hbox (badness 10000) in paragraph at lines 70--71
 
  []
@@ -1108,15 +1464,37 @@ Package pdftex.def Info: /home/dearn/zdjecia/9980.jpg  used on input line 75.
 (pdftex.def)             Requested size: 119.319pt x 150.56305pt.
 
 Underfull \hbox (badness 10000) in paragraph at lines 75--75
-
- []
-
-
+=======
 Underfull \hbox (badness 10000) in paragraph at lines 75--76
 
  []
 
+</home/dearn/zdjecia/9980.jpg, id=27, 168.63pt x 212.795pt>
+File: /home/dearn/zdjecia/9980.jpg Graphic file (type jpg)
+<use /home/dearn/zdjecia/9980.jpg>
+Package pdftex.def Info: /home/dearn/zdjecia/9980.jpg  used on input line 80.
+(pdftex.def)             Requested size: 119.319pt x 150.56305pt.
+File: /home/dearn/zdjecia/9980.jpg Graphic file (type jpg)
+<use /home/dearn/zdjecia/9980.jpg>
+Package pdftex.def Info: /home/dearn/zdjecia/9980.jpg  used on input line 80.
+(pdftex.def)             Requested size: 119.319pt x 150.56305pt.
 
+Underfull \hbox (badness 10000) in paragraph at lines 80--80
+>>>>>>> 7d09c91c24aa520f4afd78b5e6c773a89d0f2f83
+
+ []
+
+
+<<<<<<< HEAD
+Underfull \hbox (badness 10000) in paragraph at lines 75--76
+=======
+Underfull \hbox (badness 10000) in paragraph at lines 80--81
+>>>>>>> 7d09c91c24aa520f4afd78b5e6c773a89d0f2f83
+
+ []
+
+
+<<<<<<< HEAD
 Underfull \hbox (badness 10000) in paragraph at lines 75--76
 
  []
@@ -1132,15 +1510,37 @@ Package pdftex.def Info: /home/dearn/zdjecia/9979.jpg  used on input line 80.
 (pdftex.def)             Requested size: 105.09476pt x 150.56305pt.
 
 Underfull \hbox (badness 10000) in paragraph at lines 80--80
-
- []
-
-
+=======
 Underfull \hbox (badness 10000) in paragraph at lines 80--81
 
  []
 
+</home/dearn/zdjecia/9979.jpg, id=28, 262.73157pt x 376.40625pt>
+File: /home/dearn/zdjecia/9979.jpg Graphic file (type jpg)
+<use /home/dearn/zdjecia/9979.jpg>
+Package pdftex.def Info: /home/dearn/zdjecia/9979.jpg  used on input line 85.
+(pdftex.def)             Requested size: 105.09476pt x 150.56305pt.
+File: /home/dearn/zdjecia/9979.jpg Graphic file (type jpg)
+<use /home/dearn/zdjecia/9979.jpg>
+Package pdftex.def Info: /home/dearn/zdjecia/9979.jpg  used on input line 85.
+(pdftex.def)             Requested size: 105.09476pt x 150.56305pt.
 
+Underfull \hbox (badness 10000) in paragraph at lines 85--85
+>>>>>>> 7d09c91c24aa520f4afd78b5e6c773a89d0f2f83
+
+ []
+
+
+<<<<<<< HEAD
+Underfull \hbox (badness 10000) in paragraph at lines 80--81
+=======
+Underfull \hbox (badness 10000) in paragraph at lines 85--86
+>>>>>>> 7d09c91c24aa520f4afd78b5e6c773a89d0f2f83
+
+ []
+
+
+<<<<<<< HEAD
 Underfull \hbox (badness 10000) in paragraph at lines 80--81
 
  []
@@ -1156,15 +1556,37 @@ Package pdftex.def Info: /home/dearn/zdjecia/9978.jpg  used on input line 85.
 (pdftex.def)             Requested size: 119.8825pt x 150.56305pt.
 
 Underfull \hbox (badness 10000) in paragraph at lines 85--85
-
- []
-
-
+=======
 Underfull \hbox (badness 10000) in paragraph at lines 85--86
 
  []
 
+</home/dearn/zdjecia/9978.jpg, id=29, 168.63pt x 211.79124pt>
+File: /home/dearn/zdjecia/9978.jpg Graphic file (type jpg)
+<use /home/dearn/zdjecia/9978.jpg>
+Package pdftex.def Info: /home/dearn/zdjecia/9978.jpg  used on input line 90.
+(pdftex.def)             Requested size: 119.8825pt x 150.56305pt.
+File: /home/dearn/zdjecia/9978.jpg Graphic file (type jpg)
+<use /home/dearn/zdjecia/9978.jpg>
+Package pdftex.def Info: /home/dearn/zdjecia/9978.jpg  used on input line 90.
+(pdftex.def)             Requested size: 119.8825pt x 150.56305pt.
 
+Underfull \hbox (badness 10000) in paragraph at lines 90--90
+>>>>>>> 7d09c91c24aa520f4afd78b5e6c773a89d0f2f83
+
+ []
+
+
+<<<<<<< HEAD
+Underfull \hbox (badness 10000) in paragraph at lines 85--86
+=======
+Underfull \hbox (badness 10000) in paragraph at lines 90--91
+>>>>>>> 7d09c91c24aa520f4afd78b5e6c773a89d0f2f83
+
+ []
+
+
+<<<<<<< HEAD
 Underfull \hbox (badness 10000) in paragraph at lines 85--86
 
  []
@@ -1180,15 +1602,37 @@ Package pdftex.def Info: /home/dearn/zdjecia/9977.jpg  used on input line 90.
 (pdftex.def)             Requested size: 119.319pt x 150.56305pt.
 
 Underfull \hbox (badness 10000) in paragraph at lines 90--90
-
- []
-
-
+=======
 Underfull \hbox (badness 10000) in paragraph at lines 90--91
 
  []
 
+</home/dearn/zdjecia/9977.jpg, id=30, 168.63pt x 212.795pt>
+File: /home/dearn/zdjecia/9977.jpg Graphic file (type jpg)
+<use /home/dearn/zdjecia/9977.jpg>
+Package pdftex.def Info: /home/dearn/zdjecia/9977.jpg  used on input line 95.
+(pdftex.def)             Requested size: 119.319pt x 150.56305pt.
+File: /home/dearn/zdjecia/9977.jpg Graphic file (type jpg)
+<use /home/dearn/zdjecia/9977.jpg>
+Package pdftex.def Info: /home/dearn/zdjecia/9977.jpg  used on input line 95.
+(pdftex.def)             Requested size: 119.319pt x 150.56305pt.
 
+Underfull \hbox (badness 10000) in paragraph at lines 95--95
+>>>>>>> 7d09c91c24aa520f4afd78b5e6c773a89d0f2f83
+
+ []
+
+
+<<<<<<< HEAD
+Underfull \hbox (badness 10000) in paragraph at lines 90--91
+=======
+Underfull \hbox (badness 10000) in paragraph at lines 95--96
+>>>>>>> 7d09c91c24aa520f4afd78b5e6c773a89d0f2f83
+
+ []
+
+
+<<<<<<< HEAD
 Underfull \hbox (badness 10000) in paragraph at lines 90--91
 
  []
@@ -1204,15 +1648,37 @@ Package pdftex.def Info: /home/dearn/zdjecia/9976.jpg  used on input line 95.
 (pdftex.def)             Requested size: 119.8825pt x 150.56305pt.
 
 Underfull \hbox (badness 10000) in paragraph at lines 95--95
-
- []
-
-
+=======
 Underfull \hbox (badness 10000) in paragraph at lines 95--96
 
  []
 
+</home/dearn/zdjecia/9976.jpg, id=31, 168.63pt x 211.79124pt>
+File: /home/dearn/zdjecia/9976.jpg Graphic file (type jpg)
+<use /home/dearn/zdjecia/9976.jpg>
+Package pdftex.def Info: /home/dearn/zdjecia/9976.jpg  used on input line 100.
+(pdftex.def)             Requested size: 119.8825pt x 150.56305pt.
+File: /home/dearn/zdjecia/9976.jpg Graphic file (type jpg)
+<use /home/dearn/zdjecia/9976.jpg>
+Package pdftex.def Info: /home/dearn/zdjecia/9976.jpg  used on input line 100.
+(pdftex.def)             Requested size: 119.8825pt x 150.56305pt.
 
+Underfull \hbox (badness 10000) in paragraph at lines 100--100
+>>>>>>> 7d09c91c24aa520f4afd78b5e6c773a89d0f2f83
+
+ []
+
+
+<<<<<<< HEAD
+Underfull \hbox (badness 10000) in paragraph at lines 95--96
+=======
+Underfull \hbox (badness 10000) in paragraph at lines 100--101
+>>>>>>> 7d09c91c24aa520f4afd78b5e6c773a89d0f2f83
+
+ []
+
+
+<<<<<<< HEAD
 Underfull \hbox (badness 10000) in paragraph at lines 95--96
 
  []
@@ -1228,15 +1694,44 @@ Package pdftex.def Info: /home/dearn/zdjecia/9975.jpg  used on input line 100.
 (pdftex.def)             Requested size: 119.8825pt x 150.56305pt.
 
 Underfull \hbox (badness 10000) in paragraph at lines 100--100
-
- []
-
-
+=======
 Underfull \hbox (badness 10000) in paragraph at lines 100--101
 
  []
 
+File: ./logo.jpg Graphic file (type jpg)
+<use ./logo.jpg>
+Package pdftex.def Info: ./logo.jpg  used on input line 101.
+(pdftex.def)             Requested size: 57.06256pt x 30.11261pt.
+[3 </home/dearn/zdjecia/9987.jpg> </home/dearn/zdjecia/9986.jpg> </home/dearn/z
+djecia/9981.jpg> </home/dearn/zdjecia/9980.jpg> </home/dearn/zdjecia/9979.jpg> 
+</home/dearn/zdjecia/9978.jpg>]
+</home/dearn/zdjecia/9975.jpg, id=35, 168.63pt x 211.79124pt>
+File: /home/dearn/zdjecia/9975.jpg Graphic file (type jpg)
+<use /home/dearn/zdjecia/9975.jpg>
+Package pdftex.def Info: /home/dearn/zdjecia/9975.jpg  used on input line 105.
+(pdftex.def)             Requested size: 119.8825pt x 150.56305pt.
+File: /home/dearn/zdjecia/9975.jpg Graphic file (type jpg)
+<use /home/dearn/zdjecia/9975.jpg>
+Package pdftex.def Info: /home/dearn/zdjecia/9975.jpg  used on input line 105.
+(pdftex.def)             Requested size: 119.8825pt x 150.56305pt.
 
+Underfull \hbox (badness 10000) in paragraph at lines 105--105
+>>>>>>> 7d09c91c24aa520f4afd78b5e6c773a89d0f2f83
+
+ []
+
+
+<<<<<<< HEAD
+Underfull \hbox (badness 10000) in paragraph at lines 100--101
+=======
+Underfull \hbox (badness 10000) in paragraph at lines 105--106
+>>>>>>> 7d09c91c24aa520f4afd78b5e6c773a89d0f2f83
+
+ []
+
+
+<<<<<<< HEAD
 Underfull \hbox (badness 10000) in paragraph at lines 100--101
 
  []
@@ -1259,15 +1754,37 @@ Package pdftex.def Info: /home/dearn/zdjecia/9974.jpg  used on input line 105.
 (pdftex.def)             Requested size: 119.319pt x 150.56305pt.
 
 Underfull \hbox (badness 10000) in paragraph at lines 105--105
-
- []
-
-
+=======
 Underfull \hbox (badness 10000) in paragraph at lines 105--106
 
  []
 
+</home/dearn/zdjecia/9974.jpg, id=36, 168.63pt x 212.795pt>
+File: /home/dearn/zdjecia/9974.jpg Graphic file (type jpg)
+<use /home/dearn/zdjecia/9974.jpg>
+Package pdftex.def Info: /home/dearn/zdjecia/9974.jpg  used on input line 110.
+(pdftex.def)             Requested size: 119.319pt x 150.56305pt.
+File: /home/dearn/zdjecia/9974.jpg Graphic file (type jpg)
+<use /home/dearn/zdjecia/9974.jpg>
+Package pdftex.def Info: /home/dearn/zdjecia/9974.jpg  used on input line 110.
+(pdftex.def)             Requested size: 119.319pt x 150.56305pt.
 
+Underfull \hbox (badness 10000) in paragraph at lines 110--110
+>>>>>>> 7d09c91c24aa520f4afd78b5e6c773a89d0f2f83
+
+ []
+
+
+<<<<<<< HEAD
+Underfull \hbox (badness 10000) in paragraph at lines 105--106
+=======
+Underfull \hbox (badness 10000) in paragraph at lines 110--111
+>>>>>>> 7d09c91c24aa520f4afd78b5e6c773a89d0f2f83
+
+ []
+
+
+<<<<<<< HEAD
 Underfull \hbox (badness 10000) in paragraph at lines 105--106
 
  []
@@ -1306,10 +1823,27 @@ File: /home/dearn/zdjecia/9972.jpg Graphic file (type jpg)
 Package pdftex.def Info: /home/dearn/zdjecia/9972.jpg  used on input line 115.
 (pdftex.def)             Requested size: 205.48608pt x 150.56305pt.
 
+=======
+Underfull \hbox (badness 10000) in paragraph at lines 110--111
+
+ []
+
+</home/dearn/zdjecia/9973.jpg, id=37, 168.63pt x 211.79124pt>
+File: /home/dearn/zdjecia/9973.jpg Graphic file (type jpg)
+<use /home/dearn/zdjecia/9973.jpg>
+Package pdftex.def Info: /home/dearn/zdjecia/9973.jpg  used on input line 115.
+(pdftex.def)             Requested size: 119.8825pt x 150.56305pt.
+File: /home/dearn/zdjecia/9973.jpg Graphic file (type jpg)
+<use /home/dearn/zdjecia/9973.jpg>
+Package pdftex.def Info: /home/dearn/zdjecia/9973.jpg  used on input line 115.
+(pdftex.def)             Requested size: 119.8825pt x 150.56305pt.
+
+>>>>>>> 7d09c91c24aa520f4afd78b5e6c773a89d0f2f83
 Underfull \hbox (badness 10000) in paragraph at lines 115--115
 
  []
 
+<<<<<<< HEAD
 
 Underfull \hbox (badness 10000) in paragraph at lines 115--116
 
@@ -1492,11 +2026,19 @@ Underfull \hbox (badness 10000) in paragraph at lines 150--150
 
 )
 Underfull \hbox (badness 10000) in paragraph at lines 150--33
+=======
+)
+Underfull \hbox (badness 10000) in paragraph at lines 115--33
+>>>>>>> 7d09c91c24aa520f4afd78b5e6c773a89d0f2f83
 
  []
 
 
+<<<<<<< HEAD
 Underfull \hbox (badness 10000) in paragraph at lines 150--33
+=======
+Underfull \hbox (badness 10000) in paragraph at lines 115--33
+>>>>>>> 7d09c91c24aa520f4afd78b5e6c773a89d0f2f83
 
  []
 
@@ -1504,6 +2046,7 @@ File: ./logo.jpg Graphic file (type jpg)
 <use ./logo.jpg>
 Package pdftex.def Info: ./logo.jpg  used on input line 33.
 (pdftex.def)             Requested size: 57.06256pt x 30.11261pt.
+<<<<<<< HEAD
 [5 </home/dearn/zdjecia/9970.jpg> </home/dearn/zdjecia/9969.jpg> </home/dearn/z
 djecia/9968.jpg> </home/dearn/zdjecia/9967.jpg> </home/dearn/zdjecia/9966.jpg> 
 </home/dearn/zdjecia/9965.jpg>] (./test.aux (./insider.aux)) ) 
@@ -1524,4 +2067,26 @@ PDF statistics:
  19 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  156 words of extra memory for PDF output out of 10000 (max. 10000000)
+=======
+[4 </home/dearn/zdjecia/9977.jpg> </home/dearn/zdjecia/9976.jpg> </home/dearn/z
+djecia/9975.jpg> </home/dearn/zdjecia/9974.jpg> </home/dearn/zdjecia/9973.jpg>]
+(./test.aux (./insider.aux)) ) 
+Here is how much of TeX's memory you used:
+ 4512 strings out of 492982
+ 63535 string characters out of 6134896
+ 240076 words of memory out of 5000000
+ 7934 multiletter control sequences out of 15000+600000
+ 7819 words of font info for 25 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 41i,13n,68p,273b,506s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/share/texlive/texmf-dist/fonts/enc/dvips/pl
+/plrm.enc}</usr/share/texlive/texmf-dist/fonts/type1/public/pl/plbx10.pfb></usr
+/share/texlive/texmf-dist/fonts/type1/public/pl/plr10.pfb>
+Output written on test.pdf (4 pages, 1539829 bytes).
+PDF statistics:
+ 50 PDF objects out of 1000 (max. 8388607)
+ 17 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 121 words of extra memory for PDF output out of 10000 (max. 10000000)
+>>>>>>> 7d09c91c24aa520f4afd78b5e6c773a89d0f2f83
 

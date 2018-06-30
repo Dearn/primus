@@ -1,5 +1,9 @@
 ID;Nazwa;CenaN;;;Netto Zakup;;;;;
+<<<<<<< HEAD
 9999;Kredki Woskowe;3,92;;;2,9;;;;;
+=======
+9999;Kredki Woskowe 12szt, pudelko 10 x 1 x 11.5cm ;3,92;;;2,9;;;;;
+>>>>>>> 7d09c91c24aa520f4afd78b5e6c773a89d0f2f83
 9998;Koloruję i naklejam zwierzaki 1 ;6,62;;;4,9;;;;;
 9997;Koloruję i naklejam zwierzaki 12;6,62;;;4,9;;;;;
 9996;Puzzle 54 el (W większości misie + lalki;1,89;;;1,4;;;;;
@@ -22,6 +26,7 @@ ID;Nazwa;CenaN;;;Netto Zakup;;;;;
 9975;Przygoda Z Kolorami - W Zagrodzie ;2,97;;;2,2;;;;;
 9974;Przygoda Z Kolorami - W Zoo ;2,97;;;2,2;;;;;
 9973;Przygoda Z Kolorami - Zawody ;2,97;;;2,2;;;;;
+<<<<<<< HEAD
 9972;Bańki mydlane 55ml Avengers (max 300szt);1,20;;;0,89;;;;;
 9971;Bańki mydlane 55ml Barbie (max 300szt);1,26;;;0,93;;;;;
 9970;Bańki mydlane 55ml Sofia (max 300szt);1,20;;;0,89;;;;;
@@ -30,3 +35,5 @@ ID;Nazwa;CenaN;;;Netto Zakup;;;;;
 9967;Bańki mydlane 55ml Kubuś Puchatek (max 300szt);1,09;;;0,81;;;;;
 9966;Bańki mydlane 55ml Emoji (max 300szt);1,09;;;0,81;;;;;
 9965;Bańki mydlane 55ml Hatchimals (max 300szt);1,09;;;0,81;;;;;
+=======
+>>>>>>> 7d09c91c24aa520f4afd78b5e6c773a89d0f2f83
