@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Arch Linux) (preloaded format=pdflatex 2018.3.7)  20 APR 2018 09:20
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Arch Linux) (preloaded format=pdflatex 2018.3.7)  5 JUN 2018 11:16
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -724,111 +724,160 @@ e
 \openout2 = `./insider.aux'.
 
 (./insider.tex
-LaTeX Font Info:    Try loading font information for OML+plm on input line 6.
+LaTeX Font Info:    Try loading font information for OML+plm on input line 5.
  (/usr/share/texmf-dist/tex/latex/polski/omlplm.fd
 File: omlplm.fd 2008/02/24 v1.2.1 Font defs for fonts PL (MW)
 )
-LaTeX Font Info:    Try loading font information for OMS+plsy on input line 6.
+LaTeX Font Info:    Try loading font information for OMS+plsy on input line 5.
 
 (/usr/share/texmf-dist/tex/latex/polski/omsplsy.fd
 File: omsplsy.fd 2008/02/24 v1.2.1 Font defs for fonts PL (MW)
 )
-LaTeX Font Info:    Try loading font information for OMX+plex on input line 6.
+LaTeX Font Info:    Try loading font information for OMX+plex on input line 5.
 
 (/usr/share/texmf-dist/tex/latex/polski/omxplex.fd
 File: omxplex.fd 2008/02/24 v1.2.1 Font defs for fonts PL (MW)
 )
 LaTeX Font Info:    External font `plex10' loaded for size
-(Font)              <10> on input line 6.
+(Font)              <10> on input line 5.
 LaTeX Font Info:    External font `plex10' loaded for size
-(Font)              <7> on input line 6.
+(Font)              <7> on input line 5.
 LaTeX Font Info:    External font `plex10' loaded for size
-(Font)              <5> on input line 6.
-</home/dearn/zdjecia/00001.jpg, id=1, 250.9375pt x 250.9375pt>
-File: /home/dearn/zdjecia/00001.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/00001.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/00001.jpg  used on input line 6.
-(pdftex.def)             Requested size: 150.5713pt x 150.56305pt.
-File: /home/dearn/zdjecia/00001.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/00001.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/00001.jpg  used on input line 6.
-(pdftex.def)             Requested size: 150.5713pt x 150.56305pt.
+(Font)              <5> on input line 5.
+</home/dearn/zdjecia/9998.jpg, id=1, 602.25pt x 494.59781pt>
+File: /home/dearn/zdjecia/9998.jpg Graphic file (type jpg)
+<use /home/dearn/zdjecia/9998.jpg>
+Package pdftex.def Info: /home/dearn/zdjecia/9998.jpg  used on input line 5.
+(pdftex.def)             Requested size: 183.33217pt x 150.56305pt.
+File: /home/dearn/zdjecia/9998.jpg Graphic file (type jpg)
+<use /home/dearn/zdjecia/9998.jpg>
+Package pdftex.def Info: /home/dearn/zdjecia/9998.jpg  used on input line 5.
+(pdftex.def)             Requested size: 183.33217pt x 150.56305pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 6--7
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 6--7
-
- []
-
-</home/dearn/zdjecia/00003.jpg, id=2, 250.9375pt x 263.98625pt>
-File: /home/dearn/zdjecia/00003.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/00003.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/00003.jpg  used on input line 12.
-(pdftex.def)             Requested size: 143.12009pt x 150.56305pt.
-File: /home/dearn/zdjecia/00003.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/00003.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/00003.jpg  used on input line 12.
-(pdftex.def)             Requested size: 143.12009pt x 150.56305pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 12--13
+Underfull \hbox (badness 10000) in paragraph at lines 5--5
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 12--13
-
- []
-
-</home/dearn/zdjecia/00005.jpg, id=3, 250.9375pt x 188.705pt>
-File: /home/dearn/zdjecia/00005.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/00005.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/00005.jpg  used on input line 18.
-(pdftex.def)             Requested size: 200.21803pt x 150.56305pt.
-File: /home/dearn/zdjecia/00005.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/00005.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/00005.jpg  used on input line 18.
-(pdftex.def)             Requested size: 200.21803pt x 150.56305pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 18--19
+Underfull \hbox (badness 10000) in paragraph at lines 5--6
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 18--19
+Underfull \hbox (badness 10000) in paragraph at lines 5--6
 
  []
 
-</home/dearn/zdjecia/00011.jpg, id=4, 250.9375pt x 334.24875pt>
-File: /home/dearn/zdjecia/00011.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/00011.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/00011.jpg  used on input line 24.
-(pdftex.def)             Requested size: 113.03952pt x 150.56305pt.
-File: /home/dearn/zdjecia/00011.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/00011.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/00011.jpg  used on input line 24.
-(pdftex.def)             Requested size: 113.03952pt x 150.56305pt.
+</home/dearn/zdjecia/9997.jpg, id=2, 602.25pt x 465.23813pt>
+File: /home/dearn/zdjecia/9997.jpg Graphic file (type jpg)
+<use /home/dearn/zdjecia/9997.jpg>
+Package pdftex.def Info: /home/dearn/zdjecia/9997.jpg  used on input line 10.
+(pdftex.def)             Requested size: 194.90186pt x 150.56305pt.
+File: /home/dearn/zdjecia/9997.jpg Graphic file (type jpg)
+<use /home/dearn/zdjecia/9997.jpg>
+Package pdftex.def Info: /home/dearn/zdjecia/9997.jpg  used on input line 10.
+(pdftex.def)             Requested size: 194.90186pt x 150.56305pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 24--25
+Underfull \hbox (badness 10000) in paragraph at lines 10--10
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 10--11
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 24--25
+Underfull \hbox (badness 10000) in paragraph at lines 10--11
 
  []
 
-</home/dearn/zdjecia/00012.jpg, id=5, 250.9375pt x 334.24875pt>
-File: /home/dearn/zdjecia/00012.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/00012.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/00012.jpg  used on input line 30.
-(pdftex.def)             Requested size: 113.03952pt x 150.56305pt.
-File: /home/dearn/zdjecia/00012.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/00012.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/00012.jpg  used on input line 30.
-(pdftex.def)             Requested size: 113.03952pt x 150.56305pt.
+</home/dearn/zdjecia/9996.jpg, id=3, 602.25pt x 517.935pt>
+File: /home/dearn/zdjecia/9996.jpg Graphic file (type jpg)
+<use /home/dearn/zdjecia/9996.jpg>
+Package pdftex.def Info: /home/dearn/zdjecia/9996.jpg  used on input line 15.
+(pdftex.def)             Requested size: 175.07074pt x 150.56305pt.
+File: /home/dearn/zdjecia/9996.jpg Graphic file (type jpg)
+<use /home/dearn/zdjecia/9996.jpg>
+Package pdftex.def Info: /home/dearn/zdjecia/9996.jpg  used on input line 15.
+(pdftex.def)             Requested size: 175.07074pt x 150.56305pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 15--15
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 15--16
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 15--16
+
+ []
+
+</home/dearn/zdjecia/9995.jpg, id=4, 803.0pt x 803.0pt>
+File: /home/dearn/zdjecia/9995.jpg Graphic file (type jpg)
+<use /home/dearn/zdjecia/9995.jpg>
+Package pdftex.def Info: /home/dearn/zdjecia/9995.jpg  used on input line 20.
+(pdftex.def)             Requested size: 150.56213pt x 150.56305pt.
+File: /home/dearn/zdjecia/9995.jpg Graphic file (type jpg)
+<use /home/dearn/zdjecia/9995.jpg>
+Package pdftex.def Info: /home/dearn/zdjecia/9995.jpg  used on input line 20.
+(pdftex.def)             Requested size: 150.56213pt x 150.56305pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 20--20
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 20--21
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 20--21
+
+ []
+
+</home/dearn/zdjecia/9994.jpg, id=5, 803.0pt x 481.8pt>
+File: /home/dearn/zdjecia/9994.jpg Graphic file (type jpg)
+<use /home/dearn/zdjecia/9994.jpg>
+Package pdftex.def Info: /home/dearn/zdjecia/9994.jpg  used on input line 25.
+(pdftex.def)             Requested size: 250.93689pt x 150.56305pt.
+File: /home/dearn/zdjecia/9994.jpg Graphic file (type jpg)
+<use /home/dearn/zdjecia/9994.jpg>
+Package pdftex.def Info: /home/dearn/zdjecia/9994.jpg  used on input line 25.
+(pdftex.def)             Requested size: 250.93689pt x 150.56305pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 25--25
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 25--26
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 25--26
+
+ []
+
+</home/dearn/zdjecia/9993.jpg, id=6, 803.0pt x 508.90125pt>
+File: /home/dearn/zdjecia/9993.jpg Graphic file (type jpg)
+<use /home/dearn/zdjecia/9993.jpg>
+Package pdftex.def Info: /home/dearn/zdjecia/9993.jpg  used on input line 30.
+(pdftex.def)             Requested size: 237.5691pt x 150.56305pt.
+File: /home/dearn/zdjecia/9993.jpg Graphic file (type jpg)
+<use /home/dearn/zdjecia/9993.jpg>
+Package pdftex.def Info: /home/dearn/zdjecia/9993.jpg  used on input line 30.
+(pdftex.def)             Requested size: 237.5691pt x 150.56305pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 30--30
+
+ []
+
 
 Underfull \hbox (badness 10000) in paragraph at lines 30--31
 
@@ -839,109 +888,148 @@ Underfull \hbox (badness 10000) in paragraph at lines 30--31
 
  []
 
-</home/dearn/zdjecia/00013.jpg, id=6, 250.9375pt x 334.24875pt>
-File: /home/dearn/zdjecia/00013.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/00013.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/00013.jpg  used on input line 36.
-(pdftex.def)             Requested size: 113.03952pt x 150.56305pt.
-File: /home/dearn/zdjecia/00013.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/00013.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/00013.jpg  used on input line 36.
-(pdftex.def)             Requested size: 113.03952pt x 150.56305pt.
+</home/dearn/zdjecia/9992.jpg, id=7, 803.0pt x 490.83376pt>
+File: /home/dearn/zdjecia/9992.jpg Graphic file (type jpg)
+<use /home/dearn/zdjecia/9992.jpg>
+Package pdftex.def Info: /home/dearn/zdjecia/9992.jpg  used on input line 35.
+(pdftex.def)             Requested size: 246.31758pt x 150.56305pt.
+File: /home/dearn/zdjecia/9992.jpg Graphic file (type jpg)
+<use /home/dearn/zdjecia/9992.jpg>
+Package pdftex.def Info: /home/dearn/zdjecia/9992.jpg  used on input line 35.
+(pdftex.def)             Requested size: 246.31758pt x 150.56305pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 36--37
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 36--37
-
- []
-
-</home/dearn/zdjecia/00014.jpg, id=7, 250.9375pt x 334.24875pt>
-File: /home/dearn/zdjecia/00014.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/00014.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/00014.jpg  used on input line 42.
-(pdftex.def)             Requested size: 113.03952pt x 150.56305pt.
-File: /home/dearn/zdjecia/00014.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/00014.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/00014.jpg  used on input line 42.
-(pdftex.def)             Requested size: 113.03952pt x 150.56305pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 42--43
+Underfull \hbox (badness 10000) in paragraph at lines 35--35
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 42--43
-
- []
-
-</home/dearn/zdjecia/00016.jpg, id=8, 250.9375pt x 334.24875pt>
-File: /home/dearn/zdjecia/00016.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/00016.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/00016.jpg  used on input line 48.
-(pdftex.def)             Requested size: 113.03952pt x 150.56305pt.
-File: /home/dearn/zdjecia/00016.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/00016.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/00016.jpg  used on input line 48.
-(pdftex.def)             Requested size: 113.03952pt x 150.56305pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 48--49
+Underfull \hbox (badness 10000) in paragraph at lines 35--36
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 48--49
+Underfull \hbox (badness 10000) in paragraph at lines 35--36
+
+ []
+
+</home/dearn/zdjecia/9991.jpg, id=8, 221.82875pt x 297.11pt>
+File: /home/dearn/zdjecia/9991.jpg Graphic file (type jpg)
+<use /home/dearn/zdjecia/9991.jpg>
+Package pdftex.def Info: /home/dearn/zdjecia/9991.jpg  used on input line 40.
+(pdftex.def)             Requested size: 112.41695pt x 150.56305pt.
+File: /home/dearn/zdjecia/9991.jpg Graphic file (type jpg)
+<use /home/dearn/zdjecia/9991.jpg>
+Package pdftex.def Info: /home/dearn/zdjecia/9991.jpg  used on input line 40.
+(pdftex.def)             Requested size: 112.41695pt x 150.56305pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 40--40
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 40--41
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 40--41
 
  []
 
 <./logo.jpg, id=9, 471.7625pt x 248.93pt>
 File: ./logo.jpg Graphic file (type jpg)
 <use ./logo.jpg>
-Package pdftex.def Info: ./logo.jpg  used on input line 49.
+Package pdftex.def Info: ./logo.jpg  used on input line 41.
 (pdftex.def)             Requested size: 57.06256pt x 30.11261pt.
 [1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}
 
- <./logo.jpg> </home/dearn/zdjecia/00001.jpg> </home/dearn/zdjecia/00003.jpg> <
-/home/dearn/zdjecia/00005.jpg> </home/dearn/zdjecia/00011.jpg> </home/dearn/zdj
-ecia/00012.jpg> </home/dearn/zdjecia/00013.jpg>]
-</home/dearn/zdjecia/00019.jpg, id=17, 250.9375pt x 334.24875pt>
-File: /home/dearn/zdjecia/00019.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/00019.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/00019.jpg  used on input line 54.
-(pdftex.def)             Requested size: 113.03952pt x 150.56305pt.
-File: /home/dearn/zdjecia/00019.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/00019.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/00019.jpg  used on input line 54.
-(pdftex.def)             Requested size: 113.03952pt x 150.56305pt.
+ <./logo.jpg> </home/dearn/zdjecia/9998.jpg> </home/dearn/zdjecia/9997.jpg> </h
+ome/dearn/zdjecia/9996.jpg> </home/dearn/zdjecia/9995.jpg> </home/dearn/zdjecia
+/9994.jpg> </home/dearn/zdjecia/9993.jpg>]
+</home/dearn/zdjecia/9990.jpg, id=17, 903.375pt x 965.6075pt>
+File: /home/dearn/zdjecia/9990.jpg Graphic file (type jpg)
+<use /home/dearn/zdjecia/9990.jpg>
+Package pdftex.def Info: /home/dearn/zdjecia/9990.jpg  used on input line 45.
+(pdftex.def)             Requested size: 140.84874pt x 150.56305pt.
+File: /home/dearn/zdjecia/9990.jpg Graphic file (type jpg)
+<use /home/dearn/zdjecia/9990.jpg>
+Package pdftex.def Info: /home/dearn/zdjecia/9990.jpg  used on input line 45.
+(pdftex.def)             Requested size: 140.84874pt x 150.56305pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 54--55
+Underfull \hbox (badness 10000) in paragraph at lines 45--45
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 45--46
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 54--55
+Underfull \hbox (badness 10000) in paragraph at lines 45--46
 
  []
 
-</home/dearn/zdjecia/00023.jpg, id=18, 250.9375pt x 115.43124pt>
-File: /home/dearn/zdjecia/00023.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/00023.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/00023.jpg  used on input line 60.
-(pdftex.def)             Requested size: 327.33293pt x 150.56305pt.
-File: /home/dearn/zdjecia/00023.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/00023.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/00023.jpg  used on input line 60.
-(pdftex.def)             Requested size: 327.33293pt x 150.56305pt.
+</home/dearn/zdjecia/9989.jpg, id=18, 221.82875pt x 297.11pt>
+File: /home/dearn/zdjecia/9989.jpg Graphic file (type jpg)
+<use /home/dearn/zdjecia/9989.jpg>
+Package pdftex.def Info: /home/dearn/zdjecia/9989.jpg  used on input line 50.
+(pdftex.def)             Requested size: 112.41695pt x 150.56305pt.
+File: /home/dearn/zdjecia/9989.jpg Graphic file (type jpg)
+<use /home/dearn/zdjecia/9989.jpg>
+Package pdftex.def Info: /home/dearn/zdjecia/9989.jpg  used on input line 50.
+(pdftex.def)             Requested size: 112.41695pt x 150.56305pt.
 
-Overfull \hbox (56.32043pt too wide) in paragraph at lines 60--60
-[] 
+Underfull \hbox (badness 10000) in paragraph at lines 50--50
+
  []
 
 
-Overfull \hbox (20.0pt too wide) in paragraph at lines 60--61
-[]$[]$ 
+Underfull \hbox (badness 10000) in paragraph at lines 50--51
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--51
+
+ []
+
+</home/dearn/zdjecia/9988.jpg, id=19, 221.82875pt x 297.11pt>
+File: /home/dearn/zdjecia/9988.jpg Graphic file (type jpg)
+<use /home/dearn/zdjecia/9988.jpg>
+Package pdftex.def Info: /home/dearn/zdjecia/9988.jpg  used on input line 55.
+(pdftex.def)             Requested size: 112.41695pt x 150.56305pt.
+File: /home/dearn/zdjecia/9988.jpg Graphic file (type jpg)
+<use /home/dearn/zdjecia/9988.jpg>
+Package pdftex.def Info: /home/dearn/zdjecia/9988.jpg  used on input line 55.
+(pdftex.def)             Requested size: 112.41695pt x 150.56305pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 55--55
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 55--56
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 55--56
+
+ []
+
+</home/dearn/zdjecia/9987.jpg, id=20, 399.4925pt x 426.59375pt>
+File: /home/dearn/zdjecia/9987.jpg Graphic file (type jpg)
+<use /home/dearn/zdjecia/9987.jpg>
+Package pdftex.def Info: /home/dearn/zdjecia/9987.jpg  used on input line 60.
+(pdftex.def)             Requested size: 141.00095pt x 150.56305pt.
+File: /home/dearn/zdjecia/9987.jpg Graphic file (type jpg)
+<use /home/dearn/zdjecia/9987.jpg>
+Package pdftex.def Info: /home/dearn/zdjecia/9987.jpg  used on input line 60.
+(pdftex.def)             Requested size: 141.00095pt x 150.56305pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 60--60
+
  []
 
 
@@ -954,98 +1042,147 @@ Underfull \hbox (badness 10000) in paragraph at lines 60--61
 
  []
 
-</home/dearn/zdjecia/00027.jpg, id=19, 250.9375pt x 188.705pt>
-File: /home/dearn/zdjecia/00027.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/00027.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/00027.jpg  used on input line 66.
-(pdftex.def)             Requested size: 200.21803pt x 150.56305pt.
-File: /home/dearn/zdjecia/00027.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/00027.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/00027.jpg  used on input line 66.
-(pdftex.def)             Requested size: 200.21803pt x 150.56305pt.
+</home/dearn/zdjecia/9986.jpg, id=21, 399.4925pt x 426.59375pt>
+File: /home/dearn/zdjecia/9986.jpg Graphic file (type jpg)
+<use /home/dearn/zdjecia/9986.jpg>
+Package pdftex.def Info: /home/dearn/zdjecia/9986.jpg  used on input line 65.
+(pdftex.def)             Requested size: 141.00095pt x 150.56305pt.
+File: /home/dearn/zdjecia/9986.jpg Graphic file (type jpg)
+<use /home/dearn/zdjecia/9986.jpg>
+Package pdftex.def Info: /home/dearn/zdjecia/9986.jpg  used on input line 65.
+(pdftex.def)             Requested size: 141.00095pt x 150.56305pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 66--67
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 66--67
-
- []
-
-</home/dearn/zdjecia/00048.jpg, id=20, 250.9375pt x 334.24875pt>
-File: /home/dearn/zdjecia/00048.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/00048.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/00048.jpg  used on input line 72.
-(pdftex.def)             Requested size: 113.03952pt x 150.56305pt.
-File: /home/dearn/zdjecia/00048.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/00048.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/00048.jpg  used on input line 72.
-(pdftex.def)             Requested size: 113.03952pt x 150.56305pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 72--73
+Underfull \hbox (badness 10000) in paragraph at lines 65--65
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 72--73
-
- []
-
-</home/dearn/zdjecia/00087.jpg, id=21, 250.9375pt x 188.705pt>
-File: /home/dearn/zdjecia/00087.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/00087.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/00087.jpg  used on input line 78.
-(pdftex.def)             Requested size: 200.21803pt x 150.56305pt.
-File: /home/dearn/zdjecia/00087.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/00087.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/00087.jpg  used on input line 78.
-(pdftex.def)             Requested size: 200.21803pt x 150.56305pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 78--79
+Underfull \hbox (badness 10000) in paragraph at lines 65--66
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 78--79
+Underfull \hbox (badness 10000) in paragraph at lines 65--66
 
  []
 
-</home/dearn/zdjecia/00089.jpg, id=22, 250.9375pt x 188.705pt>
-File: /home/dearn/zdjecia/00089.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/00089.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/00089.jpg  used on input line 84.
-(pdftex.def)             Requested size: 200.21803pt x 150.56305pt.
-File: /home/dearn/zdjecia/00089.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/00089.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/00089.jpg  used on input line 84.
-(pdftex.def)             Requested size: 200.21803pt x 150.56305pt.
+</home/dearn/zdjecia/9981.jpg, id=22, 168.63pt x 211.79124pt>
+File: /home/dearn/zdjecia/9981.jpg Graphic file (type jpg)
+<use /home/dearn/zdjecia/9981.jpg>
+Package pdftex.def Info: /home/dearn/zdjecia/9981.jpg  used on input line 70.
+(pdftex.def)             Requested size: 119.8825pt x 150.56305pt.
+File: /home/dearn/zdjecia/9981.jpg Graphic file (type jpg)
+<use /home/dearn/zdjecia/9981.jpg>
+Package pdftex.def Info: /home/dearn/zdjecia/9981.jpg  used on input line 70.
+(pdftex.def)             Requested size: 119.8825pt x 150.56305pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 84--85
+Underfull \hbox (badness 10000) in paragraph at lines 70--70
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 84--85
+Underfull \hbox (badness 10000) in paragraph at lines 70--71
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 70--71
 
  []
 
 File: ./logo.jpg Graphic file (type jpg)
 <use ./logo.jpg>
-Package pdftex.def Info: ./logo.jpg  used on input line 85.
+Package pdftex.def Info: ./logo.jpg  used on input line 71.
 (pdftex.def)             Requested size: 57.06256pt x 30.11261pt.
-[2 </home/dearn/zdjecia/00014.jpg> </home/dearn/zdjecia/00016.jpg> </home/dearn
-/zdjecia/00019.jpg> </home/dearn/zdjecia/00023.jpg> </home/dearn/zdjecia/00027.
-jpg> </home/dearn/zdjecia/00048.jpg>]
-</home/dearn/zdjecia/00090.jpg, id=26, 250.9375pt x 188.705pt>
-File: /home/dearn/zdjecia/00090.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/00090.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/00090.jpg  used on input line 90.
-(pdftex.def)             Requested size: 200.21803pt x 150.56305pt.
-File: /home/dearn/zdjecia/00090.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/00090.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/00090.jpg  used on input line 90.
-(pdftex.def)             Requested size: 200.21803pt x 150.56305pt.
+[2 </home/dearn/zdjecia/9992.jpg> </home/dearn/zdjecia/9991.jpg> </home/dearn/z
+djecia/9990.jpg> </home/dearn/zdjecia/9989.jpg> </home/dearn/zdjecia/9988.jpg> 
+</home/dearn/zdjecia/9987.jpg>]
+</home/dearn/zdjecia/9980.jpg, id=26, 168.63pt x 212.795pt>
+File: /home/dearn/zdjecia/9980.jpg Graphic file (type jpg)
+<use /home/dearn/zdjecia/9980.jpg>
+Package pdftex.def Info: /home/dearn/zdjecia/9980.jpg  used on input line 75.
+(pdftex.def)             Requested size: 119.319pt x 150.56305pt.
+File: /home/dearn/zdjecia/9980.jpg Graphic file (type jpg)
+<use /home/dearn/zdjecia/9980.jpg>
+Package pdftex.def Info: /home/dearn/zdjecia/9980.jpg  used on input line 75.
+(pdftex.def)             Requested size: 119.319pt x 150.56305pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 75--75
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 75--76
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 75--76
+
+ []
+
+</home/dearn/zdjecia/9979.jpg, id=27, 262.73157pt x 376.40625pt>
+File: /home/dearn/zdjecia/9979.jpg Graphic file (type jpg)
+<use /home/dearn/zdjecia/9979.jpg>
+Package pdftex.def Info: /home/dearn/zdjecia/9979.jpg  used on input line 80.
+(pdftex.def)             Requested size: 105.09476pt x 150.56305pt.
+File: /home/dearn/zdjecia/9979.jpg Graphic file (type jpg)
+<use /home/dearn/zdjecia/9979.jpg>
+Package pdftex.def Info: /home/dearn/zdjecia/9979.jpg  used on input line 80.
+(pdftex.def)             Requested size: 105.09476pt x 150.56305pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 80--80
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 80--81
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 80--81
+
+ []
+
+</home/dearn/zdjecia/9978.jpg, id=28, 168.63pt x 211.79124pt>
+File: /home/dearn/zdjecia/9978.jpg Graphic file (type jpg)
+<use /home/dearn/zdjecia/9978.jpg>
+Package pdftex.def Info: /home/dearn/zdjecia/9978.jpg  used on input line 85.
+(pdftex.def)             Requested size: 119.8825pt x 150.56305pt.
+File: /home/dearn/zdjecia/9978.jpg Graphic file (type jpg)
+<use /home/dearn/zdjecia/9978.jpg>
+Package pdftex.def Info: /home/dearn/zdjecia/9978.jpg  used on input line 85.
+(pdftex.def)             Requested size: 119.8825pt x 150.56305pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 85--85
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 85--86
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 85--86
+
+ []
+
+</home/dearn/zdjecia/9977.jpg, id=29, 168.63pt x 212.795pt>
+File: /home/dearn/zdjecia/9977.jpg Graphic file (type jpg)
+<use /home/dearn/zdjecia/9977.jpg>
+Package pdftex.def Info: /home/dearn/zdjecia/9977.jpg  used on input line 90.
+(pdftex.def)             Requested size: 119.319pt x 150.56305pt.
+File: /home/dearn/zdjecia/9977.jpg Graphic file (type jpg)
+<use /home/dearn/zdjecia/9977.jpg>
+Package pdftex.def Info: /home/dearn/zdjecia/9977.jpg  used on input line 90.
+(pdftex.def)             Requested size: 119.319pt x 150.56305pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 90--90
+
+ []
+
 
 Underfull \hbox (badness 10000) in paragraph at lines 90--91
 
@@ -1056,99 +1193,147 @@ Underfull \hbox (badness 10000) in paragraph at lines 90--91
 
  []
 
-</home/dearn/zdjecia/00096.jpg, id=27, 250.9375pt x 188.705pt>
-File: /home/dearn/zdjecia/00096.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/00096.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/00096.jpg  used on input line 96.
-(pdftex.def)             Requested size: 200.21803pt x 150.56305pt.
-File: /home/dearn/zdjecia/00096.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/00096.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/00096.jpg  used on input line 96.
-(pdftex.def)             Requested size: 200.21803pt x 150.56305pt.
+</home/dearn/zdjecia/9976.jpg, id=30, 168.63pt x 211.79124pt>
+File: /home/dearn/zdjecia/9976.jpg Graphic file (type jpg)
+<use /home/dearn/zdjecia/9976.jpg>
+Package pdftex.def Info: /home/dearn/zdjecia/9976.jpg  used on input line 95.
+(pdftex.def)             Requested size: 119.8825pt x 150.56305pt.
+File: /home/dearn/zdjecia/9976.jpg Graphic file (type jpg)
+<use /home/dearn/zdjecia/9976.jpg>
+Package pdftex.def Info: /home/dearn/zdjecia/9976.jpg  used on input line 95.
+(pdftex.def)             Requested size: 119.8825pt x 150.56305pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 96--97
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 96--97
-
- []
-
-</home/dearn/zdjecia/00103.jpg, id=28, 250.9375pt x 188.705pt>
-File: /home/dearn/zdjecia/00103.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/00103.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/00103.jpg  used on input line 102.
-
-(pdftex.def)             Requested size: 200.21803pt x 150.56305pt.
-File: /home/dearn/zdjecia/00103.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/00103.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/00103.jpg  used on input line 102.
-
-(pdftex.def)             Requested size: 200.21803pt x 150.56305pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 102--103
+Underfull \hbox (badness 10000) in paragraph at lines 95--95
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 102--103
-
- []
-
-</home/dearn/zdjecia/00108.jpg, id=29, 250.9375pt x 188.705pt>
-File: /home/dearn/zdjecia/00108.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/00108.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/00108.jpg  used on input line 108.
-
-(pdftex.def)             Requested size: 200.21803pt x 150.56305pt.
-File: /home/dearn/zdjecia/00108.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/00108.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/00108.jpg  used on input line 108.
-
-(pdftex.def)             Requested size: 200.21803pt x 150.56305pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 108--109
+Underfull \hbox (badness 10000) in paragraph at lines 95--96
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 108--109
+Underfull \hbox (badness 10000) in paragraph at lines 95--96
 
  []
 
-</home/dearn/zdjecia/00117.jpg, id=30, 250.9375pt x 188.705pt>
-File: /home/dearn/zdjecia/00117.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/00117.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/00117.jpg  used on input line 114.
+</home/dearn/zdjecia/9975.jpg, id=31, 168.63pt x 211.79124pt>
+File: /home/dearn/zdjecia/9975.jpg Graphic file (type jpg)
+<use /home/dearn/zdjecia/9975.jpg>
+Package pdftex.def Info: /home/dearn/zdjecia/9975.jpg  used on input line 100.
+(pdftex.def)             Requested size: 119.8825pt x 150.56305pt.
+File: /home/dearn/zdjecia/9975.jpg Graphic file (type jpg)
+<use /home/dearn/zdjecia/9975.jpg>
+Package pdftex.def Info: /home/dearn/zdjecia/9975.jpg  used on input line 100.
+(pdftex.def)             Requested size: 119.8825pt x 150.56305pt.
 
-(pdftex.def)             Requested size: 200.21803pt x 150.56305pt.
-File: /home/dearn/zdjecia/00117.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/00117.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/00117.jpg  used on input line 114.
-
-(pdftex.def)             Requested size: 200.21803pt x 150.56305pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 114--115
+Underfull \hbox (badness 10000) in paragraph at lines 100--100
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 114--115
+Underfull \hbox (badness 10000) in paragraph at lines 100--101
 
  []
 
-</home/dearn/zdjecia/00118.jpg, id=31, 250.9375pt x 188.705pt>
-File: /home/dearn/zdjecia/00118.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/00118.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/00118.jpg  used on input line 120.
 
-(pdftex.def)             Requested size: 200.21803pt x 150.56305pt.
-File: /home/dearn/zdjecia/00118.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/00118.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/00118.jpg  used on input line 120.
+Underfull \hbox (badness 10000) in paragraph at lines 100--101
 
-(pdftex.def)             Requested size: 200.21803pt x 150.56305pt.
+ []
+
+File: ./logo.jpg Graphic file (type jpg)
+<use ./logo.jpg>
+Package pdftex.def Info: ./logo.jpg  used on input line 101.
+(pdftex.def)             Requested size: 57.06256pt x 30.11261pt.
+[3 </home/dearn/zdjecia/9986.jpg> </home/dearn/zdjecia/9981.jpg> </home/dearn/z
+djecia/9980.jpg> </home/dearn/zdjecia/9979.jpg> </home/dearn/zdjecia/9978.jpg> 
+</home/dearn/zdjecia/9977.jpg>]
+</home/dearn/zdjecia/9974.jpg, id=35, 168.63pt x 212.795pt>
+File: /home/dearn/zdjecia/9974.jpg Graphic file (type jpg)
+<use /home/dearn/zdjecia/9974.jpg>
+Package pdftex.def Info: /home/dearn/zdjecia/9974.jpg  used on input line 105.
+(pdftex.def)             Requested size: 119.319pt x 150.56305pt.
+File: /home/dearn/zdjecia/9974.jpg Graphic file (type jpg)
+<use /home/dearn/zdjecia/9974.jpg>
+Package pdftex.def Info: /home/dearn/zdjecia/9974.jpg  used on input line 105.
+(pdftex.def)             Requested size: 119.319pt x 150.56305pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 105--105
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 105--106
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 105--106
+
+ []
+
+</home/dearn/zdjecia/9973.jpg, id=36, 168.63pt x 211.79124pt>
+File: /home/dearn/zdjecia/9973.jpg Graphic file (type jpg)
+<use /home/dearn/zdjecia/9973.jpg>
+Package pdftex.def Info: /home/dearn/zdjecia/9973.jpg  used on input line 110.
+(pdftex.def)             Requested size: 119.8825pt x 150.56305pt.
+File: /home/dearn/zdjecia/9973.jpg Graphic file (type jpg)
+<use /home/dearn/zdjecia/9973.jpg>
+Package pdftex.def Info: /home/dearn/zdjecia/9973.jpg  used on input line 110.
+(pdftex.def)             Requested size: 119.8825pt x 150.56305pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 110--110
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 110--111
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 110--111
+
+ []
+
+</home/dearn/zdjecia/9972.jpg, id=37, 217.81375pt x 159.59625pt>
+File: /home/dearn/zdjecia/9972.jpg Graphic file (type jpg)
+<use /home/dearn/zdjecia/9972.jpg>
+Package pdftex.def Info: /home/dearn/zdjecia/9972.jpg  used on input line 115.
+(pdftex.def)             Requested size: 205.48608pt x 150.56305pt.
+File: /home/dearn/zdjecia/9972.jpg Graphic file (type jpg)
+<use /home/dearn/zdjecia/9972.jpg>
+Package pdftex.def Info: /home/dearn/zdjecia/9972.jpg  used on input line 115.
+(pdftex.def)             Requested size: 205.48608pt x 150.56305pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 115--115
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 115--116
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 115--116
+
+ []
+
+</home/dearn/zdjecia/9971.jpg, id=38, 217.81375pt x 159.59625pt>
+File: /home/dearn/zdjecia/9971.jpg Graphic file (type jpg)
+<use /home/dearn/zdjecia/9971.jpg>
+Package pdftex.def Info: /home/dearn/zdjecia/9971.jpg  used on input line 120.
+(pdftex.def)             Requested size: 205.48608pt x 150.56305pt.
+File: /home/dearn/zdjecia/9971.jpg Graphic file (type jpg)
+<use /home/dearn/zdjecia/9971.jpg>
+Package pdftex.def Info: /home/dearn/zdjecia/9971.jpg  used on input line 120.
+(pdftex.def)             Requested size: 205.48608pt x 150.56305pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 120--120
+
+ []
+
 
 Underfull \hbox (badness 10000) in paragraph at lines 120--121
 
@@ -1159,4155 +1344,159 @@ Underfull \hbox (badness 10000) in paragraph at lines 120--121
 
  []
 
-File: ./logo.jpg Graphic file (type jpg)
-<use ./logo.jpg>
-Package pdftex.def Info: ./logo.jpg  used on input line 121.
-(pdftex.def)             Requested size: 57.06256pt x 30.11261pt.
-[3 </home/dearn/zdjecia/00087.jpg> </home/dearn/zdjecia/00089.jpg> </home/dearn
-/zdjecia/00090.jpg> </home/dearn/zdjecia/00096.jpg> </home/dearn/zdjecia/00103.
-jpg> </home/dearn/zdjecia/00108.jpg>]
-</home/dearn/zdjecia/00220.jpg, id=35, 250.9375pt x 188.705pt>
-File: /home/dearn/zdjecia/00220.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/00220.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/00220.jpg  used on input line 126.
+</home/dearn/zdjecia/9970.jpg, id=39, 217.81375pt x 159.59625pt>
+File: /home/dearn/zdjecia/9970.jpg Graphic file (type jpg)
+<use /home/dearn/zdjecia/9970.jpg>
+Package pdftex.def Info: /home/dearn/zdjecia/9970.jpg  used on input line 125.
+(pdftex.def)             Requested size: 205.48608pt x 150.56305pt.
+File: /home/dearn/zdjecia/9970.jpg Graphic file (type jpg)
+<use /home/dearn/zdjecia/9970.jpg>
+Package pdftex.def Info: /home/dearn/zdjecia/9970.jpg  used on input line 125.
+(pdftex.def)             Requested size: 205.48608pt x 150.56305pt.
 
-(pdftex.def)             Requested size: 200.21803pt x 150.56305pt.
-File: /home/dearn/zdjecia/00220.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/00220.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/00220.jpg  used on input line 126.
-
-(pdftex.def)             Requested size: 200.21803pt x 150.56305pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 126--127
+Underfull \hbox (badness 10000) in paragraph at lines 125--125
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 126--127
-
- []
-
-</home/dearn/zdjecia/00338.jpg, id=36, 250.9375pt x 188.705pt>
-File: /home/dearn/zdjecia/00338.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/00338.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/00338.jpg  used on input line 132.
-
-(pdftex.def)             Requested size: 200.21803pt x 150.56305pt.
-File: /home/dearn/zdjecia/00338.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/00338.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/00338.jpg  used on input line 132.
-
-(pdftex.def)             Requested size: 200.21803pt x 150.56305pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 132--133
+Underfull \hbox (badness 10000) in paragraph at lines 125--126
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 132--133
+Underfull \hbox (badness 10000) in paragraph at lines 125--126
 
  []
 
-</home/dearn/zdjecia/00355.jpg, id=37, 250.9375pt x 188.705pt>
-File: /home/dearn/zdjecia/00355.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/00355.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/00355.jpg  used on input line 138.
+</home/dearn/zdjecia/9969.jpg, id=40, 217.81375pt x 159.59625pt>
+File: /home/dearn/zdjecia/9969.jpg Graphic file (type jpg)
+<use /home/dearn/zdjecia/9969.jpg>
+Package pdftex.def Info: /home/dearn/zdjecia/9969.jpg  used on input line 130.
+(pdftex.def)             Requested size: 205.48608pt x 150.56305pt.
+File: /home/dearn/zdjecia/9969.jpg Graphic file (type jpg)
+<use /home/dearn/zdjecia/9969.jpg>
+Package pdftex.def Info: /home/dearn/zdjecia/9969.jpg  used on input line 130.
+(pdftex.def)             Requested size: 205.48608pt x 150.56305pt.
 
-(pdftex.def)             Requested size: 200.21803pt x 150.56305pt.
-File: /home/dearn/zdjecia/00355.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/00355.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/00355.jpg  used on input line 138.
-
-(pdftex.def)             Requested size: 200.21803pt x 150.56305pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 138--139
+Underfull \hbox (badness 10000) in paragraph at lines 130--130
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 138--139
-
- []
-
-</home/dearn/zdjecia/00443.jpg, id=38, 250.9375pt x 122.4575pt>
-File: /home/dearn/zdjecia/00443.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/00443.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/00443.jpg  used on input line 144.
-
-(pdftex.def)             Requested size: 308.54024pt x 150.56305pt.
-File: /home/dearn/zdjecia/00443.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/00443.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/00443.jpg  used on input line 144.
-
-(pdftex.def)             Requested size: 308.54024pt x 150.56305pt.
-
-Overfull \hbox (37.52774pt too wide) in paragraph at lines 144--144
-[] 
- []
-
-
-Overfull \hbox (20.0pt too wide) in paragraph at lines 144--145
+Overfull \hbox (20.0pt too wide) in paragraph at lines 130--131
 []$[]$ 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 144--145
+Underfull \hbox (badness 10000) in paragraph at lines 130--131
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 144--145
-
- []
-
-</home/dearn/zdjecia/00473.jpg, id=39, 250.9375pt x 188.705pt>
-File: /home/dearn/zdjecia/00473.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/00473.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/00473.jpg  used on input line 150.
-
-(pdftex.def)             Requested size: 200.21803pt x 150.56305pt.
-File: /home/dearn/zdjecia/00473.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/00473.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/00473.jpg  used on input line 150.
-
-(pdftex.def)             Requested size: 200.21803pt x 150.56305pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 150--151
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 150--151
-
- []
-
-</home/dearn/zdjecia/00477.jpg, id=40, 250.9375pt x 188.705pt>
-File: /home/dearn/zdjecia/00477.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/00477.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/00477.jpg  used on input line 156.
-
-(pdftex.def)             Requested size: 200.21803pt x 150.56305pt.
-File: /home/dearn/zdjecia/00477.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/00477.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/00477.jpg  used on input line 156.
-
-(pdftex.def)             Requested size: 200.21803pt x 150.56305pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 156--157
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 156--157
+Underfull \hbox (badness 10000) in paragraph at lines 130--131
 
  []
 
 File: ./logo.jpg Graphic file (type jpg)
 <use ./logo.jpg>
-Package pdftex.def Info: ./logo.jpg  used on input line 157.
+Package pdftex.def Info: ./logo.jpg  used on input line 131.
 (pdftex.def)             Requested size: 57.06256pt x 30.11261pt.
-[4 </home/dearn/zdjecia/00117.jpg> </home/dearn/zdjecia/00118.jpg> </home/dearn
-/zdjecia/00220.jpg> </home/dearn/zdjecia/00338.jpg> </home/dearn/zdjecia/00355.
-jpg> </home/dearn/zdjecia/00443.jpg>]
-</home/dearn/zdjecia/00502.jpg, id=44, 250.9375pt x 188.705pt>
-File: /home/dearn/zdjecia/00502.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/00502.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/00502.jpg  used on input line 162.
+[4 </home/dearn/zdjecia/9976.jpg> </home/dearn/zdjecia/9975.jpg> </home/dearn/z
+djecia/9974.jpg> </home/dearn/zdjecia/9973.jpg> </home/dearn/zdjecia/9972.jpg> 
+</home/dearn/zdjecia/9971.jpg>]
+</home/dearn/zdjecia/9968.jpg, id=44, 217.81375pt x 159.59625pt>
+File: /home/dearn/zdjecia/9968.jpg Graphic file (type jpg)
+<use /home/dearn/zdjecia/9968.jpg>
+Package pdftex.def Info: /home/dearn/zdjecia/9968.jpg  used on input line 135.
+(pdftex.def)             Requested size: 205.48608pt x 150.56305pt.
+File: /home/dearn/zdjecia/9968.jpg Graphic file (type jpg)
+<use /home/dearn/zdjecia/9968.jpg>
+Package pdftex.def Info: /home/dearn/zdjecia/9968.jpg  used on input line 135.
+(pdftex.def)             Requested size: 205.48608pt x 150.56305pt.
 
-(pdftex.def)             Requested size: 200.21803pt x 150.56305pt.
-File: /home/dearn/zdjecia/00502.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/00502.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/00502.jpg  used on input line 162.
+Underfull \hbox (badness 10000) in paragraph at lines 135--135
 
-(pdftex.def)             Requested size: 200.21803pt x 150.56305pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 162--163
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 162--163
-
- []
-
-</home/dearn/zdjecia/00503.jpg, id=45, 250.9375pt x 260.975pt>
-File: /home/dearn/zdjecia/00503.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/00503.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/00503.jpg  used on input line 168.
-
-(pdftex.def)             Requested size: 144.77422pt x 150.56305pt.
-File: /home/dearn/zdjecia/00503.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/00503.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/00503.jpg  used on input line 168.
-
-(pdftex.def)             Requested size: 144.77422pt x 150.56305pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 168--169
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 168--169
-
- []
-
-</home/dearn/zdjecia/00524.jpg, id=46, 250.9375pt x 334.24875pt>
-File: /home/dearn/zdjecia/00524.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/00524.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/00524.jpg  used on input line 174.
-
-(pdftex.def)             Requested size: 113.03952pt x 150.56305pt.
-File: /home/dearn/zdjecia/00524.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/00524.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/00524.jpg  used on input line 174.
-
-(pdftex.def)             Requested size: 113.03952pt x 150.56305pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 174--175
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 174--175
-
- []
-
-</home/dearn/zdjecia/00525.jpg, id=47, 250.9375pt x 188.705pt>
-File: /home/dearn/zdjecia/00525.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/00525.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/00525.jpg  used on input line 180.
-
-(pdftex.def)             Requested size: 200.21803pt x 150.56305pt.
-File: /home/dearn/zdjecia/00525.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/00525.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/00525.jpg  used on input line 180.
-
-(pdftex.def)             Requested size: 200.21803pt x 150.56305pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 180--181
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 180--181
-
- []
-
-</home/dearn/zdjecia/00545.jpg, id=48, 250.9375pt x 188.705pt>
-File: /home/dearn/zdjecia/00545.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/00545.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/00545.jpg  used on input line 186.
-
-(pdftex.def)             Requested size: 200.21803pt x 150.56305pt.
-File: /home/dearn/zdjecia/00545.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/00545.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/00545.jpg  used on input line 186.
-
-(pdftex.def)             Requested size: 200.21803pt x 150.56305pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 186--187
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 186--187
-
- []
-
-</home/dearn/zdjecia/00547.jpg, id=49, 250.9375pt x 188.705pt>
-File: /home/dearn/zdjecia/00547.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/00547.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/00547.jpg  used on input line 192.
-
-(pdftex.def)             Requested size: 200.21803pt x 150.56305pt.
-File: /home/dearn/zdjecia/00547.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/00547.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/00547.jpg  used on input line 192.
-
-(pdftex.def)             Requested size: 200.21803pt x 150.56305pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 192--193
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 192--193
-
- []
-
-File: ./logo.jpg Graphic file (type jpg)
-<use ./logo.jpg>
-Package pdftex.def Info: ./logo.jpg  used on input line 193.
-(pdftex.def)             Requested size: 57.06256pt x 30.11261pt.
-[5 </home/dearn/zdjecia/00473.jpg> </home/dearn/zdjecia/00477.jpg> </home/dearn
-/zdjecia/00502.jpg> </home/dearn/zdjecia/00503.jpg> </home/dearn/zdjecia/00524.
-jpg> </home/dearn/zdjecia/00525.jpg>]
-</home/dearn/zdjecia/00548.jpg, id=53, 250.9375pt x 188.705pt>
-File: /home/dearn/zdjecia/00548.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/00548.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/00548.jpg  used on input line 198.
-
-(pdftex.def)             Requested size: 200.21803pt x 150.56305pt.
-File: /home/dearn/zdjecia/00548.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/00548.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/00548.jpg  used on input line 198.
-
-(pdftex.def)             Requested size: 200.21803pt x 150.56305pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 198--199
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 198--199
-
- []
-
-</home/dearn/zdjecia/00684.jpg, id=54, 250.9375pt x 188.705pt>
-File: /home/dearn/zdjecia/00684.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/00684.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/00684.jpg  used on input line 204.
-
-(pdftex.def)             Requested size: 200.21803pt x 150.56305pt.
-File: /home/dearn/zdjecia/00684.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/00684.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/00684.jpg  used on input line 204.
-
-(pdftex.def)             Requested size: 200.21803pt x 150.56305pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 204--205
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 204--205
-
- []
-
-</home/dearn/zdjecia/00718.jpg, id=55, 250.9375pt x 188.705pt>
-File: /home/dearn/zdjecia/00718.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/00718.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/00718.jpg  used on input line 210.
-
-(pdftex.def)             Requested size: 200.21803pt x 150.56305pt.
-File: /home/dearn/zdjecia/00718.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/00718.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/00718.jpg  used on input line 210.
-
-(pdftex.def)             Requested size: 200.21803pt x 150.56305pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 210--211
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 210--211
-
- []
-
-</home/dearn/zdjecia/00812.jpg, id=56, 250.9375pt x 188.705pt>
-File: /home/dearn/zdjecia/00812.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/00812.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/00812.jpg  used on input line 216.
-
-(pdftex.def)             Requested size: 200.21803pt x 150.56305pt.
-File: /home/dearn/zdjecia/00812.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/00812.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/00812.jpg  used on input line 216.
-
-(pdftex.def)             Requested size: 200.21803pt x 150.56305pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 216--217
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 216--217
-
- []
-
-</home/dearn/zdjecia/00825.jpg, id=57, 250.9375pt x 188.705pt>
-File: /home/dearn/zdjecia/00825.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/00825.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/00825.jpg  used on input line 222.
-
-(pdftex.def)             Requested size: 200.21803pt x 150.56305pt.
-File: /home/dearn/zdjecia/00825.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/00825.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/00825.jpg  used on input line 222.
-
-(pdftex.def)             Requested size: 200.21803pt x 150.56305pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 222--223
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 222--223
-
- []
-
-</home/dearn/zdjecia/00840.jpg, id=58, 250.9375pt x 357.335pt>
-File: /home/dearn/zdjecia/00840.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/00840.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/00840.jpg  used on input line 228.
-
-(pdftex.def)             Requested size: 105.7338pt x 150.56305pt.
-File: /home/dearn/zdjecia/00840.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/00840.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/00840.jpg  used on input line 228.
-
-(pdftex.def)             Requested size: 105.7338pt x 150.56305pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 228--229
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 228--229
-
- []
-
-File: ./logo.jpg Graphic file (type jpg)
-<use ./logo.jpg>
-Package pdftex.def Info: ./logo.jpg  used on input line 229.
-(pdftex.def)             Requested size: 57.06256pt x 30.11261pt.
-[6 </home/dearn/zdjecia/00545.jpg> </home/dearn/zdjecia/00547.jpg> </home/dearn
-/zdjecia/00548.jpg> </home/dearn/zdjecia/00684.jpg> </home/dearn/zdjecia/00718.
-jpg> </home/dearn/zdjecia/00812.jpg>]
-</home/dearn/zdjecia/00845.jpg, id=62, 250.9375pt x 188.705pt>
-File: /home/dearn/zdjecia/00845.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/00845.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/00845.jpg  used on input line 234.
-
-(pdftex.def)             Requested size: 200.21803pt x 150.56305pt.
-File: /home/dearn/zdjecia/00845.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/00845.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/00845.jpg  used on input line 234.
-
-(pdftex.def)             Requested size: 200.21803pt x 150.56305pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 234--235
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 234--235
-
- []
-
-</home/dearn/zdjecia/00899.jpg, id=63, 250.9375pt x 334.24875pt>
-File: /home/dearn/zdjecia/00899.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/00899.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/00899.jpg  used on input line 240.
-
-(pdftex.def)             Requested size: 113.03952pt x 150.56305pt.
-File: /home/dearn/zdjecia/00899.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/00899.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/00899.jpg  used on input line 240.
-
-(pdftex.def)             Requested size: 113.03952pt x 150.56305pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 240--241
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 240--241
-
- []
-
-</home/dearn/zdjecia/00978.jpg, id=64, 250.9375pt x 188.705pt>
-File: /home/dearn/zdjecia/00978.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/00978.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/00978.jpg  used on input line 246.
-
-(pdftex.def)             Requested size: 200.21803pt x 150.56305pt.
-File: /home/dearn/zdjecia/00978.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/00978.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/00978.jpg  used on input line 246.
-
-(pdftex.def)             Requested size: 200.21803pt x 150.56305pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 246--247
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 246--247
-
- []
-
-</home/dearn/zdjecia/01069.jpg, id=65, 250.9375pt x 188.705pt>
-File: /home/dearn/zdjecia/01069.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/01069.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/01069.jpg  used on input line 252.
-
-(pdftex.def)             Requested size: 200.21803pt x 150.56305pt.
-File: /home/dearn/zdjecia/01069.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/01069.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/01069.jpg  used on input line 252.
-
-(pdftex.def)             Requested size: 200.21803pt x 150.56305pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 252--253
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 252--253
-
- []
-
-</home/dearn/zdjecia/01105.jpg, id=66, 250.9375pt x 334.24875pt>
-File: /home/dearn/zdjecia/01105.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/01105.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/01105.jpg  used on input line 258.
-
-(pdftex.def)             Requested size: 113.03952pt x 150.56305pt.
-File: /home/dearn/zdjecia/01105.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/01105.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/01105.jpg  used on input line 258.
-
-(pdftex.def)             Requested size: 113.03952pt x 150.56305pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 258--259
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 258--259
-
- []
-
-</home/dearn/zdjecia/01115.jpg, id=67, 250.9375pt x 186.6975pt>
-File: /home/dearn/zdjecia/01115.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/01115.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/01115.jpg  used on input line 264.
-
-(pdftex.def)             Requested size: 202.37758pt x 150.56305pt.
-File: /home/dearn/zdjecia/01115.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/01115.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/01115.jpg  used on input line 264.
-
-(pdftex.def)             Requested size: 202.37758pt x 150.56305pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 264--265
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 264--265
-
- []
-
-File: ./logo.jpg Graphic file (type jpg)
-<use ./logo.jpg>
-Package pdftex.def Info: ./logo.jpg  used on input line 265.
-(pdftex.def)             Requested size: 57.06256pt x 30.11261pt.
-[7 </home/dearn/zdjecia/00825.jpg> </home/dearn/zdjecia/00840.jpg> </home/dearn
-/zdjecia/00845.jpg> </home/dearn/zdjecia/00899.jpg> </home/dearn/zdjecia/00978.
-jpg> </home/dearn/zdjecia/01069.jpg>]
-</home/dearn/zdjecia/01119.jpg, id=72, 250.9375pt x 188.705pt>
-File: /home/dearn/zdjecia/01119.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/01119.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/01119.jpg  used on input line 270.
-
-(pdftex.def)             Requested size: 200.21803pt x 150.56305pt.
-File: /home/dearn/zdjecia/01119.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/01119.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/01119.jpg  used on input line 270.
-
-(pdftex.def)             Requested size: 200.21803pt x 150.56305pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 270--271
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 270--271
-
- []
-
-</home/dearn/zdjecia/01236.jpg, id=73, 250.9375pt x 250.9375pt>
-File: /home/dearn/zdjecia/01236.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/01236.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/01236.jpg  used on input line 276.
-
-(pdftex.def)             Requested size: 150.5713pt x 150.56305pt.
-File: /home/dearn/zdjecia/01236.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/01236.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/01236.jpg  used on input line 276.
-
-(pdftex.def)             Requested size: 150.5713pt x 150.56305pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 276--277
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 276--277
-
- []
-
-</home/dearn/zdjecia/01273.jpg, id=74, 250.9375pt x 188.705pt>
-File: /home/dearn/zdjecia/01273.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/01273.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/01273.jpg  used on input line 282.
-
-(pdftex.def)             Requested size: 200.21803pt x 150.56305pt.
-File: /home/dearn/zdjecia/01273.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/01273.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/01273.jpg  used on input line 282.
-
-(pdftex.def)             Requested size: 200.21803pt x 150.56305pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 282--283
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 282--283
-
- []
-
-</home/dearn/zdjecia/01276.jpg, id=75, 250.9375pt x 162.6075pt>
-File: /home/dearn/zdjecia/01276.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/01276.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/01276.jpg  used on input line 288.
-
-(pdftex.def)             Requested size: 232.36626pt x 150.56305pt.
-File: /home/dearn/zdjecia/01276.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/01276.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/01276.jpg  used on input line 288.
-
-(pdftex.def)             Requested size: 232.36626pt x 150.56305pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 288--289
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 288--289
-
- []
-
-</home/dearn/zdjecia/01302.jpg, id=76, 250.9375pt x 188.705pt>
-File: /home/dearn/zdjecia/01302.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/01302.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/01302.jpg  used on input line 294.
-
-(pdftex.def)             Requested size: 200.21803pt x 150.56305pt.
-File: /home/dearn/zdjecia/01302.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/01302.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/01302.jpg  used on input line 294.
-
-(pdftex.def)             Requested size: 200.21803pt x 150.56305pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 294--295
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 294--295
-
- []
-
-</home/dearn/zdjecia/01467.jpg, id=77, 250.9375pt x 334.24875pt>
-File: /home/dearn/zdjecia/01467.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/01467.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/01467.jpg  used on input line 300.
-
-(pdftex.def)             Requested size: 113.03952pt x 150.56305pt.
-File: /home/dearn/zdjecia/01467.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/01467.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/01467.jpg  used on input line 300.
-
-(pdftex.def)             Requested size: 113.03952pt x 150.56305pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 300--301
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 300--301
-
- []
-
-File: ./logo.jpg Graphic file (type jpg)
-<use ./logo.jpg>
-Package pdftex.def Info: ./logo.jpg  used on input line 301.
-(pdftex.def)             Requested size: 57.06256pt x 30.11261pt.
-[8 </home/dearn/zdjecia/01105.jpg> </home/dearn/zdjecia/01115.jpg> </home/dearn
-/zdjecia/01119.jpg> </home/dearn/zdjecia/01236.jpg> </home/dearn/zdjecia/01273.
-jpg> </home/dearn/zdjecia/01276.jpg>]
-</home/dearn/zdjecia/01475.jpg, id=81, 250.9375pt x 188.705pt>
-File: /home/dearn/zdjecia/01475.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/01475.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/01475.jpg  used on input line 306.
-
-(pdftex.def)             Requested size: 200.21803pt x 150.56305pt.
-File: /home/dearn/zdjecia/01475.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/01475.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/01475.jpg  used on input line 306.
-
-(pdftex.def)             Requested size: 200.21803pt x 150.56305pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 306--307
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 306--307
-
- []
-
-</home/dearn/zdjecia/01630.jpg, id=82, 250.9375pt x 188.705pt>
-File: /home/dearn/zdjecia/01630.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/01630.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/01630.jpg  used on input line 312.
-
-(pdftex.def)             Requested size: 200.21803pt x 150.56305pt.
-File: /home/dearn/zdjecia/01630.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/01630.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/01630.jpg  used on input line 312.
-
-(pdftex.def)             Requested size: 200.21803pt x 150.56305pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 312--313
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 312--313
-
- []
-
-</home/dearn/zdjecia/01679.jpg, id=83, 250.9375pt x 188.705pt>
-File: /home/dearn/zdjecia/01679.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/01679.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/01679.jpg  used on input line 318.
-
-(pdftex.def)             Requested size: 200.21803pt x 150.56305pt.
-File: /home/dearn/zdjecia/01679.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/01679.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/01679.jpg  used on input line 318.
-
-(pdftex.def)             Requested size: 200.21803pt x 150.56305pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 318--319
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 318--319
-
- []
-
-</home/dearn/zdjecia/01697.jpg, id=84, 250.9375pt x 188.705pt>
-File: /home/dearn/zdjecia/01697.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/01697.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/01697.jpg  used on input line 324.
-
-(pdftex.def)             Requested size: 200.21803pt x 150.56305pt.
-File: /home/dearn/zdjecia/01697.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/01697.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/01697.jpg  used on input line 324.
-
-(pdftex.def)             Requested size: 200.21803pt x 150.56305pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 324--325
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 324--325
-
- []
-
-</home/dearn/zdjecia/01724.jpg, id=85, 250.9375pt x 188.705pt>
-File: /home/dearn/zdjecia/01724.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/01724.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/01724.jpg  used on input line 330.
-
-(pdftex.def)             Requested size: 200.21803pt x 150.56305pt.
-File: /home/dearn/zdjecia/01724.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/01724.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/01724.jpg  used on input line 330.
-
-(pdftex.def)             Requested size: 200.21803pt x 150.56305pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 330--331
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 330--331
-
- []
-
-</home/dearn/zdjecia/01815.jpg, id=86, 250.9375pt x 334.24875pt>
-File: /home/dearn/zdjecia/01815.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/01815.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/01815.jpg  used on input line 336.
-
-(pdftex.def)             Requested size: 113.03952pt x 150.56305pt.
-File: /home/dearn/zdjecia/01815.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/01815.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/01815.jpg  used on input line 336.
-
-(pdftex.def)             Requested size: 113.03952pt x 150.56305pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 336--337
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 336--337
-
- []
-
-File: ./logo.jpg Graphic file (type jpg)
-<use ./logo.jpg>
-Package pdftex.def Info: ./logo.jpg  used on input line 337.
-(pdftex.def)             Requested size: 57.06256pt x 30.11261pt.
-[9 </home/dearn/zdjecia/01302.jpg> </home/dearn/zdjecia/01467.jpg> </home/dearn
-/zdjecia/01475.jpg> </home/dearn/zdjecia/01630.jpg> </home/dearn/zdjecia/01679.
-jpg> </home/dearn/zdjecia/01697.jpg>]
-</home/dearn/zdjecia/01876.jpg, id=90, 250.9375pt x 334.24875pt>
-File: /home/dearn/zdjecia/01876.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/01876.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/01876.jpg  used on input line 342.
-
-(pdftex.def)             Requested size: 113.03952pt x 150.56305pt.
-File: /home/dearn/zdjecia/01876.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/01876.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/01876.jpg  used on input line 342.
-
-(pdftex.def)             Requested size: 113.03952pt x 150.56305pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 342--343
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 342--343
-
- []
-
-</home/dearn/zdjecia/01958.jpg, id=91, 250.9375pt x 188.705pt>
-File: /home/dearn/zdjecia/01958.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/01958.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/01958.jpg  used on input line 348.
-
-(pdftex.def)             Requested size: 200.21803pt x 150.56305pt.
-File: /home/dearn/zdjecia/01958.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/01958.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/01958.jpg  used on input line 348.
-
-(pdftex.def)             Requested size: 200.21803pt x 150.56305pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 348--349
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 348--349
-
- []
-
-</home/dearn/zdjecia/01989.jpg, id=92, 250.9375pt x 334.24875pt>
-File: /home/dearn/zdjecia/01989.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/01989.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/01989.jpg  used on input line 354.
-
-(pdftex.def)             Requested size: 113.03952pt x 150.56305pt.
-File: /home/dearn/zdjecia/01989.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/01989.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/01989.jpg  used on input line 354.
-
-(pdftex.def)             Requested size: 113.03952pt x 150.56305pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 354--355
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 354--355
-
- []
-
-</home/dearn/zdjecia/02069.jpg, id=93, 250.9375pt x 334.24875pt>
-File: /home/dearn/zdjecia/02069.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/02069.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/02069.jpg  used on input line 360.
-
-(pdftex.def)             Requested size: 113.03952pt x 150.56305pt.
-File: /home/dearn/zdjecia/02069.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/02069.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/02069.jpg  used on input line 360.
-
-(pdftex.def)             Requested size: 113.03952pt x 150.56305pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 360--361
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 360--361
-
- []
-
-</home/dearn/zdjecia/02088.jpg, id=94, 250.9375pt x 188.705pt>
-File: /home/dearn/zdjecia/02088.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/02088.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/02088.jpg  used on input line 366.
-
-(pdftex.def)             Requested size: 200.21803pt x 150.56305pt.
-File: /home/dearn/zdjecia/02088.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/02088.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/02088.jpg  used on input line 366.
-
-(pdftex.def)             Requested size: 200.21803pt x 150.56305pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 366--367
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 366--367
-
- []
-
-</home/dearn/zdjecia/02177.jpg, id=95, 250.9375pt x 188.705pt>
-File: /home/dearn/zdjecia/02177.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/02177.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/02177.jpg  used on input line 372.
-
-(pdftex.def)             Requested size: 200.21803pt x 150.56305pt.
-File: /home/dearn/zdjecia/02177.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/02177.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/02177.jpg  used on input line 372.
-
-(pdftex.def)             Requested size: 200.21803pt x 150.56305pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 372--373
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 372--373
-
- []
-
-File: ./logo.jpg Graphic file (type jpg)
-<use ./logo.jpg>
-Package pdftex.def Info: ./logo.jpg  used on input line 373.
-(pdftex.def)             Requested size: 57.06256pt x 30.11261pt.
-[10 </home/dearn/zdjecia/01724.jpg> </home/dearn/zdjecia/01815.jpg> </home/dear
-n/zdjecia/01876.jpg> </home/dearn/zdjecia/01958.jpg> </home/dearn/zdjecia/01989
-.jpg> </home/dearn/zdjecia/02069.jpg>]
-</home/dearn/zdjecia/02178.jpg, id=99, 250.9375pt x 188.705pt>
-File: /home/dearn/zdjecia/02178.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/02178.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/02178.jpg  used on input line 378.
-
-(pdftex.def)             Requested size: 200.21803pt x 150.56305pt.
-File: /home/dearn/zdjecia/02178.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/02178.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/02178.jpg  used on input line 378.
-
-(pdftex.def)             Requested size: 200.21803pt x 150.56305pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 378--379
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 378--379
-
- []
-
-</home/dearn/zdjecia/02209.jpg, id=100, 250.9375pt x 188.705pt>
-File: /home/dearn/zdjecia/02209.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/02209.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/02209.jpg  used on input line 384.
-
-(pdftex.def)             Requested size: 200.21803pt x 150.56305pt.
-File: /home/dearn/zdjecia/02209.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/02209.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/02209.jpg  used on input line 384.
-
-(pdftex.def)             Requested size: 200.21803pt x 150.56305pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 384--385
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 384--385
-
- []
-
-</home/dearn/zdjecia/02303.jpg, id=101, 250.9375pt x 188.705pt>
-File: /home/dearn/zdjecia/02303.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/02303.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/02303.jpg  used on input line 390.
-
-(pdftex.def)             Requested size: 200.21803pt x 150.56305pt.
-File: /home/dearn/zdjecia/02303.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/02303.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/02303.jpg  used on input line 390.
-
-(pdftex.def)             Requested size: 200.21803pt x 150.56305pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 390--391
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 390--391
-
- []
-
-</home/dearn/zdjecia/02307.jpg, id=102, 250.9375pt x 188.705pt>
-File: /home/dearn/zdjecia/02307.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/02307.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/02307.jpg  used on input line 396.
-
-(pdftex.def)             Requested size: 200.21803pt x 150.56305pt.
-File: /home/dearn/zdjecia/02307.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/02307.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/02307.jpg  used on input line 396.
-
-(pdftex.def)             Requested size: 200.21803pt x 150.56305pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 396--397
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 396--397
-
- []
-
-</home/dearn/zdjecia/02379.jpg, id=103, 250.9375pt x 150.5625pt>
-File: /home/dearn/zdjecia/02379.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/02379.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/02379.jpg  used on input line 402.
-
-(pdftex.def)             Requested size: 250.96367pt x 150.56305pt.
-File: /home/dearn/zdjecia/02379.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/02379.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/02379.jpg  used on input line 402.
-
-(pdftex.def)             Requested size: 250.96367pt x 150.56305pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 402--403
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 402--403
-
- []
-
-</home/dearn/zdjecia/02422.jpg, id=104, 250.9375pt x 136.51pt>
-File: /home/dearn/zdjecia/02422.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/02422.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/02422.jpg  used on input line 408.
-
-(pdftex.def)             Requested size: 276.78639pt x 150.56305pt.
-File: /home/dearn/zdjecia/02422.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/02422.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/02422.jpg  used on input line 408.
-
-(pdftex.def)             Requested size: 276.78639pt x 150.56305pt.
-
-Overfull \hbox (5.7739pt too wide) in paragraph at lines 408--408
-[] 
- []
-
-
-Overfull \hbox (20.0pt too wide) in paragraph at lines 408--409
-[]$[]$ 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 408--409
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 408--409
-
- []
-
-File: ./logo.jpg Graphic file (type jpg)
-<use ./logo.jpg>
-Package pdftex.def Info: ./logo.jpg  used on input line 409.
-(pdftex.def)             Requested size: 57.06256pt x 30.11261pt.
-[11 </home/dearn/zdjecia/02088.jpg> </home/dearn/zdjecia/02177.jpg> </home/dear
-n/zdjecia/02178.jpg> </home/dearn/zdjecia/02209.jpg> </home/dearn/zdjecia/02303
-.jpg> </home/dearn/zdjecia/02307.jpg>]
-</home/dearn/zdjecia/02466.jpg, id=108, 250.9375pt x 188.705pt>
-File: /home/dearn/zdjecia/02466.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/02466.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/02466.jpg  used on input line 414.
-
-(pdftex.def)             Requested size: 200.21803pt x 150.56305pt.
-File: /home/dearn/zdjecia/02466.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/02466.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/02466.jpg  used on input line 414.
-
-(pdftex.def)             Requested size: 200.21803pt x 150.56305pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 414--415
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 414--415
-
- []
-
-</home/dearn/zdjecia/02569.jpg, id=109, 250.9375pt x 188.705pt>
-File: /home/dearn/zdjecia/02569.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/02569.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/02569.jpg  used on input line 420.
-
-(pdftex.def)             Requested size: 200.21803pt x 150.56305pt.
-File: /home/dearn/zdjecia/02569.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/02569.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/02569.jpg  used on input line 420.
-
-(pdftex.def)             Requested size: 200.21803pt x 150.56305pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 420--421
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 420--421
-
- []
-
-</home/dearn/zdjecia/02570.jpg, id=110, 250.9375pt x 188.705pt>
-File: /home/dearn/zdjecia/02570.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/02570.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/02570.jpg  used on input line 426.
-
-(pdftex.def)             Requested size: 200.21803pt x 150.56305pt.
-File: /home/dearn/zdjecia/02570.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/02570.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/02570.jpg  used on input line 426.
-
-(pdftex.def)             Requested size: 200.21803pt x 150.56305pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 426--427
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 426--427
-
- []
-
-</home/dearn/zdjecia/02682.jpg, id=111, 250.9375pt x 188.705pt>
-File: /home/dearn/zdjecia/02682.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/02682.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/02682.jpg  used on input line 432.
-
-(pdftex.def)             Requested size: 200.21803pt x 150.56305pt.
-File: /home/dearn/zdjecia/02682.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/02682.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/02682.jpg  used on input line 432.
-
-(pdftex.def)             Requested size: 200.21803pt x 150.56305pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 432--433
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 432--433
-
- []
-
-</home/dearn/zdjecia/02714.jpg, id=112, 250.9375pt x 195.73125pt>
-File: /home/dearn/zdjecia/02714.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/02714.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/02714.jpg  used on input line 438.
-
-(pdftex.def)             Requested size: 193.03867pt x 150.56305pt.
-File: /home/dearn/zdjecia/02714.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/02714.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/02714.jpg  used on input line 438.
-
-(pdftex.def)             Requested size: 193.03867pt x 150.56305pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 438--439
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 438--439
-
- []
-
-</home/dearn/zdjecia/02741.jpg, id=113, 250.9375pt x 192.72pt>
-File: /home/dearn/zdjecia/02741.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/02741.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/02741.jpg  used on input line 444.
-
-(pdftex.def)             Requested size: 196.04442pt x 150.56305pt.
-File: /home/dearn/zdjecia/02741.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/02741.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/02741.jpg  used on input line 444.
-
-(pdftex.def)             Requested size: 196.04442pt x 150.56305pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 444--445
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 444--445
-
- []
-
-File: ./logo.jpg Graphic file (type jpg)
-<use ./logo.jpg>
-Package pdftex.def Info: ./logo.jpg  used on input line 445.
-(pdftex.def)             Requested size: 57.06256pt x 30.11261pt.
-[12 </home/dearn/zdjecia/02379.jpg> </home/dearn/zdjecia/02422.jpg> </home/dear
-n/zdjecia/02466.jpg> </home/dearn/zdjecia/02569.jpg> </home/dearn/zdjecia/02570
-.jpg> </home/dearn/zdjecia/02682.jpg>]
-</home/dearn/zdjecia/02789.jpg, id=117, 250.9375pt x 364.36125pt>
-File: /home/dearn/zdjecia/02789.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/02789.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/02789.jpg  used on input line 450.
-
-(pdftex.def)             Requested size: 103.69295pt x 150.56305pt.
-File: /home/dearn/zdjecia/02789.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/02789.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/02789.jpg  used on input line 450.
-
-(pdftex.def)             Requested size: 103.69295pt x 150.56305pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 450--451
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 450--451
-
- []
-
-</home/dearn/zdjecia/02891.jpg, id=118, 250.9375pt x 334.24875pt>
-File: /home/dearn/zdjecia/02891.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/02891.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/02891.jpg  used on input line 456.
-
-(pdftex.def)             Requested size: 113.03952pt x 150.56305pt.
-File: /home/dearn/zdjecia/02891.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/02891.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/02891.jpg  used on input line 456.
-
-(pdftex.def)             Requested size: 113.03952pt x 150.56305pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 456--457
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 456--457
-
- []
-
-</home/dearn/zdjecia/03001.jpg, id=119, 250.9375pt x 188.705pt>
-File: /home/dearn/zdjecia/03001.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/03001.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/03001.jpg  used on input line 462.
-
-(pdftex.def)             Requested size: 200.21803pt x 150.56305pt.
-File: /home/dearn/zdjecia/03001.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/03001.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/03001.jpg  used on input line 462.
-
-(pdftex.def)             Requested size: 200.21803pt x 150.56305pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 462--463
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 462--463
-
- []
-
-</home/dearn/zdjecia/03058.jpg, id=120, 250.9375pt x 188.705pt>
-File: /home/dearn/zdjecia/03058.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/03058.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/03058.jpg  used on input line 468.
-
-(pdftex.def)             Requested size: 200.21803pt x 150.56305pt.
-File: /home/dearn/zdjecia/03058.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/03058.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/03058.jpg  used on input line 468.
-
-(pdftex.def)             Requested size: 200.21803pt x 150.56305pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 468--469
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 468--469
-
- []
-
-</home/dearn/zdjecia/03064.jpg, id=121, 250.9375pt x 188.705pt>
-File: /home/dearn/zdjecia/03064.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/03064.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/03064.jpg  used on input line 474.
-
-(pdftex.def)             Requested size: 200.21803pt x 150.56305pt.
-File: /home/dearn/zdjecia/03064.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/03064.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/03064.jpg  used on input line 474.
-
-(pdftex.def)             Requested size: 200.21803pt x 150.56305pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 474--475
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 474--475
-
- []
-
-</home/dearn/zdjecia/03102.jpg, id=122, 250.9375pt x 334.24875pt>
-File: /home/dearn/zdjecia/03102.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/03102.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/03102.jpg  used on input line 480.
-
-(pdftex.def)             Requested size: 113.03952pt x 150.56305pt.
-File: /home/dearn/zdjecia/03102.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/03102.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/03102.jpg  used on input line 480.
-
-(pdftex.def)             Requested size: 113.03952pt x 150.56305pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 480--481
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 480--481
-
- []
-
-File: ./logo.jpg Graphic file (type jpg)
-<use ./logo.jpg>
-Package pdftex.def Info: ./logo.jpg  used on input line 481.
-(pdftex.def)             Requested size: 57.06256pt x 30.11261pt.
-[13 </home/dearn/zdjecia/02714.jpg> </home/dearn/zdjecia/02741.jpg> </home/dear
-n/zdjecia/02789.jpg> </home/dearn/zdjecia/02891.jpg> </home/dearn/zdjecia/03001
-.jpg> </home/dearn/zdjecia/03058.jpg>]
-</home/dearn/zdjecia/03103.jpg, id=127, 250.9375pt x 188.705pt>
-File: /home/dearn/zdjecia/03103.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/03103.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/03103.jpg  used on input line 486.
-
-(pdftex.def)             Requested size: 200.21803pt x 150.56305pt.
-File: /home/dearn/zdjecia/03103.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/03103.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/03103.jpg  used on input line 486.
-
-(pdftex.def)             Requested size: 200.21803pt x 150.56305pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 486--487
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 486--487
-
- []
-
-</home/dearn/zdjecia/03110.jpg, id=128, 250.9375pt x 292.09125pt>
-File: /home/dearn/zdjecia/03110.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/03110.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/03110.jpg  used on input line 492.
-
-(pdftex.def)             Requested size: 129.35486pt x 150.56305pt.
-File: /home/dearn/zdjecia/03110.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/03110.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/03110.jpg  used on input line 492.
-
-(pdftex.def)             Requested size: 129.35486pt x 150.56305pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 492--493
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 492--493
-
- []
-
-</home/dearn/zdjecia/03111.jpg, id=129, 250.9375pt x 288.07625pt>
-File: /home/dearn/zdjecia/03111.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/03111.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/03111.jpg  used on input line 498.
-
-(pdftex.def)             Requested size: 131.15831pt x 150.56305pt.
-File: /home/dearn/zdjecia/03111.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/03111.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/03111.jpg  used on input line 498.
-
-(pdftex.def)             Requested size: 131.15831pt x 150.56305pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 498--499
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 498--499
-
- []
-
-</home/dearn/zdjecia/03115.jpg, id=130, 250.9375pt x 178.6675pt>
-File: /home/dearn/zdjecia/03115.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/03115.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/03115.jpg  used on input line 504.
-
-(pdftex.def)             Requested size: 211.47527pt x 150.56305pt.
-File: /home/dearn/zdjecia/03115.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/03115.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/03115.jpg  used on input line 504.
-
-(pdftex.def)             Requested size: 211.47527pt x 150.56305pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 504--505
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 504--505
-
- []
-
-</home/dearn/zdjecia/03116.jpg, id=131, 250.9375pt x 289.08pt>
-File: /home/dearn/zdjecia/03116.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/03116.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/03116.jpg  used on input line 510.
-
-(pdftex.def)             Requested size: 130.695pt x 150.56305pt.
-File: /home/dearn/zdjecia/03116.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/03116.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/03116.jpg  used on input line 510.
-
-(pdftex.def)             Requested size: 130.695pt x 150.56305pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 510--511
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 510--511
-
- []
-
-</home/dearn/zdjecia/03360.jpg, id=132, 250.9375pt x 188.705pt>
-File: /home/dearn/zdjecia/03360.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/03360.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/03360.jpg  used on input line 516.
-
-(pdftex.def)             Requested size: 200.21803pt x 150.56305pt.
-File: /home/dearn/zdjecia/03360.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/03360.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/03360.jpg  used on input line 516.
-
-(pdftex.def)             Requested size: 200.21803pt x 150.56305pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 516--517
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 516--517
-
- []
-
-File: ./logo.jpg Graphic file (type jpg)
-<use ./logo.jpg>
-Package pdftex.def Info: ./logo.jpg  used on input line 517.
-(pdftex.def)             Requested size: 57.06256pt x 30.11261pt.
-[14 </home/dearn/zdjecia/03064.jpg> </home/dearn/zdjecia/03102.jpg> </home/dear
-n/zdjecia/03103.jpg> </home/dearn/zdjecia/03110.jpg> </home/dearn/zdjecia/03111
-.jpg> </home/dearn/zdjecia/03115.jpg>]
-</home/dearn/zdjecia/03392.jpg, id=136, 250.9375pt x 152.57pt>
-File: /home/dearn/zdjecia/03392.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/03392.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/03392.jpg  used on input line 522.
-
-(pdftex.def)             Requested size: 247.64777pt x 150.56305pt.
-File: /home/dearn/zdjecia/03392.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/03392.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/03392.jpg  used on input line 522.
-
-(pdftex.def)             Requested size: 247.64777pt x 150.56305pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 522--523
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 522--523
-
- []
-
-</home/dearn/zdjecia/03405.jpg, id=137, 250.9375pt x 188.705pt>
-File: /home/dearn/zdjecia/03405.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/03405.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/03405.jpg  used on input line 528.
-
-(pdftex.def)             Requested size: 200.21803pt x 150.56305pt.
-File: /home/dearn/zdjecia/03405.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/03405.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/03405.jpg  used on input line 528.
-
-(pdftex.def)             Requested size: 200.21803pt x 150.56305pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 528--529
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 528--529
-
- []
-
-</home/dearn/zdjecia/03719.jpg, id=138, 250.9375pt x 188.705pt>
-File: /home/dearn/zdjecia/03719.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/03719.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/03719.jpg  used on input line 534.
-
-(pdftex.def)             Requested size: 200.21803pt x 150.56305pt.
-File: /home/dearn/zdjecia/03719.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/03719.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/03719.jpg  used on input line 534.
-
-(pdftex.def)             Requested size: 200.21803pt x 150.56305pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 534--535
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 534--535
-
- []
-
-</home/dearn/zdjecia/03751.jpg, id=139, 250.9375pt x 140.525pt>
-File: /home/dearn/zdjecia/03751.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/03751.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/03751.jpg  used on input line 540.
-
-(pdftex.def)             Requested size: 268.87953pt x 150.56305pt.
-File: /home/dearn/zdjecia/03751.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/03751.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/03751.jpg  used on input line 540.
-
-(pdftex.def)             Requested size: 268.87953pt x 150.56305pt.
-
-Overfull \hbox (17.86705pt too wide) in paragraph at lines 540--541
-[]$[]$ 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 540--541
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 540--541
-
- []
-
-</home/dearn/zdjecia/03837.jpg, id=140, 250.9375pt x 188.705pt>
-File: /home/dearn/zdjecia/03837.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/03837.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/03837.jpg  used on input line 546.
-
-(pdftex.def)             Requested size: 200.21803pt x 150.56305pt.
-File: /home/dearn/zdjecia/03837.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/03837.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/03837.jpg  used on input line 546.
-
-(pdftex.def)             Requested size: 200.21803pt x 150.56305pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 546--547
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 546--547
-
- []
-
-</home/dearn/zdjecia/03902.jpg, id=141, 250.9375pt x 334.24875pt>
-File: /home/dearn/zdjecia/03902.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/03902.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/03902.jpg  used on input line 552.
-
-(pdftex.def)             Requested size: 113.03952pt x 150.56305pt.
-File: /home/dearn/zdjecia/03902.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/03902.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/03902.jpg  used on input line 552.
-
-(pdftex.def)             Requested size: 113.03952pt x 150.56305pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 552--553
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 552--553
-
- []
-
-File: ./logo.jpg Graphic file (type jpg)
-<use ./logo.jpg>
-Package pdftex.def Info: ./logo.jpg  used on input line 553.
-(pdftex.def)             Requested size: 57.06256pt x 30.11261pt.
-[15 </home/dearn/zdjecia/03116.jpg> </home/dearn/zdjecia/03360.jpg> </home/dear
-n/zdjecia/03392.jpg> </home/dearn/zdjecia/03405.jpg> </home/dearn/zdjecia/03719
-.jpg> </home/dearn/zdjecia/03751.jpg>]
-</home/dearn/zdjecia/03905.jpg, id=145, 250.9375pt x 188.705pt>
-File: /home/dearn/zdjecia/03905.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/03905.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/03905.jpg  used on input line 558.
-
-(pdftex.def)             Requested size: 200.21803pt x 150.56305pt.
-File: /home/dearn/zdjecia/03905.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/03905.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/03905.jpg  used on input line 558.
-
-(pdftex.def)             Requested size: 200.21803pt x 150.56305pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 558--559
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 558--559
-
- []
-
-</home/dearn/zdjecia/03911.jpg, id=146, 250.9375pt x 188.705pt>
-File: /home/dearn/zdjecia/03911.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/03911.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/03911.jpg  used on input line 564.
-
-(pdftex.def)             Requested size: 200.21803pt x 150.56305pt.
-File: /home/dearn/zdjecia/03911.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/03911.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/03911.jpg  used on input line 564.
-
-(pdftex.def)             Requested size: 200.21803pt x 150.56305pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 564--565
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 564--565
-
- []
-
-</home/dearn/zdjecia/04009.jpg, id=147, 250.9375pt x 188.705pt>
-File: /home/dearn/zdjecia/04009.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/04009.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/04009.jpg  used on input line 570.
-
-(pdftex.def)             Requested size: 200.21803pt x 150.56305pt.
-File: /home/dearn/zdjecia/04009.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/04009.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/04009.jpg  used on input line 570.
-
-(pdftex.def)             Requested size: 200.21803pt x 150.56305pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 570--571
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 570--571
-
- []
-
-</home/dearn/zdjecia/04018.jpg, id=148, 250.9375pt x 334.24875pt>
-File: /home/dearn/zdjecia/04018.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/04018.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/04018.jpg  used on input line 576.
-
-(pdftex.def)             Requested size: 113.03952pt x 150.56305pt.
-File: /home/dearn/zdjecia/04018.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/04018.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/04018.jpg  used on input line 576.
-
-(pdftex.def)             Requested size: 113.03952pt x 150.56305pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 576--577
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 576--577
-
- []
-
-</home/dearn/zdjecia/04043.jpg, id=149, 250.9375pt x 163.61125pt>
-File: /home/dearn/zdjecia/04043.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/04043.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/04043.jpg  used on input line 582.
-
-(pdftex.def)             Requested size: 230.92654pt x 150.56305pt.
-File: /home/dearn/zdjecia/04043.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/04043.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/04043.jpg  used on input line 582.
-
-(pdftex.def)             Requested size: 230.92654pt x 150.56305pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 582--583
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 582--583
-
- []
-
-</home/dearn/zdjecia/04063.jpg, id=150, 60.225pt x 45.5301pt>
-File: /home/dearn/zdjecia/04063.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/04063.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/04063.jpg  used on input line 588.
-
-(pdftex.def)             Requested size: 199.22pt x 150.56305pt.
-File: /home/dearn/zdjecia/04063.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/04063.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/04063.jpg  used on input line 588.
-
-(pdftex.def)             Requested size: 199.22pt x 150.56305pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 588--589
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 588--589
-
- []
-
-File: ./logo.jpg Graphic file (type jpg)
-<use ./logo.jpg>
-Package pdftex.def Info: ./logo.jpg  used on input line 589.
-(pdftex.def)             Requested size: 57.06256pt x 30.11261pt.
-[16 </home/dearn/zdjecia/03837.jpg> </home/dearn/zdjecia/03902.jpg> </home/dear
-n/zdjecia/03905.jpg> </home/dearn/zdjecia/03911.jpg> </home/dearn/zdjecia/04009
-.jpg> </home/dearn/zdjecia/04018.jpg>]
-</home/dearn/zdjecia/04064.jpg, id=154, 250.9375pt x 188.705pt>
-File: /home/dearn/zdjecia/04064.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/04064.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/04064.jpg  used on input line 594.
-
-(pdftex.def)             Requested size: 200.21803pt x 150.56305pt.
-File: /home/dearn/zdjecia/04064.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/04064.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/04064.jpg  used on input line 594.
-
-(pdftex.def)             Requested size: 200.21803pt x 150.56305pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 594--595
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 594--595
-
- []
-
-</home/dearn/zdjecia/04106.jpg, id=155, 250.9375pt x 188.705pt>
-File: /home/dearn/zdjecia/04106.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/04106.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/04106.jpg  used on input line 600.
-
-(pdftex.def)             Requested size: 200.21803pt x 150.56305pt.
-File: /home/dearn/zdjecia/04106.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/04106.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/04106.jpg  used on input line 600.
-
-(pdftex.def)             Requested size: 200.21803pt x 150.56305pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 600--601
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 600--601
-
- []
-
-</home/dearn/zdjecia/04209.jpg, id=156, 250.9375pt x 188.705pt>
-File: /home/dearn/zdjecia/04209.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/04209.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/04209.jpg  used on input line 606.
-
-(pdftex.def)             Requested size: 200.21803pt x 150.56305pt.
-File: /home/dearn/zdjecia/04209.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/04209.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/04209.jpg  used on input line 606.
-
-(pdftex.def)             Requested size: 200.21803pt x 150.56305pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 606--607
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 606--607
-
- []
-
-</home/dearn/zdjecia/04262.jpg, id=157, 250.9375pt x 188.705pt>
-File: /home/dearn/zdjecia/04262.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/04262.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/04262.jpg  used on input line 612.
-
-(pdftex.def)             Requested size: 200.21803pt x 150.56305pt.
-File: /home/dearn/zdjecia/04262.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/04262.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/04262.jpg  used on input line 612.
-
-(pdftex.def)             Requested size: 200.21803pt x 150.56305pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 612--613
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 612--613
-
- []
-
-</home/dearn/zdjecia/04266.jpg, id=158, 250.9375pt x 318.18875pt>
-File: /home/dearn/zdjecia/04266.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/04266.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/04266.jpg  used on input line 618.
-
-(pdftex.def)             Requested size: 118.73706pt x 150.56305pt.
-File: /home/dearn/zdjecia/04266.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/04266.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/04266.jpg  used on input line 618.
-
-(pdftex.def)             Requested size: 118.73706pt x 150.56305pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 618--619
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 618--619
-
- []
-
-</home/dearn/zdjecia/04271.jpg, id=159, 250.9375pt x 356.33125pt>
-File: /home/dearn/zdjecia/04271.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/04271.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/04271.jpg  used on input line 624.
-
-(pdftex.def)             Requested size: 106.02863pt x 150.56305pt.
-File: /home/dearn/zdjecia/04271.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/04271.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/04271.jpg  used on input line 624.
-
-(pdftex.def)             Requested size: 106.02863pt x 150.56305pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 624--625
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 624--625
-
- []
-
-File: ./logo.jpg Graphic file (type jpg)
-<use ./logo.jpg>
-Package pdftex.def Info: ./logo.jpg  used on input line 625.
-(pdftex.def)             Requested size: 57.06256pt x 30.11261pt.
-[17 </home/dearn/zdjecia/04043.jpg> </home/dearn/zdjecia/04063.jpg> </home/dear
-n/zdjecia/04064.jpg> </home/dearn/zdjecia/04106.jpg> </home/dearn/zdjecia/04209
-.jpg> </home/dearn/zdjecia/04262.jpg>]
-</home/dearn/zdjecia/04281.jpg, id=163, 250.9375pt x 188.705pt>
-File: /home/dearn/zdjecia/04281.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/04281.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/04281.jpg  used on input line 630.
-
-(pdftex.def)             Requested size: 200.21803pt x 150.56305pt.
-File: /home/dearn/zdjecia/04281.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/04281.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/04281.jpg  used on input line 630.
-
-(pdftex.def)             Requested size: 200.21803pt x 150.56305pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 630--631
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 630--631
-
- []
-
-</home/dearn/zdjecia/04286.jpg, id=164, 250.9375pt x 334.24875pt>
-File: /home/dearn/zdjecia/04286.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/04286.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/04286.jpg  used on input line 636.
-
-(pdftex.def)             Requested size: 113.03952pt x 150.56305pt.
-File: /home/dearn/zdjecia/04286.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/04286.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/04286.jpg  used on input line 636.
-
-(pdftex.def)             Requested size: 113.03952pt x 150.56305pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 636--637
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 636--637
-
- []
-
-</home/dearn/zdjecia/04322.jpg, id=165, 250.9375pt x 188.705pt>
-File: /home/dearn/zdjecia/04322.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/04322.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/04322.jpg  used on input line 642.
-
-(pdftex.def)             Requested size: 200.21803pt x 150.56305pt.
-File: /home/dearn/zdjecia/04322.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/04322.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/04322.jpg  used on input line 642.
-
-(pdftex.def)             Requested size: 200.21803pt x 150.56305pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 642--643
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 642--643
-
- []
-
-</home/dearn/zdjecia/04336.jpg, id=166, 250.9375pt x 159.59625pt>
-File: /home/dearn/zdjecia/04336.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/04336.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/04336.jpg  used on input line 648.
-
-(pdftex.def)             Requested size: 236.73514pt x 150.56305pt.
-File: /home/dearn/zdjecia/04336.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/04336.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/04336.jpg  used on input line 648.
-
-(pdftex.def)             Requested size: 236.73514pt x 150.56305pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 648--649
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 648--649
-
- []
-
-</home/dearn/zdjecia/04342.jpg, id=167, 250.9375pt x 188.705pt>
-File: /home/dearn/zdjecia/04342.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/04342.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/04342.jpg  used on input line 654.
-
-(pdftex.def)             Requested size: 200.21803pt x 150.56305pt.
-File: /home/dearn/zdjecia/04342.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/04342.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/04342.jpg  used on input line 654.
-
-(pdftex.def)             Requested size: 200.21803pt x 150.56305pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 654--655
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 654--655
-
- []
-
-</home/dearn/zdjecia/04343.jpg, id=168, 250.9375pt x 886.31125pt>
-File: /home/dearn/zdjecia/04343.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/04343.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/04343.jpg  used on input line 660.
-
-(pdftex.def)             Requested size: 42.62817pt x 150.56305pt.
-File: /home/dearn/zdjecia/04343.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/04343.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/04343.jpg  used on input line 660.
-
-(pdftex.def)             Requested size: 42.62817pt x 150.56305pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 660--661
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 660--661
-
- []
-
-File: ./logo.jpg Graphic file (type jpg)
-<use ./logo.jpg>
-Package pdftex.def Info: ./logo.jpg  used on input line 661.
-(pdftex.def)             Requested size: 57.06256pt x 30.11261pt.
-[18 </home/dearn/zdjecia/04266.jpg> </home/dearn/zdjecia/04271.jpg> </home/dear
-n/zdjecia/04281.jpg> </home/dearn/zdjecia/04286.jpg> </home/dearn/zdjecia/04322
-.jpg> </home/dearn/zdjecia/04336.jpg>]
-</home/dearn/zdjecia/04357.jpg, id=172, 250.9375pt x 188.705pt>
-File: /home/dearn/zdjecia/04357.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/04357.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/04357.jpg  used on input line 666.
-
-(pdftex.def)             Requested size: 200.21803pt x 150.56305pt.
-File: /home/dearn/zdjecia/04357.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/04357.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/04357.jpg  used on input line 666.
-
-(pdftex.def)             Requested size: 200.21803pt x 150.56305pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 666--667
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 666--667
-
- []
-
-</home/dearn/zdjecia/04374.jpg, id=173, 250.9375pt x 188.705pt>
-File: /home/dearn/zdjecia/04374.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/04374.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/04374.jpg  used on input line 672.
-
-(pdftex.def)             Requested size: 200.21803pt x 150.56305pt.
-File: /home/dearn/zdjecia/04374.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/04374.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/04374.jpg  used on input line 672.
-
-(pdftex.def)             Requested size: 200.21803pt x 150.56305pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 672--673
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 672--673
-
- []
-
-</home/dearn/zdjecia/04387.jpg, id=174, 250.9375pt x 334.24875pt>
-File: /home/dearn/zdjecia/04387.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/04387.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/04387.jpg  used on input line 678.
-
-(pdftex.def)             Requested size: 113.03952pt x 150.56305pt.
-File: /home/dearn/zdjecia/04387.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/04387.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/04387.jpg  used on input line 678.
-
-(pdftex.def)             Requested size: 113.03952pt x 150.56305pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 678--679
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 678--679
-
- []
-
-</home/dearn/zdjecia/04391.jpg, id=175, 250.9375pt x 188.705pt>
-File: /home/dearn/zdjecia/04391.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/04391.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/04391.jpg  used on input line 684.
-
-(pdftex.def)             Requested size: 200.21803pt x 150.56305pt.
-File: /home/dearn/zdjecia/04391.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/04391.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/04391.jpg  used on input line 684.
-
-(pdftex.def)             Requested size: 200.21803pt x 150.56305pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 684--685
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 684--685
-
- []
-
-</home/dearn/zdjecia/04406.jpg, id=176, 250.9375pt x 188.705pt>
-File: /home/dearn/zdjecia/04406.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/04406.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/04406.jpg  used on input line 690.
-
-(pdftex.def)             Requested size: 200.21803pt x 150.56305pt.
-File: /home/dearn/zdjecia/04406.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/04406.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/04406.jpg  used on input line 690.
-
-(pdftex.def)             Requested size: 200.21803pt x 150.56305pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 690--691
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 690--691
-
- []
-
-</home/dearn/zdjecia/04408.jpg, id=177, 250.9375pt x 188.705pt>
-File: /home/dearn/zdjecia/04408.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/04408.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/04408.jpg  used on input line 696.
-
-(pdftex.def)             Requested size: 200.21803pt x 150.56305pt.
-File: /home/dearn/zdjecia/04408.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/04408.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/04408.jpg  used on input line 696.
-
-(pdftex.def)             Requested size: 200.21803pt x 150.56305pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 696--697
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 696--697
-
- []
-
-File: ./logo.jpg Graphic file (type jpg)
-<use ./logo.jpg>
-Package pdftex.def Info: ./logo.jpg  used on input line 697.
-(pdftex.def)             Requested size: 57.06256pt x 30.11261pt.
-[19 </home/dearn/zdjecia/04342.jpg> </home/dearn/zdjecia/04343.jpg> </home/dear
-n/zdjecia/04357.jpg> </home/dearn/zdjecia/04374.jpg> </home/dearn/zdjecia/04387
-.jpg> </home/dearn/zdjecia/04391.jpg>]
-</home/dearn/zdjecia/04409.jpg, id=182, 250.9375pt x 188.705pt>
-File: /home/dearn/zdjecia/04409.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/04409.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/04409.jpg  used on input line 702.
-
-(pdftex.def)             Requested size: 200.21803pt x 150.56305pt.
-File: /home/dearn/zdjecia/04409.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/04409.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/04409.jpg  used on input line 702.
-
-(pdftex.def)             Requested size: 200.21803pt x 150.56305pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 702--703
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 702--703
-
- []
-
-</home/dearn/zdjecia/04410.jpg, id=183, 250.9375pt x 334.24875pt>
-File: /home/dearn/zdjecia/04410.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/04410.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/04410.jpg  used on input line 708.
-
-(pdftex.def)             Requested size: 113.03952pt x 150.56305pt.
-File: /home/dearn/zdjecia/04410.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/04410.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/04410.jpg  used on input line 708.
-
-(pdftex.def)             Requested size: 113.03952pt x 150.56305pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 708--709
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 708--709
-
- []
-
-</home/dearn/zdjecia/04412.jpg, id=184, 250.9375pt x 188.705pt>
-File: /home/dearn/zdjecia/04412.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/04412.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/04412.jpg  used on input line 714.
-
-(pdftex.def)             Requested size: 200.21803pt x 150.56305pt.
-File: /home/dearn/zdjecia/04412.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/04412.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/04412.jpg  used on input line 714.
-
-(pdftex.def)             Requested size: 200.21803pt x 150.56305pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 714--715
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 714--715
-
- []
-
-</home/dearn/zdjecia/04415.jpg, id=185, 250.9375pt x 188.705pt>
-File: /home/dearn/zdjecia/04415.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/04415.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/04415.jpg  used on input line 720.
-
-(pdftex.def)             Requested size: 200.21803pt x 150.56305pt.
-File: /home/dearn/zdjecia/04415.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/04415.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/04415.jpg  used on input line 720.
-
-(pdftex.def)             Requested size: 200.21803pt x 150.56305pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 720--721
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 720--721
-
- []
-
-</home/dearn/zdjecia/04421.jpg, id=186, 250.9375pt x 188.705pt>
-File: /home/dearn/zdjecia/04421.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/04421.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/04421.jpg  used on input line 726.
-
-(pdftex.def)             Requested size: 200.21803pt x 150.56305pt.
-File: /home/dearn/zdjecia/04421.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/04421.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/04421.jpg  used on input line 726.
-
-(pdftex.def)             Requested size: 200.21803pt x 150.56305pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 726--727
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 726--727
-
- []
-
-</home/dearn/zdjecia/04422.jpg, id=187, 250.9375pt x 188.705pt>
-File: /home/dearn/zdjecia/04422.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/04422.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/04422.jpg  used on input line 732.
-
-(pdftex.def)             Requested size: 200.21803pt x 150.56305pt.
-File: /home/dearn/zdjecia/04422.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/04422.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/04422.jpg  used on input line 732.
-
-(pdftex.def)             Requested size: 200.21803pt x 150.56305pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 732--733
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 732--733
-
- []
-
-File: ./logo.jpg Graphic file (type jpg)
-<use ./logo.jpg>
-Package pdftex.def Info: ./logo.jpg  used on input line 733.
-(pdftex.def)             Requested size: 57.06256pt x 30.11261pt.
-[20 </home/dearn/zdjecia/04406.jpg> </home/dearn/zdjecia/04408.jpg> </home/dear
-n/zdjecia/04409.jpg> </home/dearn/zdjecia/04410.jpg> </home/dearn/zdjecia/04412
-.jpg> </home/dearn/zdjecia/04415.jpg>]
-</home/dearn/zdjecia/04423.jpg, id=191, 250.9375pt x 188.705pt>
-File: /home/dearn/zdjecia/04423.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/04423.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/04423.jpg  used on input line 738.
-
-(pdftex.def)             Requested size: 200.21803pt x 150.56305pt.
-File: /home/dearn/zdjecia/04423.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/04423.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/04423.jpg  used on input line 738.
-
-(pdftex.def)             Requested size: 200.21803pt x 150.56305pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 738--739
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 738--739
-
- []
-
-</home/dearn/zdjecia/04436.jpg, id=192, 250.9375pt x 188.705pt>
-File: /home/dearn/zdjecia/04436.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/04436.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/04436.jpg  used on input line 744.
-
-(pdftex.def)             Requested size: 200.21803pt x 150.56305pt.
-File: /home/dearn/zdjecia/04436.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/04436.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/04436.jpg  used on input line 744.
-
-(pdftex.def)             Requested size: 200.21803pt x 150.56305pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 744--745
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 744--745
-
- []
-
-</home/dearn/zdjecia/04437.jpg, id=193, 250.9375pt x 188.705pt>
-File: /home/dearn/zdjecia/04437.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/04437.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/04437.jpg  used on input line 750.
-
-(pdftex.def)             Requested size: 200.21803pt x 150.56305pt.
-File: /home/dearn/zdjecia/04437.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/04437.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/04437.jpg  used on input line 750.
-
-(pdftex.def)             Requested size: 200.21803pt x 150.56305pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 750--751
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 750--751
-
- []
-
-</home/dearn/zdjecia/04440.jpg, id=194, 250.9375pt x 188.705pt>
-File: /home/dearn/zdjecia/04440.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/04440.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/04440.jpg  used on input line 756.
-
-(pdftex.def)             Requested size: 200.21803pt x 150.56305pt.
-File: /home/dearn/zdjecia/04440.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/04440.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/04440.jpg  used on input line 756.
-
-(pdftex.def)             Requested size: 200.21803pt x 150.56305pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 756--757
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 756--757
-
- []
-
-</home/dearn/zdjecia/04447.jpg, id=195, 250.9375pt x 91.34125pt>
-File: /home/dearn/zdjecia/04447.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/04447.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/04447.jpg  used on input line 762.
-
-(pdftex.def)             Requested size: 413.69203pt x 150.56305pt.
-File: /home/dearn/zdjecia/04447.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/04447.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/04447.jpg  used on input line 762.
-
-(pdftex.def)             Requested size: 413.69203pt x 150.56305pt.
-
-Overfull \hbox (142.67953pt too wide) in paragraph at lines 762--762
-[] 
- []
-
-
-Overfull \hbox (20.0pt too wide) in paragraph at lines 762--763
-[]$[]$ 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 762--763
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 762--763
-
- []
-
-</home/dearn/zdjecia/04457.jpg, id=196, 250.9375pt x 188.705pt>
-File: /home/dearn/zdjecia/04457.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/04457.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/04457.jpg  used on input line 768.
-
-(pdftex.def)             Requested size: 200.21803pt x 150.56305pt.
-File: /home/dearn/zdjecia/04457.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/04457.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/04457.jpg  used on input line 768.
-
-(pdftex.def)             Requested size: 200.21803pt x 150.56305pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 768--769
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 768--769
-
- []
-
-File: ./logo.jpg Graphic file (type jpg)
-<use ./logo.jpg>
-Package pdftex.def Info: ./logo.jpg  used on input line 769.
-(pdftex.def)             Requested size: 57.06256pt x 30.11261pt.
-[21 </home/dearn/zdjecia/04421.jpg> </home/dearn/zdjecia/04422.jpg> </home/dear
-n/zdjecia/04423.jpg> </home/dearn/zdjecia/04436.jpg> </home/dearn/zdjecia/04437
-.jpg> </home/dearn/zdjecia/04440.jpg>]
-</home/dearn/zdjecia/04463.jpg, id=200, 250.9375pt x 188.705pt>
-File: /home/dearn/zdjecia/04463.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/04463.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/04463.jpg  used on input line 774.
-
-(pdftex.def)             Requested size: 200.21803pt x 150.56305pt.
-File: /home/dearn/zdjecia/04463.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/04463.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/04463.jpg  used on input line 774.
-
-(pdftex.def)             Requested size: 200.21803pt x 150.56305pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 774--775
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 774--775
-
- []
-
-</home/dearn/zdjecia/04467.jpg, id=201, 250.9375pt x 195.73125pt>
-File: /home/dearn/zdjecia/04467.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/04467.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/04467.jpg  used on input line 780.
-
-(pdftex.def)             Requested size: 193.03867pt x 150.56305pt.
-File: /home/dearn/zdjecia/04467.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/04467.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/04467.jpg  used on input line 780.
-
-(pdftex.def)             Requested size: 193.03867pt x 150.56305pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 780--781
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 780--781
-
- []
-
-</home/dearn/zdjecia/04468.jpg, id=202, 250.9375pt x 191.71625pt>
-File: /home/dearn/zdjecia/04468.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/04468.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/04468.jpg  used on input line 786.
-
-(pdftex.def)             Requested size: 197.08208pt x 150.56305pt.
-File: /home/dearn/zdjecia/04468.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/04468.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/04468.jpg  used on input line 786.
-
-(pdftex.def)             Requested size: 197.08208pt x 150.56305pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 786--787
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 786--787
-
- []
-
-</home/dearn/zdjecia/04484.jpg, id=203, 250.9375pt x 188.705pt>
-File: /home/dearn/zdjecia/04484.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/04484.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/04484.jpg  used on input line 792.
-
-(pdftex.def)             Requested size: 200.21803pt x 150.56305pt.
-File: /home/dearn/zdjecia/04484.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/04484.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/04484.jpg  used on input line 792.
-
-(pdftex.def)             Requested size: 200.21803pt x 150.56305pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 792--793
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 792--793
-
- []
-
-</home/dearn/zdjecia/04485.jpg, id=204, 250.9375pt x 190.7125pt>
-File: /home/dearn/zdjecia/04485.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/04485.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/04485.jpg  used on input line 798.
-
-(pdftex.def)             Requested size: 198.1159pt x 150.56305pt.
-File: /home/dearn/zdjecia/04485.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/04485.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/04485.jpg  used on input line 798.
-
-(pdftex.def)             Requested size: 198.1159pt x 150.56305pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 798--799
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 798--799
-
- []
-
-</home/dearn/zdjecia/04492.jpg, id=205, 250.9375pt x 188.705pt>
-File: /home/dearn/zdjecia/04492.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/04492.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/04492.jpg  used on input line 804.
-
-(pdftex.def)             Requested size: 200.21803pt x 150.56305pt.
-File: /home/dearn/zdjecia/04492.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/04492.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/04492.jpg  used on input line 804.
-
-(pdftex.def)             Requested size: 200.21803pt x 150.56305pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 804--805
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 804--805
-
- []
-
-File: ./logo.jpg Graphic file (type jpg)
-<use ./logo.jpg>
-Package pdftex.def Info: ./logo.jpg  used on input line 805.
-(pdftex.def)             Requested size: 57.06256pt x 30.11261pt.
-[22 </home/dearn/zdjecia/04447.jpg> </home/dearn/zdjecia/04457.jpg> </home/dear
-n/zdjecia/04463.jpg> </home/dearn/zdjecia/04467.jpg> </home/dearn/zdjecia/04468
-.jpg> </home/dearn/zdjecia/04484.jpg>]
-</home/dearn/zdjecia/04509.jpg, id=209, 250.9375pt x 188.705pt>
-File: /home/dearn/zdjecia/04509.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/04509.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/04509.jpg  used on input line 810.
-
-(pdftex.def)             Requested size: 200.21803pt x 150.56305pt.
-File: /home/dearn/zdjecia/04509.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/04509.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/04509.jpg  used on input line 810.
-
-(pdftex.def)             Requested size: 200.21803pt x 150.56305pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 810--811
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 810--811
-
- []
-
-</home/dearn/zdjecia/04510.jpg, id=210, 250.9375pt x 334.24875pt>
-File: /home/dearn/zdjecia/04510.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/04510.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/04510.jpg  used on input line 816.
-
-(pdftex.def)             Requested size: 113.03952pt x 150.56305pt.
-File: /home/dearn/zdjecia/04510.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/04510.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/04510.jpg  used on input line 816.
-
-(pdftex.def)             Requested size: 113.03952pt x 150.56305pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 816--817
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 816--817
-
- []
-
-</home/dearn/zdjecia/04523.jpg, id=211, 250.9375pt x 511.9125pt>
-File: /home/dearn/zdjecia/04523.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/04523.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/04523.jpg  used on input line 822.
-
-(pdftex.def)             Requested size: 73.80383pt x 150.56305pt.
-File: /home/dearn/zdjecia/04523.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/04523.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/04523.jpg  used on input line 822.
-
-(pdftex.def)             Requested size: 73.80383pt x 150.56305pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 822--823
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 822--823
-
- []
-
-</home/dearn/zdjecia/04529.jpg, id=212, 250.9375pt x 188.705pt>
-File: /home/dearn/zdjecia/04529.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/04529.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/04529.jpg  used on input line 828.
-
-(pdftex.def)             Requested size: 200.21803pt x 150.56305pt.
-File: /home/dearn/zdjecia/04529.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/04529.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/04529.jpg  used on input line 828.
-
-(pdftex.def)             Requested size: 200.21803pt x 150.56305pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 828--829
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 828--829
-
- []
-
-</home/dearn/zdjecia/04530.jpg, id=213, 250.9375pt x 188.705pt>
-File: /home/dearn/zdjecia/04530.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/04530.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/04530.jpg  used on input line 834.
-
-(pdftex.def)             Requested size: 200.21803pt x 150.56305pt.
-File: /home/dearn/zdjecia/04530.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/04530.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/04530.jpg  used on input line 834.
-
-(pdftex.def)             Requested size: 200.21803pt x 150.56305pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 834--835
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 834--835
-
- []
-
-</home/dearn/zdjecia/04534.jpg, id=214, 250.9375pt x 334.24875pt>
-File: /home/dearn/zdjecia/04534.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/04534.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/04534.jpg  used on input line 840.
-
-(pdftex.def)             Requested size: 113.03952pt x 150.56305pt.
-File: /home/dearn/zdjecia/04534.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/04534.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/04534.jpg  used on input line 840.
-
-(pdftex.def)             Requested size: 113.03952pt x 150.56305pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 840--841
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 840--841
-
- []
-
-File: ./logo.jpg Graphic file (type jpg)
-<use ./logo.jpg>
-Package pdftex.def Info: ./logo.jpg  used on input line 841.
-(pdftex.def)             Requested size: 57.06256pt x 30.11261pt.
-[23 </home/dearn/zdjecia/04485.jpg> </home/dearn/zdjecia/04492.jpg> </home/dear
-n/zdjecia/04509.jpg> </home/dearn/zdjecia/04510.jpg> </home/dearn/zdjecia/04523
-.jpg> </home/dearn/zdjecia/04529.jpg>]
-</home/dearn/zdjecia/04535.jpg, id=218, 250.9375pt x 188.705pt>
-File: /home/dearn/zdjecia/04535.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/04535.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/04535.jpg  used on input line 846.
-
-(pdftex.def)             Requested size: 200.21803pt x 150.56305pt.
-File: /home/dearn/zdjecia/04535.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/04535.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/04535.jpg  used on input line 846.
-
-(pdftex.def)             Requested size: 200.21803pt x 150.56305pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 846--847
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 846--847
-
- []
-
-</home/dearn/zdjecia/04538.jpg, id=219, 250.9375pt x 188.705pt>
-File: /home/dearn/zdjecia/04538.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/04538.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/04538.jpg  used on input line 852.
-
-(pdftex.def)             Requested size: 200.21803pt x 150.56305pt.
-File: /home/dearn/zdjecia/04538.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/04538.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/04538.jpg  used on input line 852.
-
-(pdftex.def)             Requested size: 200.21803pt x 150.56305pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 852--853
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 852--853
-
- []
-
-</home/dearn/zdjecia/04540.jpg, id=220, 250.9375pt x 188.705pt>
-File: /home/dearn/zdjecia/04540.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/04540.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/04540.jpg  used on input line 858.
-
-(pdftex.def)             Requested size: 200.21803pt x 150.56305pt.
-File: /home/dearn/zdjecia/04540.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/04540.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/04540.jpg  used on input line 858.
-
-(pdftex.def)             Requested size: 200.21803pt x 150.56305pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 858--859
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 858--859
-
- []
-
-</home/dearn/zdjecia/04541.jpg, id=221, 250.9375pt x 188.705pt>
-File: /home/dearn/zdjecia/04541.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/04541.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/04541.jpg  used on input line 864.
-
-(pdftex.def)             Requested size: 200.21803pt x 150.56305pt.
-File: /home/dearn/zdjecia/04541.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/04541.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/04541.jpg  used on input line 864.
-
-(pdftex.def)             Requested size: 200.21803pt x 150.56305pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 864--865
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 864--865
-
- []
-
-</home/dearn/zdjecia/04542.jpg, id=222, 250.9375pt x 188.705pt>
-File: /home/dearn/zdjecia/04542.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/04542.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/04542.jpg  used on input line 870.
-
-(pdftex.def)             Requested size: 200.21803pt x 150.56305pt.
-File: /home/dearn/zdjecia/04542.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/04542.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/04542.jpg  used on input line 870.
-
-(pdftex.def)             Requested size: 200.21803pt x 150.56305pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 870--871
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 870--871
-
- []
-
-</home/dearn/zdjecia/04543.jpg, id=223, 250.9375pt x 188.705pt>
-File: /home/dearn/zdjecia/04543.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/04543.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/04543.jpg  used on input line 876.
-
-(pdftex.def)             Requested size: 200.21803pt x 150.56305pt.
-File: /home/dearn/zdjecia/04543.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/04543.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/04543.jpg  used on input line 876.
-
-(pdftex.def)             Requested size: 200.21803pt x 150.56305pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 876--877
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 876--877
-
- []
-
-File: ./logo.jpg Graphic file (type jpg)
-<use ./logo.jpg>
-Package pdftex.def Info: ./logo.jpg  used on input line 877.
-(pdftex.def)             Requested size: 57.06256pt x 30.11261pt.
-[24 </home/dearn/zdjecia/04530.jpg> </home/dearn/zdjecia/04534.jpg> </home/dear
-n/zdjecia/04535.jpg> </home/dearn/zdjecia/04538.jpg> </home/dearn/zdjecia/04540
-.jpg> </home/dearn/zdjecia/04541.jpg>]
-</home/dearn/zdjecia/04544.jpg, id=227, 250.9375pt x 188.705pt>
-File: /home/dearn/zdjecia/04544.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/04544.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/04544.jpg  used on input line 882.
-
-(pdftex.def)             Requested size: 200.21803pt x 150.56305pt.
-File: /home/dearn/zdjecia/04544.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/04544.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/04544.jpg  used on input line 882.
-
-(pdftex.def)             Requested size: 200.21803pt x 150.56305pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 882--883
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 882--883
-
- []
-
-</home/dearn/zdjecia/05000.jpg, id=228, 250.9375pt x 188.705pt>
-File: /home/dearn/zdjecia/05000.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/05000.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/05000.jpg  used on input line 888.
-
-(pdftex.def)             Requested size: 200.21803pt x 150.56305pt.
-File: /home/dearn/zdjecia/05000.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/05000.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/05000.jpg  used on input line 888.
-
-(pdftex.def)             Requested size: 200.21803pt x 150.56305pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 888--889
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 888--889
-
- []
-
-</home/dearn/zdjecia/05010.jpg, id=229, 250.9375pt x 188.705pt>
-File: /home/dearn/zdjecia/05010.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/05010.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/05010.jpg  used on input line 894.
-
-(pdftex.def)             Requested size: 200.21803pt x 150.56305pt.
-File: /home/dearn/zdjecia/05010.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/05010.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/05010.jpg  used on input line 894.
-
-(pdftex.def)             Requested size: 200.21803pt x 150.56305pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 894--895
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 894--895
-
- []
-
-</home/dearn/zdjecia/05011.jpg, id=230, 250.9375pt x 334.24875pt>
-File: /home/dearn/zdjecia/05011.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/05011.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/05011.jpg  used on input line 900.
-
-(pdftex.def)             Requested size: 113.03952pt x 150.56305pt.
-File: /home/dearn/zdjecia/05011.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/05011.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/05011.jpg  used on input line 900.
-
-(pdftex.def)             Requested size: 113.03952pt x 150.56305pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 900--901
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 900--901
-
- []
-
-</home/dearn/zdjecia/05029.jpg, id=231, 250.9375pt x 334.24875pt>
-File: /home/dearn/zdjecia/05029.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/05029.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/05029.jpg  used on input line 906.
-
-(pdftex.def)             Requested size: 113.03952pt x 150.56305pt.
-File: /home/dearn/zdjecia/05029.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/05029.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/05029.jpg  used on input line 906.
-
-(pdftex.def)             Requested size: 113.03952pt x 150.56305pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 906--907
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 906--907
-
- []
-
-</home/dearn/zdjecia/05034.jpg, id=232, 250.9375pt x 188.705pt>
-File: /home/dearn/zdjecia/05034.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/05034.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/05034.jpg  used on input line 912.
-
-(pdftex.def)             Requested size: 200.21803pt x 150.56305pt.
-File: /home/dearn/zdjecia/05034.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/05034.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/05034.jpg  used on input line 912.
-
-(pdftex.def)             Requested size: 200.21803pt x 150.56305pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 912--913
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 912--913
-
- []
-
-File: ./logo.jpg Graphic file (type jpg)
-<use ./logo.jpg>
-Package pdftex.def Info: ./logo.jpg  used on input line 913.
-(pdftex.def)             Requested size: 57.06256pt x 30.11261pt.
-[25 </home/dearn/zdjecia/04542.jpg> </home/dearn/zdjecia/04543.jpg> </home/dear
-n/zdjecia/04544.jpg> </home/dearn/zdjecia/05000.jpg> </home/dearn/zdjecia/05010
-.jpg> </home/dearn/zdjecia/05011.jpg>]
-</home/dearn/zdjecia/05100.jpg, id=237, 250.9375pt x 188.705pt>
-File: /home/dearn/zdjecia/05100.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/05100.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/05100.jpg  used on input line 918.
-
-(pdftex.def)             Requested size: 200.21803pt x 150.56305pt.
-File: /home/dearn/zdjecia/05100.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/05100.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/05100.jpg  used on input line 918.
-
-(pdftex.def)             Requested size: 200.21803pt x 150.56305pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 918--919
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 918--919
-
- []
-
-</home/dearn/zdjecia/05101.jpg, id=238, 250.9375pt x 188.705pt>
-File: /home/dearn/zdjecia/05101.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/05101.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/05101.jpg  used on input line 924.
-
-(pdftex.def)             Requested size: 200.21803pt x 150.56305pt.
-File: /home/dearn/zdjecia/05101.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/05101.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/05101.jpg  used on input line 924.
-
-(pdftex.def)             Requested size: 200.21803pt x 150.56305pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 924--925
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 924--925
-
- []
-
-</home/dearn/zdjecia/05102.jpg, id=239, 250.9375pt x 188.705pt>
-File: /home/dearn/zdjecia/05102.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/05102.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/05102.jpg  used on input line 930.
-
-(pdftex.def)             Requested size: 200.21803pt x 150.56305pt.
-File: /home/dearn/zdjecia/05102.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/05102.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/05102.jpg  used on input line 930.
-
-(pdftex.def)             Requested size: 200.21803pt x 150.56305pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 930--931
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 930--931
-
- []
-
-</home/dearn/zdjecia/05109.jpg, id=240, 250.9375pt x 188.705pt>
-File: /home/dearn/zdjecia/05109.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/05109.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/05109.jpg  used on input line 936.
-
-(pdftex.def)             Requested size: 200.21803pt x 150.56305pt.
-File: /home/dearn/zdjecia/05109.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/05109.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/05109.jpg  used on input line 936.
-
-(pdftex.def)             Requested size: 200.21803pt x 150.56305pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 936--937
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 936--937
-
- []
-
-</home/dearn/zdjecia/05111.jpg, id=241, 250.9375pt x 188.705pt>
-File: /home/dearn/zdjecia/05111.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/05111.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/05111.jpg  used on input line 942.
-
-(pdftex.def)             Requested size: 200.21803pt x 150.56305pt.
-File: /home/dearn/zdjecia/05111.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/05111.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/05111.jpg  used on input line 942.
-
-(pdftex.def)             Requested size: 200.21803pt x 150.56305pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 942--943
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 942--943
-
- []
-
-</home/dearn/zdjecia/05112.jpg, id=242, 250.9375pt x 188.705pt>
-File: /home/dearn/zdjecia/05112.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/05112.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/05112.jpg  used on input line 948.
-
-(pdftex.def)             Requested size: 200.21803pt x 150.56305pt.
-File: /home/dearn/zdjecia/05112.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/05112.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/05112.jpg  used on input line 948.
-
-(pdftex.def)             Requested size: 200.21803pt x 150.56305pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 948--949
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 948--949
-
- []
-
-File: ./logo.jpg Graphic file (type jpg)
-<use ./logo.jpg>
-Package pdftex.def Info: ./logo.jpg  used on input line 949.
-(pdftex.def)             Requested size: 57.06256pt x 30.11261pt.
-[26 </home/dearn/zdjecia/05029.jpg> </home/dearn/zdjecia/05034.jpg> </home/dear
-n/zdjecia/05100.jpg> </home/dearn/zdjecia/05101.jpg> </home/dearn/zdjecia/05102
-.jpg> </home/dearn/zdjecia/05109.jpg>]
-</home/dearn/zdjecia/05113.jpg, id=246, 250.9375pt x 188.705pt>
-File: /home/dearn/zdjecia/05113.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/05113.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/05113.jpg  used on input line 954.
-
-(pdftex.def)             Requested size: 200.21803pt x 150.56305pt.
-File: /home/dearn/zdjecia/05113.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/05113.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/05113.jpg  used on input line 954.
-
-(pdftex.def)             Requested size: 200.21803pt x 150.56305pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 954--955
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 954--955
-
- []
-
-</home/dearn/zdjecia/05120.jpg, id=247, 250.9375pt x 334.24875pt>
-File: /home/dearn/zdjecia/05120.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/05120.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/05120.jpg  used on input line 960.
-
-(pdftex.def)             Requested size: 113.03952pt x 150.56305pt.
-File: /home/dearn/zdjecia/05120.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/05120.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/05120.jpg  used on input line 960.
-
-(pdftex.def)             Requested size: 113.03952pt x 150.56305pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 960--961
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 960--961
-
- []
-
-</home/dearn/zdjecia/05121.jpg, id=248, 250.9375pt x 334.24875pt>
-File: /home/dearn/zdjecia/05121.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/05121.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/05121.jpg  used on input line 966.
-
-(pdftex.def)             Requested size: 113.03952pt x 150.56305pt.
-File: /home/dearn/zdjecia/05121.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/05121.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/05121.jpg  used on input line 966.
-
-(pdftex.def)             Requested size: 113.03952pt x 150.56305pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 966--967
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 966--967
-
- []
-
-</home/dearn/zdjecia/05125.jpg, id=249, 250.9375pt x 334.24875pt>
-File: /home/dearn/zdjecia/05125.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/05125.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/05125.jpg  used on input line 972.
-
-(pdftex.def)             Requested size: 113.03952pt x 150.56305pt.
-File: /home/dearn/zdjecia/05125.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/05125.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/05125.jpg  used on input line 972.
-
-(pdftex.def)             Requested size: 113.03952pt x 150.56305pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 972--973
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 972--973
-
- []
-
-</home/dearn/zdjecia/05128.jpg, id=250, 250.9375pt x 533.995pt>
-File: /home/dearn/zdjecia/05128.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/05128.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/05128.jpg  used on input line 978.
-
-(pdftex.def)             Requested size: 70.75212pt x 150.56305pt.
-File: /home/dearn/zdjecia/05128.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/05128.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/05128.jpg  used on input line 978.
-
-(pdftex.def)             Requested size: 70.75212pt x 150.56305pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 978--979
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 978--979
-
- []
-
-</home/dearn/zdjecia/05132.jpg, id=251, 250.9375pt x 188.705pt>
-File: /home/dearn/zdjecia/05132.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/05132.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/05132.jpg  used on input line 984.
-
-(pdftex.def)             Requested size: 200.21803pt x 150.56305pt.
-File: /home/dearn/zdjecia/05132.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/05132.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/05132.jpg  used on input line 984.
-
-(pdftex.def)             Requested size: 200.21803pt x 150.56305pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 984--985
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 984--985
-
- []
-
-File: ./logo.jpg Graphic file (type jpg)
-<use ./logo.jpg>
-Package pdftex.def Info: ./logo.jpg  used on input line 985.
-(pdftex.def)             Requested size: 57.06256pt x 30.11261pt.
-[27 </home/dearn/zdjecia/05111.jpg> </home/dearn/zdjecia/05112.jpg> </home/dear
-n/zdjecia/05113.jpg> </home/dearn/zdjecia/05120.jpg> </home/dearn/zdjecia/05121
-.jpg> </home/dearn/zdjecia/05125.jpg>]
-</home/dearn/zdjecia/05137.jpg, id=255, 250.9375pt x 188.705pt>
-File: /home/dearn/zdjecia/05137.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/05137.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/05137.jpg  used on input line 990.
-
-(pdftex.def)             Requested size: 200.21803pt x 150.56305pt.
-File: /home/dearn/zdjecia/05137.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/05137.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/05137.jpg  used on input line 990.
-
-(pdftex.def)             Requested size: 200.21803pt x 150.56305pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 990--991
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 990--991
-
- []
-
-</home/dearn/zdjecia/05147.jpg, id=256, 250.9375pt x 342.27875pt>
-File: /home/dearn/zdjecia/05147.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/05147.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/05147.jpg  used on input line 996.
-
-(pdftex.def)             Requested size: 110.38603pt x 150.56305pt.
-File: /home/dearn/zdjecia/05147.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/05147.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/05147.jpg  used on input line 996.
-
-(pdftex.def)             Requested size: 110.38603pt x 150.56305pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 996--997
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 996--997
-
- []
-
-</home/dearn/zdjecia/05155.jpg, id=257, 250.9375pt x 188.705pt>
-File: /home/dearn/zdjecia/05155.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/05155.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/05155.jpg  used on input line 1002
-.
-(pdftex.def)             Requested size: 200.21803pt x 150.56305pt.
-File: /home/dearn/zdjecia/05155.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/05155.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/05155.jpg  used on input line 1002
-.
-(pdftex.def)             Requested size: 200.21803pt x 150.56305pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 1002--1003
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1002--1003
-
- []
-
-</home/dearn/zdjecia/05160.jpg, id=258, 250.9375pt x 188.705pt>
-File: /home/dearn/zdjecia/05160.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/05160.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/05160.jpg  used on input line 1008
-.
-(pdftex.def)             Requested size: 200.21803pt x 150.56305pt.
-File: /home/dearn/zdjecia/05160.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/05160.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/05160.jpg  used on input line 1008
-.
-(pdftex.def)             Requested size: 200.21803pt x 150.56305pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 1008--1009
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1008--1009
-
- []
-
-</home/dearn/zdjecia/05161.jpg, id=259, 250.9375pt x 188.705pt>
-File: /home/dearn/zdjecia/05161.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/05161.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/05161.jpg  used on input line 1014
-.
-(pdftex.def)             Requested size: 200.21803pt x 150.56305pt.
-File: /home/dearn/zdjecia/05161.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/05161.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/05161.jpg  used on input line 1014
-.
-(pdftex.def)             Requested size: 200.21803pt x 150.56305pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 1014--1015
-
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 1014--1015
-
- []
-
-</home/dearn/zdjecia/05163.jpg, id=260, 250.9375pt x 188.705pt>
-File: /home/dearn/zdjecia/05163.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/05163.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/05163.jpg  used on input line 1020
-.
-(pdftex.def)             Requested size: 200.21803pt x 150.56305pt.
-File: /home/dearn/zdjecia/05163.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/05163.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/05163.jpg  used on input line 1020
-.
-(pdftex.def)             Requested size: 200.21803pt x 150.56305pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 1020--1021
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1020--1021
-
- []
-
-File: ./logo.jpg Graphic file (type jpg)
-<use ./logo.jpg>
-Package pdftex.def Info: ./logo.jpg  used on input line 1021.
-(pdftex.def)             Requested size: 57.06256pt x 30.11261pt.
-[28 </home/dearn/zdjecia/05128.jpg> </home/dearn/zdjecia/05132.jpg> </home/dear
-n/zdjecia/05137.jpg> </home/dearn/zdjecia/05147.jpg> </home/dearn/zdjecia/05155
-.jpg> </home/dearn/zdjecia/05160.jpg>]
-</home/dearn/zdjecia/05173.jpg, id=264, 250.9375pt x 334.24875pt>
-File: /home/dearn/zdjecia/05173.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/05173.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/05173.jpg  used on input line 1026
-.
-(pdftex.def)             Requested size: 113.03952pt x 150.56305pt.
-File: /home/dearn/zdjecia/05173.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/05173.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/05173.jpg  used on input line 1026
-.
-(pdftex.def)             Requested size: 113.03952pt x 150.56305pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 1026--1027
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1026--1027
-
- []
-
-</home/dearn/zdjecia/05174.jpg, id=265, 250.9375pt x 334.24875pt>
-File: /home/dearn/zdjecia/05174.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/05174.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/05174.jpg  used on input line 1032
-.
-(pdftex.def)             Requested size: 113.03952pt x 150.56305pt.
-File: /home/dearn/zdjecia/05174.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/05174.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/05174.jpg  used on input line 1032
-.
-(pdftex.def)             Requested size: 113.03952pt x 150.56305pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 1032--1033
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1032--1033
-
- []
-
-</home/dearn/zdjecia/05177.jpg, id=266, 250.9375pt x 188.705pt>
-File: /home/dearn/zdjecia/05177.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/05177.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/05177.jpg  used on input line 1038
-.
-(pdftex.def)             Requested size: 200.21803pt x 150.56305pt.
-File: /home/dearn/zdjecia/05177.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/05177.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/05177.jpg  used on input line 1038
-.
-(pdftex.def)             Requested size: 200.21803pt x 150.56305pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 1038--1039
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1038--1039
-
- []
-
-</home/dearn/zdjecia/05180.jpg, id=267, 250.9375pt x 188.705pt>
-File: /home/dearn/zdjecia/05180.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/05180.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/05180.jpg  used on input line 1044
-.
-(pdftex.def)             Requested size: 200.21803pt x 150.56305pt.
-File: /home/dearn/zdjecia/05180.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/05180.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/05180.jpg  used on input line 1044
-.
-(pdftex.def)             Requested size: 200.21803pt x 150.56305pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 1044--1045
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1044--1045
-
- []
-
-</home/dearn/zdjecia/05186.jpg, id=268, 250.9375pt x 188.705pt>
-File: /home/dearn/zdjecia/05186.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/05186.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/05186.jpg  used on input line 1050
-.
-(pdftex.def)             Requested size: 200.21803pt x 150.56305pt.
-File: /home/dearn/zdjecia/05186.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/05186.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/05186.jpg  used on input line 1050
-.
-(pdftex.def)             Requested size: 200.21803pt x 150.56305pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 1050--1051
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1050--1051
-
- []
-
-</home/dearn/zdjecia/05234.jpg, id=269, 250.9375pt x 188.705pt>
-File: /home/dearn/zdjecia/05234.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/05234.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/05234.jpg  used on input line 1056
-.
-(pdftex.def)             Requested size: 200.21803pt x 150.56305pt.
-File: /home/dearn/zdjecia/05234.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/05234.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/05234.jpg  used on input line 1056
-.
-(pdftex.def)             Requested size: 200.21803pt x 150.56305pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 1056--1057
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1056--1057
-
- []
-
-File: ./logo.jpg Graphic file (type jpg)
-<use ./logo.jpg>
-Package pdftex.def Info: ./logo.jpg  used on input line 1057.
-(pdftex.def)             Requested size: 57.06256pt x 30.11261pt.
-[29 </home/dearn/zdjecia/05161.jpg> </home/dearn/zdjecia/05163.jpg> </home/dear
-n/zdjecia/05173.jpg> </home/dearn/zdjecia/05174.jpg> </home/dearn/zdjecia/05177
-.jpg> </home/dearn/zdjecia/05180.jpg>]
-</home/dearn/zdjecia/05237.jpg, id=273, 250.9375pt x 188.705pt>
-File: /home/dearn/zdjecia/05237.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/05237.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/05237.jpg  used on input line 1062
-.
-(pdftex.def)             Requested size: 200.21803pt x 150.56305pt.
-File: /home/dearn/zdjecia/05237.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/05237.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/05237.jpg  used on input line 1062
-.
-(pdftex.def)             Requested size: 200.21803pt x 150.56305pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 1062--1063
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1062--1063
-
- []
-
-</home/dearn/zdjecia/05240.jpg, id=274, 250.9375pt x 334.24875pt>
-File: /home/dearn/zdjecia/05240.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/05240.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/05240.jpg  used on input line 1068
-.
-(pdftex.def)             Requested size: 113.03952pt x 150.56305pt.
-File: /home/dearn/zdjecia/05240.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/05240.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/05240.jpg  used on input line 1068
-.
-(pdftex.def)             Requested size: 113.03952pt x 150.56305pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 1068--1069
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1068--1069
-
- []
-
-</home/dearn/zdjecia/05243.jpg, id=275, 250.9375pt x 188.705pt>
-File: /home/dearn/zdjecia/05243.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/05243.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/05243.jpg  used on input line 1074
-.
-(pdftex.def)             Requested size: 200.21803pt x 150.56305pt.
-File: /home/dearn/zdjecia/05243.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/05243.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/05243.jpg  used on input line 1074
-.
-(pdftex.def)             Requested size: 200.21803pt x 150.56305pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 1074--1075
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1074--1075
-
- []
-
-</home/dearn/zdjecia/05244.jpg, id=276, 250.9375pt x 188.705pt>
-File: /home/dearn/zdjecia/05244.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/05244.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/05244.jpg  used on input line 1080
-.
-(pdftex.def)             Requested size: 200.21803pt x 150.56305pt.
-File: /home/dearn/zdjecia/05244.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/05244.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/05244.jpg  used on input line 1080
-.
-(pdftex.def)             Requested size: 200.21803pt x 150.56305pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 1080--1081
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1080--1081
-
- []
-
-</home/dearn/zdjecia/05274.jpg, id=277, 250.9375pt x 223.83624pt>
-File: /home/dearn/zdjecia/05274.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/05274.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/05274.jpg  used on input line 1086
-.
-(pdftex.def)             Requested size: 168.79732pt x 150.56305pt.
-File: /home/dearn/zdjecia/05274.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/05274.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/05274.jpg  used on input line 1086
-.
-(pdftex.def)             Requested size: 168.79732pt x 150.56305pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 1086--1087
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1086--1087
-
- []
-
-</home/dearn/zdjecia/05275.jpg, id=278, 250.9375pt x 241.90375pt>
-File: /home/dearn/zdjecia/05275.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/05275.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/05275.jpg  used on input line 1092
-.
-(pdftex.def)             Requested size: 156.19226pt x 150.56305pt.
-File: /home/dearn/zdjecia/05275.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/05275.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/05275.jpg  used on input line 1092
-.
-(pdftex.def)             Requested size: 156.19226pt x 150.56305pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 1092--1093
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1092--1093
-
- []
-
-File: ./logo.jpg Graphic file (type jpg)
-<use ./logo.jpg>
-Package pdftex.def Info: ./logo.jpg  used on input line 1093.
-(pdftex.def)             Requested size: 57.06256pt x 30.11261pt.
-[30 </home/dearn/zdjecia/05186.jpg> </home/dearn/zdjecia/05234.jpg> </home/dear
-n/zdjecia/05237.jpg> </home/dearn/zdjecia/05240.jpg> </home/dearn/zdjecia/05243
-.jpg> </home/dearn/zdjecia/05244.jpg>]
-</home/dearn/zdjecia/05276.jpg, id=282, 250.9375pt x 334.24875pt>
-File: /home/dearn/zdjecia/05276.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/05276.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/05276.jpg  used on input line 1098
-.
-(pdftex.def)             Requested size: 113.03952pt x 150.56305pt.
-File: /home/dearn/zdjecia/05276.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/05276.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/05276.jpg  used on input line 1098
-.
-(pdftex.def)             Requested size: 113.03952pt x 150.56305pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 1098--1099
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1098--1099
-
- []
-
-</home/dearn/zdjecia/05278.jpg, id=283, 250.9375pt x 188.705pt>
-File: /home/dearn/zdjecia/05278.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/05278.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/05278.jpg  used on input line 1104
-.
-(pdftex.def)             Requested size: 200.21803pt x 150.56305pt.
-File: /home/dearn/zdjecia/05278.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/05278.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/05278.jpg  used on input line 1104
-.
-(pdftex.def)             Requested size: 200.21803pt x 150.56305pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 1104--1105
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1104--1105
-
- []
-
-</home/dearn/zdjecia/05281.jpg, id=284, 250.9375pt x 188.705pt>
-File: /home/dearn/zdjecia/05281.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/05281.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/05281.jpg  used on input line 1110
-.
-(pdftex.def)             Requested size: 200.21803pt x 150.56305pt.
-File: /home/dearn/zdjecia/05281.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/05281.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/05281.jpg  used on input line 1110
-.
-(pdftex.def)             Requested size: 200.21803pt x 150.56305pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 1110--1111
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1110--1111
-
- []
-
-</home/dearn/zdjecia/05294.jpg, id=285, 250.9375pt x 188.705pt>
-File: /home/dearn/zdjecia/05294.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/05294.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/05294.jpg  used on input line 1116
-.
-(pdftex.def)             Requested size: 200.21803pt x 150.56305pt.
-File: /home/dearn/zdjecia/05294.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/05294.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/05294.jpg  used on input line 1116
-.
-(pdftex.def)             Requested size: 200.21803pt x 150.56305pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 1116--1117
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1116--1117
-
- []
-
-</home/dearn/zdjecia/05336.jpg, id=286, 250.9375pt x 188.705pt>
-File: /home/dearn/zdjecia/05336.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/05336.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/05336.jpg  used on input line 1122
-.
-(pdftex.def)             Requested size: 200.21803pt x 150.56305pt.
-File: /home/dearn/zdjecia/05336.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/05336.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/05336.jpg  used on input line 1122
-.
-(pdftex.def)             Requested size: 200.21803pt x 150.56305pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 1122--1123
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1122--1123
-
- []
-
-</home/dearn/zdjecia/05350.jpg, id=287, 250.9375pt x 188.705pt>
-File: /home/dearn/zdjecia/05350.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/05350.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/05350.jpg  used on input line 1128
-.
-(pdftex.def)             Requested size: 200.21803pt x 150.56305pt.
-File: /home/dearn/zdjecia/05350.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/05350.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/05350.jpg  used on input line 1128
-.
-(pdftex.def)             Requested size: 200.21803pt x 150.56305pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 1128--1129
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1128--1129
-
- []
-
-File: ./logo.jpg Graphic file (type jpg)
-<use ./logo.jpg>
-Package pdftex.def Info: ./logo.jpg  used on input line 1129.
-(pdftex.def)             Requested size: 57.06256pt x 30.11261pt.
-[31 </home/dearn/zdjecia/05274.jpg> </home/dearn/zdjecia/05275.jpg> </home/dear
-n/zdjecia/05276.jpg> </home/dearn/zdjecia/05278.jpg> </home/dearn/zdjecia/05281
-.jpg> </home/dearn/zdjecia/05294.jpg>]
-</home/dearn/zdjecia/05389.jpg, id=292, 250.9375pt x 175.65625pt>
-File: /home/dearn/zdjecia/05389.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/05389.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/05389.jpg  used on input line 1134
-.
-(pdftex.def)             Requested size: 215.10515pt x 150.56305pt.
-File: /home/dearn/zdjecia/05389.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/05389.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/05389.jpg  used on input line 1134
-.
-(pdftex.def)             Requested size: 215.10515pt x 150.56305pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 1134--1135
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1134--1135
-
- []
-
-</home/dearn/zdjecia/05396.jpg, id=293, 250.9375pt x 217.81375pt>
-File: /home/dearn/zdjecia/05396.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/05396.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/05396.jpg  used on input line 1140
-.
-(pdftex.def)             Requested size: 173.4572pt x 150.56305pt.
-File: /home/dearn/zdjecia/05396.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/05396.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/05396.jpg  used on input line 1140
-.
-(pdftex.def)             Requested size: 173.4572pt x 150.56305pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 1140--1141
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1140--1141
-
- []
-
-</home/dearn/zdjecia/05406.jpg, id=294, 250.9375pt x 180.675pt>
-File: /home/dearn/zdjecia/05406.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/05406.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/05406.jpg  used on input line 1146
-.
-(pdftex.def)             Requested size: 209.11661pt x 150.56305pt.
-File: /home/dearn/zdjecia/05406.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/05406.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/05406.jpg  used on input line 1146
-.
-(pdftex.def)             Requested size: 209.11661pt x 150.56305pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 1146--1147
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1146--1147
-
- []
-
-</home/dearn/zdjecia/05418.jpg, id=295, 250.9375pt x 166.6225pt>
-File: /home/dearn/zdjecia/05418.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/05418.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/05418.jpg  used on input line 1152
-.
-(pdftex.def)             Requested size: 226.76826pt x 150.56305pt.
-File: /home/dearn/zdjecia/05418.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/05418.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/05418.jpg  used on input line 1152
-.
-(pdftex.def)             Requested size: 226.76826pt x 150.56305pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 1152--1153
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1152--1153
-
- []
-
-</home/dearn/zdjecia/05419.jpg, id=296, 250.9375pt x 173.64874pt>
-File: /home/dearn/zdjecia/05419.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/05419.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/05419.jpg  used on input line 1158
-.
-(pdftex.def)             Requested size: 217.5825pt x 150.56305pt.
-File: /home/dearn/zdjecia/05419.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/05419.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/05419.jpg  used on input line 1158
-.
-(pdftex.def)             Requested size: 217.5825pt x 150.56305pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 1158--1159
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1158--1159
-
- []
-
-</home/dearn/zdjecia/14460.jpg, id=297, 250.9375pt x 141.52875pt>
-File: /home/dearn/zdjecia/14460.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/14460.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/14460.jpg  used on input line 1164
-.
-(pdftex.def)             Requested size: 266.97652pt x 150.56305pt.
-File: /home/dearn/zdjecia/14460.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/14460.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/14460.jpg  used on input line 1164
-.
-(pdftex.def)             Requested size: 266.97652pt x 150.56305pt.
-
-Overfull \hbox (15.96404pt too wide) in paragraph at lines 1164--1165
-[]$[]$ 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1164--1165
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1164--1165
-
- []
-
-File: ./logo.jpg Graphic file (type jpg)
-<use ./logo.jpg>
-Package pdftex.def Info: ./logo.jpg  used on input line 1165.
-(pdftex.def)             Requested size: 57.06256pt x 30.11261pt.
-[32 </home/dearn/zdjecia/05336.jpg> </home/dearn/zdjecia/05350.jpg> </home/dear
-n/zdjecia/05389.jpg> </home/dearn/zdjecia/05396.jpg> </home/dearn/zdjecia/05406
-.jpg> </home/dearn/zdjecia/05418.jpg>]
-</home/dearn/zdjecia/14544.jpg, id=301, 250.9375pt x 188.705pt>
-File: /home/dearn/zdjecia/14544.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/14544.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/14544.jpg  used on input line 1170
-.
-(pdftex.def)             Requested size: 200.21803pt x 150.56305pt.
-File: /home/dearn/zdjecia/14544.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/14544.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/14544.jpg  used on input line 1170
-.
-(pdftex.def)             Requested size: 200.21803pt x 150.56305pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 1170--1171
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1170--1171
-
- []
-
-</home/dearn/zdjecia/15034.jpg, id=302, 250.9375pt x 144.54pt>
-File: /home/dearn/zdjecia/15034.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/15034.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/15034.jpg  used on input line 1176
-.
-(pdftex.def)             Requested size: 261.40916pt x 150.56305pt.
-File: /home/dearn/zdjecia/15034.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/15034.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/15034.jpg  used on input line 1176
-.
-(pdftex.def)             Requested size: 261.40916pt x 150.56305pt.
-
-Overfull \hbox (10.39668pt too wide) in paragraph at lines 1176--1177
-[]$[]$ 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1176--1177
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1176--1177
-
- []
-
-</home/dearn/zdjecia/15036.jpg, id=303, 250.9375pt x 173.64874pt>
-File: /home/dearn/zdjecia/15036.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/15036.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/15036.jpg  used on input line 1182
-.
-(pdftex.def)             Requested size: 217.5825pt x 150.56305pt.
-File: /home/dearn/zdjecia/15036.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/15036.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/15036.jpg  used on input line 1182
-.
-(pdftex.def)             Requested size: 217.5825pt x 150.56305pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 1182--1183
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1182--1183
-
- []
-
-</home/dearn/zdjecia/15124.jpg, id=304, 250.9375pt x 188.705pt>
-File: /home/dearn/zdjecia/15124.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/15124.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/15124.jpg  used on input line 1188
-.
-(pdftex.def)             Requested size: 200.21803pt x 150.56305pt.
-File: /home/dearn/zdjecia/15124.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/15124.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/15124.jpg  used on input line 1188
-.
-(pdftex.def)             Requested size: 200.21803pt x 150.56305pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 1188--1189
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1188--1189
-
- []
-
-</home/dearn/zdjecia/15222.jpg, id=305, 250.9375pt x 188.705pt>
-File: /home/dearn/zdjecia/15222.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/15222.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/15222.jpg  used on input line 1194
-.
-(pdftex.def)             Requested size: 200.21803pt x 150.56305pt.
-File: /home/dearn/zdjecia/15222.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/15222.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/15222.jpg  used on input line 1194
-.
-(pdftex.def)             Requested size: 200.21803pt x 150.56305pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 1194--1195
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1194--1195
-
- []
-
-</home/dearn/zdjecia/30319.jpg, id=306, 250.9375pt x 188.705pt>
-File: /home/dearn/zdjecia/30319.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/30319.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/30319.jpg  used on input line 1200
-.
-(pdftex.def)             Requested size: 200.21803pt x 150.56305pt.
-File: /home/dearn/zdjecia/30319.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/30319.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/30319.jpg  used on input line 1200
-.
-(pdftex.def)             Requested size: 200.21803pt x 150.56305pt.
-
-Underfull \hbox (badness 10000) in paragraph at lines 1200--1201
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1200--1201
-
- []
 
-File: ./logo.jpg Graphic file (type jpg)
-<use ./logo.jpg>
-Package pdftex.def Info: ./logo.jpg  used on input line 1201.
-(pdftex.def)             Requested size: 57.06256pt x 30.11261pt.
-[33 </home/dearn/zdjecia/05419.jpg> </home/dearn/zdjecia/14460.jpg> </home/dear
-n/zdjecia/14544.jpg> </home/dearn/zdjecia/15034.jpg> </home/dearn/zdjecia/15036
-.jpg> </home/dearn/zdjecia/15124.jpg>]
-</home/dearn/zdjecia/34240.jpg, id=310, 250.9375pt x 141.52875pt>
-File: /home/dearn/zdjecia/34240.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/34240.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/34240.jpg  used on input line 1206
-.
-(pdftex.def)             Requested size: 266.97652pt x 150.56305pt.
-File: /home/dearn/zdjecia/34240.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/34240.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/34240.jpg  used on input line 1206
-.
-(pdftex.def)             Requested size: 266.97652pt x 150.56305pt.
+Underfull \hbox (badness 10000) in paragraph at lines 135--136
 
-Overfull \hbox (15.96404pt too wide) in paragraph at lines 1206--1207
-[]$[]$ 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1206--1207
+Underfull \hbox (badness 10000) in paragraph at lines 135--136
 
  []
 
+</home/dearn/zdjecia/9967.jpg, id=45, 217.81375pt x 159.59625pt>
+File: /home/dearn/zdjecia/9967.jpg Graphic file (type jpg)
+<use /home/dearn/zdjecia/9967.jpg>
+Package pdftex.def Info: /home/dearn/zdjecia/9967.jpg  used on input line 140.
+(pdftex.def)             Requested size: 205.48608pt x 150.56305pt.
+File: /home/dearn/zdjecia/9967.jpg Graphic file (type jpg)
+<use /home/dearn/zdjecia/9967.jpg>
+Package pdftex.def Info: /home/dearn/zdjecia/9967.jpg  used on input line 140.
+(pdftex.def)             Requested size: 205.48608pt x 150.56305pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 1206--1207
+Underfull \hbox (badness 10000) in paragraph at lines 140--140
 
  []
 
-</home/dearn/zdjecia/70166.jpg, id=311, 250.9375pt x 160.6pt>
-File: /home/dearn/zdjecia/70166.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/70166.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/70166.jpg  used on input line 1212
-.
-(pdftex.def)             Requested size: 235.26097pt x 150.56305pt.
-File: /home/dearn/zdjecia/70166.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/70166.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/70166.jpg  used on input line 1212
-.
-(pdftex.def)             Requested size: 235.26097pt x 150.56305pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 1212--1213
+Underfull \hbox (badness 10000) in paragraph at lines 140--141
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1212--1213
+Underfull \hbox (badness 10000) in paragraph at lines 140--141
 
  []
 
-</home/dearn/zdjecia/00086.jpg, id=312, 250.9375pt x 334.24875pt>
-File: /home/dearn/zdjecia/00086.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/00086.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/00086.jpg  used on input line 1218
-.
-(pdftex.def)             Requested size: 113.03952pt x 150.56305pt.
-File: /home/dearn/zdjecia/00086.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/00086.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/00086.jpg  used on input line 1218
-.
-(pdftex.def)             Requested size: 113.03952pt x 150.56305pt.
+</home/dearn/zdjecia/9966.jpg, id=46, 217.81375pt x 159.59625pt>
+File: /home/dearn/zdjecia/9966.jpg Graphic file (type jpg)
+<use /home/dearn/zdjecia/9966.jpg>
+Package pdftex.def Info: /home/dearn/zdjecia/9966.jpg  used on input line 145.
+(pdftex.def)             Requested size: 205.48608pt x 150.56305pt.
+File: /home/dearn/zdjecia/9966.jpg Graphic file (type jpg)
+<use /home/dearn/zdjecia/9966.jpg>
+Package pdftex.def Info: /home/dearn/zdjecia/9966.jpg  used on input line 145.
+(pdftex.def)             Requested size: 205.48608pt x 150.56305pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 1218--1219
+Underfull \hbox (badness 10000) in paragraph at lines 145--145
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1218--1219
+Underfull \hbox (badness 10000) in paragraph at lines 145--146
 
  []
 
-</home/dearn/zdjecia/04547.jpg, id=313, 250.9375pt x 520.94624pt>
-File: /home/dearn/zdjecia/04547.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/04547.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/04547.jpg  used on input line 1224
-.
-(pdftex.def)             Requested size: 72.52495pt x 150.56305pt.
-File: /home/dearn/zdjecia/04547.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/04547.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/04547.jpg  used on input line 1224
-.
-(pdftex.def)             Requested size: 72.52495pt x 150.56305pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 1224--1225
+Underfull \hbox (badness 10000) in paragraph at lines 145--146
 
  []
 
+</home/dearn/zdjecia/9965.jpg, id=47, 236.885pt x 182.6825pt>
+File: /home/dearn/zdjecia/9965.jpg Graphic file (type jpg)
+<use /home/dearn/zdjecia/9965.jpg>
+Package pdftex.def Info: /home/dearn/zdjecia/9965.jpg  used on input line 150.
+(pdftex.def)             Requested size: 195.24457pt x 150.56305pt.
+File: /home/dearn/zdjecia/9965.jpg Graphic file (type jpg)
+<use /home/dearn/zdjecia/9965.jpg>
+Package pdftex.def Info: /home/dearn/zdjecia/9965.jpg  used on input line 150.
+(pdftex.def)             Requested size: 195.24457pt x 150.56305pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 1224--1225
+Underfull \hbox (badness 10000) in paragraph at lines 150--150
 
  []
 
-</home/dearn/zdjecia/04549.jpg, id=314, 250.9375pt x 188.705pt>
-File: /home/dearn/zdjecia/04549.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/04549.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/04549.jpg  used on input line 1230
-.
-(pdftex.def)             Requested size: 200.21803pt x 150.56305pt.
-File: /home/dearn/zdjecia/04549.jpg Graphic file (type jpg)
-<use /home/dearn/zdjecia/04549.jpg>
-Package pdftex.def Info: /home/dearn/zdjecia/04549.jpg  used on input line 1230
-.
-(pdftex.def)             Requested size: 200.21803pt x 150.56305pt.
 )
-Underfull \hbox (badness 10000) in paragraph at lines 1230--33
+Underfull \hbox (badness 10000) in paragraph at lines 150--33
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1230--33
+Underfull \hbox (badness 10000) in paragraph at lines 150--33
 
  []
 
@@ -5315,30 +1504,24 @@ File: ./logo.jpg Graphic file (type jpg)
 <use ./logo.jpg>
 Package pdftex.def Info: ./logo.jpg  used on input line 33.
 (pdftex.def)             Requested size: 57.06256pt x 30.11261pt.
-[34 </home/dearn/zdjecia/15222.jpg> </home/dearn/zdjecia/30319.jpg> </home/dear
-n/zdjecia/34240.jpg> </home/dearn/zdjecia/70166.jpg> </home/dearn/zdjecia/00086
-.jpg> </home/dearn/zdjecia/04547.jpg>]
-File: ./logo.jpg Graphic file (type jpg)
-<use ./logo.jpg>
-Package pdftex.def Info: ./logo.jpg  used on input line 33.
-(pdftex.def)             Requested size: 57.06256pt x 30.11261pt.
- [35 </home/dearn/zdjecia/04549.jpg>]
-(./test.aux (./insider.aux)) ) 
+[5 </home/dearn/zdjecia/9970.jpg> </home/dearn/zdjecia/9969.jpg> </home/dearn/z
+djecia/9968.jpg> </home/dearn/zdjecia/9967.jpg> </home/dearn/zdjecia/9966.jpg> 
+</home/dearn/zdjecia/9965.jpg>] (./test.aux (./insider.aux)) ) 
 Here is how much of TeX's memory you used:
- 5428 strings out of 492982
- 88856 string characters out of 6138580
- 239076 words of memory out of 5000000
- 8668 multiletter control sequences out of 15000+600000
+ 4547 strings out of 492982
+ 63430 string characters out of 6138580
+ 240075 words of memory out of 5000000
+ 7962 multiletter control sequences out of 15000+600000
  7819 words of font info for 25 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 41i,13n,68p,271b,566s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/share/texmf-dist/fonts/enc/dvips/pl/plrm.en
-c}</usr/share/texmf-dist/fonts/type1/public/pl/plbx10.pfb></usr/share/texmf-dis
-t/fonts/type1/public/pl/plr10.pfb>
-Output written on test.pdf (35 pages, 5038207 bytes).
+ 41i,13n,68p,271b,508s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/share/texmf
+-dist/fonts/enc/dvips/pl/plrm.enc}</usr/share/texmf-dist/fonts/type1/public/pl/
+plbx10.pfb></usr/share/texmf-dist/fonts/type1/public/pl/plr10.pfb>
+Output written on test.pdf (5 pages, 1619013 bytes).
 PDF statistics:
- 331 PDF objects out of 1000 (max. 8388607)
- 85 compressed objects within 1 object stream
+ 60 PDF objects out of 1000 (max. 8388607)
+ 19 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 1031 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 156 words of extra memory for PDF output out of 10000 (max. 10000000)
 

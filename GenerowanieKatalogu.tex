@@ -1,0 +1,36 @@
+\documentclass{article}
+\usepackage{fancyhdr}
+\usepackage{graphicx}
+\usepackage{wrapfig}
+\usepackage{multicol}
+\usepackage{lipsum}
+\usepackage{pbox}
+\usepackage[export]{adjustbox}
+\usepackage[margin=0.5in]{geometry}
+\usepackage{polski}
+\usepackage[polish]{babel}
+% \usepackage{polski}
+\usepackage[utf8]{inputenc}
+\begin{document}
+\setlength{\headheight}{40px}
+\pagestyle{fancy}
+\begin{multicols}{2}
+  \chead{\includegraphics[height=30px]{./logo.jpg}}
+  \rhead{ul. Rynek Wieluński 13\\42-217 Częstochowa\\881 536 523}
+  \lhead{Primus Spółka Cywilna\\Hurtownia Zabawek\\Barbara Filek, Piotr Filek}
+  % \cfoot{test}
+  
+
+  % \centering{
+  % \pbox{250px}{
+  % Index: \textbf{00001}\\
+  % SŁOŃ DO ROZKRĘCANIA W WORKU /870043/            700431\\
+  % Cena: 5,30 Brutto\\
+  % \\
+  % \includegraphics[height=150px,width=250px]{/home/dearn/zdjecia/05005.jpg}}}
+
+
+  \include{./insider}
+
+\end{multicols}
+\end{document}
