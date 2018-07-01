@@ -1,1 +1,3 @@
-fakt.csv
+*.aux
+*.log
+*.dvi

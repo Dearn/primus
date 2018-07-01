@@ -22,30 +22,30 @@ class Baza(object):
     
 t1 = Baza('real.csv')      
 
-print (t1.csv[2]['ID'])
+# print (t1.csv[2]['Kod'])
 
 # def roznicaStr(a, b):
 #     return ""
 
 
 for i in range(len(c1) - 1):
-    #        print("Nie znaleziono ",c1[i-1]['ID'])
+    #        print("Nie znaleziono ",c1[i-1]['Kod'])
     for j in range(len(c2) - 1):
-        if(c1[i]['ID'] == c2[j]['ID'] and c1[i]['ID'] != "00000"):
-            # print(c1[i]['ID'], c2[j]['ID'], c1[i]['Nazwa'][:8], "\t", c1[i]
-            #       ['Ilosc'], c2[j]['Ilosc'], roznicaStr(c1[i]['Ilosc'], c2[j]['Ilosc']))
-            filewriter.writerow([c1[i]['ID'], c1[i]['Nazwa'], c1[i]['Ilosc'], c2[j]['Ilosc']]) #( float(c2[j]['Ilosc'].replace(",",".")) - float(c1[i]['Ilosc'].replace(",",".")))])
+        if(c1[i]['Kod'] == c2[j]['Kod'] and c1[i]['Kod'] != "00000"):
+            # print(c1[i]['Kod'], c2[j]['Kod'], c1[i]['Nazwa'][:8], "\t", c1[i]
+            #       ['Ilość'], c2[j]['Ilość'], roznicaStr(c1[i]['Ilość'], c2[j]['Ilość']))
+            filewriter.writerow([c1[i]['Kod'], c1[i]['Nazwa'], c1[i]['Ilość'], c2[j]['Ilość']]) #( float(c2[j]['Ilość'].replace(",",".")) - float(c1[i]['Ilość'].replace(",",".")))])
 
             znaleziono = 1
             break
         else:
             znaleziono = 0
-            # print(c1[i]['ID'],c2[j]['ID'],c1[i]['Nazwa'][:25],"\t",c1[i]['Ilosc'], c2[j]['Ilosc'], roznicaStr(c1[i]['Ilosc'],c2[j]['Ilosc']))
-    if(znaleziono == 0 and c1[i]['ID'] != "00000"):
+            # print(c1[i]['Kod'],c2[j]['Kod'],c1[i]['Nazwa'][:25],"\t",c1[i]['Ilość'], c2[j]['Ilość'], roznicaStr(c1[i]['Ilość'],c2[j]['Ilość']))
+    if(znaleziono == 0 and c1[i]['Kod'] != "00000"):
         # dziala ale wyciszyc
-        # print("Nie znaleziono ", c1[i]['ID'])
-        lista.append([c1[i]['ID'], c1[i]['Nazwa'],
-                      c1[i]['Ilosc']])
+        # print("Nie znaleziono ", c1[i]['Kod'])
+        lista.append([c1[i]['Kod'], c1[i]['Nazwa'],
+                      c1[i]['Ilość']])
 # for row in lista:
 #     filewriter.writerow(row)
 f3.close()

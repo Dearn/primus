@@ -2,6 +2,7 @@
 \usepackage{fancyhdr}
 \usepackage{graphicx}
 \usepackage{tabularx}
+\usepackage[table]{xcolor}% http://ctan.org/pkg/xcolor
 \usepackage{wrapfig}
 \usepackage{multicol}
 \usepackage{lipsum}
@@ -19,25 +20,102 @@
 % \usepackage{polski}
 \usepackage[utf8]{inputenc}
 \begin{document}
-% \setlength{\headheight}{40px}
-% \pagestyle{fancy}
-% \begin{multicols}{2}
-
-{\renewcommand{\arraystretch}{2.5}%
-  \begin{tabular}{ |L{3cm} |C{2.5cm}| }
+{\renewcommand{\arraystretch}{2.5}% 
+  \begin{tabular}{ |L{3.3cm} |C{2.5cm}|L{3.3cm}|C{2.5cm}|L{3.3cm}|C{2.5cm}|}
     \hline
-    Nazwa Produktu & \textbf{\LARGE{05150}}    \\\cline{2-2}
-    \multicolumn{2}{|c|}{\textbf{\Large{2,50 zł}}} \\
-    \cellcolor{blue!25}kolorek} & a  \\
+    % \setlength{\headheight}{40px}
+    % \pagestyle{fancy}
+    % \begin{multicols}{2}
+    %   {\renewcommand{\arraystretch}{2.5}%
+    %   \begin{tabular}{ |L{3cm} |C{2.5cm}| }
+    %     \hline
+    %     Nazwa Prodsadasdasdasdasduktu & \textbf{\LARGE{05150}}    \\\cline{2-2}
+    %     \multicolumn{2}{|c|}{\textbf{\Large{2,50 zł}} - cena ostateczna}  \\
+    %     \hline
+    %   \end{tabular}}
+    %   {\renewcommand{\arraystretch}{2.5}%
+    %   \begin{tabular}{ |L{3cm} |C{2.5cm}| }
+    %     \hline
+    %     Nazwa Produktu & \textbf{\LARGE{05150}}    \\\cline{2-2}
+    %     \multicolumn{2}{|c|}{\textbf{\Large{2,50 zł}} - cena ostateczna}  \\
+    %     \hline
+    %   \end{tabular}}
+    %   {\renewcommand{\arraystretch}{2.5}%
+    %   \begin{tabular}{ |L{3cm} |C{2.5cm}| }
+    %     \hline
+    %     Nazwa Produktu & \textbf{\LARGE{05150}}    \\\cline{2-2}
+    %     \multicolumn{2}{|c|}{\textbf{\Large{2,50 zł}} - cena ostateczna}  \\
+    %     \hline
+    %   \end{tabular}}
+    %   {\renewcommand{\arraystretch}{2.5}%
+    %   \begin{tabular}{ |L{3cm} |C{2.5cm}| }
+    %     \hline
+    %     Nazwa Produktu & \textbf{\LARGE{05150}}    \\\cline{2-2}
+    %     \multicolumn{2}{|c|}{\textbf{\Large{2,50 zł}} - cena ostateczna}  \\
+    %     \hline
+    %   \end{tabular}}
+    %   {\renewcommand{\arraystretch}{2.5}%
+    %   \begin{tabular}{ |L{3cm} |C{2.5cm}| }
+    %     \hline
+    %     Nazwa Produktu & \textbf{\LARGE{05150}}    \\\cline{2-2}
+    %     \multicolumn{2}{|c|}{\textbf{\Large{2,50 zł}} - cena ostateczna}  \\
+    %     \hline
+    %   \end{tabular}}
+    %   {\renewcommand{\arraystretch}{2.5}%
+    %   \begin{tabular}{ |L{3cm} |C{2.5cm}| }
+    %     \hline
+    %     Nazwa Produktu & \textbf{\LARGE{05150}}    \\\cline{2-2}
+    %     \multicolumn{2}{|c|}{\textbf{\Large{2,50 zł}} - cena ostateczna}  \\
+    %     \hline
+    %   \end{tabular}}
+    %   {\renewcommand{\arraystretch}{2.5}%
+    %   \begin{tabular}{ |L{3cm} |C{2.5cm}| }
+    %     \hline
+    %     Nazwa Produktu & \textbf{\LARGE{05150}}    \\\cline{2-2}
+    %     \multicolumn{2}{|c|}{\textbf{\Large{2,50 zł}} - cena ostateczna}  \\
+    %     \hline
+    %   \end{tabular}}
+    %   {\renewcommand{\arraystretch}{2.5}%
+    %   \begin{tabular}{ |L{3cm} |C{2.5cm}| }
+    %     \hline
+    %     Nazwa Produktu & \textbf{\LARGE{05150}}    \\\cline{2-2}
+    %     \multicolumn{2}{|c|}{\textbf{\Large{2,50 zł}} - cena ostateczna}  \\
+    %     \hline
+    %   \end{tabular}}
+    %   {\renewcommand{\arraystretch}{2.5}%
+    %   \begin{tabular}{ |L{3cm} |C{2.5cm}| }
+    %     \hline
+    %     Nazwa Produktu & \textbf{\LARGE{05150}}    \\\cline{2-2}
+    %     \multicolumn{2}{|c|}{\textbf{\Large{2,50 zł}} - cena ostateczna}  \\
+    %     \hline
+    %   \end{tabular}}
+    %   {\renewcommand{\arraystretch}{2.5}%
+    %   \begin{tabular}{ |L{3cm} |C{2.5cm}| }
+    %     \hline
+    %     Nazwa Produktu & \textbf{\LARGE{05150}}    \\\cline{2-2}
+    %     \multicolumn{2}{|c|}{\textbf{\Large{2,50 zł}} - cena ostateczna}  \\
+    %     \hline
+    %   \end{tabular}}
+    %   {\renewcommand{\arraystretch}{2.5}%
+    %   \begin{tabular}{ |L{3cm} |C{2.5cm}| }
+    %     \hline
+    %     Nazwa Produktu & \textbf{\LARGE{05150}}    \\\cline{2-2}
+    %     \multicolumn{2}{|c|}{\textbf{\Large{2,50 zł}} - cena ostateczna}  \\
+    %     \hline
+    %   \end{tabular}}
+    %   {\renewcommand{\arraystretch}{2.5}%
+    %   \begin{tabular}{ |L{3cm} |C{2.5cm}| }
+    %     \hline
+    %     Nazwa Produktu & \textbf{\LARGE{05150}}    \\\cline{2-2}
+    %     \multicolumn{2}{|c|}{\textbf{\Large{2,50 zł}} - cena ostateczna}  \\
+    %     \hline
+    %   \end{tabular}}
 
-    \hline
-    
-
-  \end{tabular}}
 
 
 
 
-% \end{multicols}
-% \include{./insider}
+    % \end{multicols}
+    \include{./insider}
+  \end{tabular}
 \end{document}

@@ -1,0 +1,1 @@
+NAZWA & \textbf{\LARGE{ID}} &     NAZWA & \textbf{\LARGE{KOD}}   &   NAZWA  & \textbf{\LARGE{KOD}} \\\cline{2-2}\cline{4-4}\cline{6-6}  \multicolumn{2}{|c|}{\textbf{\Large{CENA}} - cena ostateczna}  &     \multicolumn{2}{c|}{\textbf{\Large{CENA}} - cena ostateczna}    &     \multicolumn{2}{c|}{\textbf{\Large{CENA2,50 zł}} - cena ostateczna}   \\  \hline

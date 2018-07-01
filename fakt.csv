@@ -1,39 +1,29 @@
-ID;Nazwa;CenaN;;;Netto Zakup;;;;;
-<<<<<<< HEAD
-9999;Kredki Woskowe;3,92;;;2,9;;;;;
-=======
-9999;Kredki Woskowe 12szt, pudelko 10 x 1 x 11.5cm ;3,92;;;2,9;;;;;
->>>>>>> 7d09c91c24aa520f4afd78b5e6c773a89d0f2f83
-9998;Koloruję i naklejam zwierzaki 1 ;6,62;;;4,9;;;;;
-9997;Koloruję i naklejam zwierzaki 12;6,62;;;4,9;;;;;
-9996;Puzzle 54 el (W większości misie + lalki;1,89;;;1,4;;;;;
-9995;Karty Piotruś – FAN;1,75;;;1,2;;;;;Błąd:509
-9994;Model szybowca z kartonu – A3;6,74;;;4,99;;;0,693055555555556;;
-9993;Model szybowca z kartonu – A3;6,74;;;4,99;;;;;
-9992;Model szybowca z kartonu – A3;6,74;;;4,99;;;;;
-9991;Kolorowanka - Kropki I Cętki ;3,29;;;2,44;;;;;
-9990;Kolorowanka - Paski I Prążki ;3,29;;;2,44;;3,4545;;;
-9989;Kolorowanka - Ślady I Tropy ;3,29;;;2,44;;;;;
-9988;Kolorowanka - Kolory I Wzory ;3,29;;;2,44;;;;;
-9987;Kolorowanka Edukacyjna – Kot ;3,29;;;2,44;;;;;
-9986;Kolorowanka Edukacyjna – Pies ;3,29;;;2,44;;;;;
-9981;Przygoda Z Kolorami - Na Łące ;2,97;;;2,2;;;;;
-9980;Przygoda Z Kolorami - Na Plaży ;2,97;;;2,2;;;;;
-9979;Przygoda Z Kolorami - Ocean ;2,97;;;2,2;;;;;
-9978;Przygoda Z Kolorami – Owoce;2,97;;;2,2;;;;;
-9977;Przygoda Z Kolorami – Sport;2,97;;;2,2;;;;3,3825;
-9976;Przygoda Z Kolorami - W Lesie;2,97;;;2,2;;;;;
-9975;Przygoda Z Kolorami - W Zagrodzie ;2,97;;;2,2;;;;;
-9974;Przygoda Z Kolorami - W Zoo ;2,97;;;2,2;;;;;
-9973;Przygoda Z Kolorami - Zawody ;2,97;;;2,2;;;;;
-<<<<<<< HEAD
-9972;Bańki mydlane 55ml Avengers (max 300szt);1,20;;;0,89;;;;;
-9971;Bańki mydlane 55ml Barbie (max 300szt);1,26;;;0,93;;;;;
-9970;Bańki mydlane 55ml Sofia (max 300szt);1,20;;;0,89;;;;;
-9969;Bańki mydlane 55ml Mickey and Roadster Raeers (max 300szt);1,26;;;0,93;;;;;
-9968;Bańki mydlane 55ml Cars (max 300szt);1,09;;;0,81;;;;;
-9967;Bańki mydlane 55ml Kubuś Puchatek (max 300szt);1,09;;;0,81;;;;;
-9966;Bańki mydlane 55ml Emoji (max 300szt);1,09;;;0,81;;;;;
-9965;Bańki mydlane 55ml Hatchimals (max 300szt);1,09;;;0,81;;;;;
-=======
->>>>>>> 7d09c91c24aa520f4afd78b5e6c773a89d0f2f83
+Lp;Kod;Nazwa;Ilość;Wartość magazynowa;Wartość magazynowa 1;Ostatnia zakupu [netto];Ostatnia zakupu [netto] 1;Detal [netto] [PLN];Detal [netto] [PLN] 1;Detal [brutto] [PLN];Detal [brutto] [PLN] 1;% narzutu;Mag.;Chodliwość:Towar;Opis
+1;00001;SŁOŃ DO ROZKRĘCANIA W WORKU /870043/            700431;40;126.4;PLN;3.16; PLN;4.31;PLN;5.3;PLN;36,39%;9;A;
+2;00002;Pierścionki135677;0;0;PLN;5.23; PLN;7.58;PLN;9.32;PLN;44,93%;0;A;
+3;00003;Pierścionki 133758;72;106.56;PLN;1.48; PLN;2.15;PLN;2.64;PLN;45,27%;2;A;
+4;00005;TARCZA Z RZUTKAMI /7839828/                     398286;21;51.45;PLN;2.45; PLN;3.34;PLN;4.11;PLN;36,33%;9;A;
+5;00007;LADOWARKA 29CM /548784/                         487847;31;370.45;PLN;11.95; PLN;16.16;PLN;19.88;PLN;35,23%;9;A;
+6;00009;PISTOLET METALOWY NA SPłONKę  /7888B            516093;0;0;PLN;14.96; PLN;20.19;PLN;24.83;PLN;34,96%;9;A;
+7;00011;PISTOLET NA SPLONKĘ    /CHT2927804/              081027;109;167.86;PLN;1.54; PLN;2;PLN;2.46;PLN;29,87%;9;A;
+8;00012;PISTOLET NA SPłONKę /CHT40985/                  047337;45;49.05;PLN;1.09; PLN;1.47;PLN;1.81;PLN;34,86%;9;A;
+9;00013;PISTOLET NA SPłONKę /CHT409A16                  047344;54;83.16;PLN;1.54; PLN;2.11;PLN;2.6;PLN;37,01%;9;A;
+10;00014;PISTOLET NA SPłONKę /CHT409B29                  047351;39;51.48;PLN;1.32; PLN;1.79;PLN;2.2;PLN;35,61%;9;A;
+11;00015;PISTOLET NA SPłONKE /CHT409C13                  002275;0;0;PLN;2.51; PLN;3.42;PLN;4.21;PLN;36,25%;9;A;
+12;00016;PISTOLET NA SPłONKę /CHT409C25                  047375;103;185.4;PLN;1.8; PLN;2.43;PLN;2.99;PLN;35,00%;9;A;
+13;00017;PISTOLET METALOWY NA SPłONKę /S703B/            510657;12;142.92;PLN;11.91; PLN;16.12;PLN;19.83;PLN;35,35%;9;A;
+14;00019;PISTOLET NA SPłONKę /CHT409A52                  047368;2;1.88;PLN;0.94; PLN;1.22;PLN;1.5;PLN;29,79%;9;A;
+15;00023;PISTOLET NA SPłONKę /CHT2927805;33;72.93;PLN;2.21; PLN;2.76;PLN;3.4;PLN;24,89%;9;A;
+16;00024;KLOCKI ŚREDNIE /K2S/                            000055;4;39.32;PLN;9.83; PLN;12.8;PLN;15.74;PLN;30,21%;4;A;
+17;70025;PISTOLET NA SPłONKę /CHT409C26                  047313;897;1650.48;PLN;1.84; PLN;2.52;PLN;13.21;PLN;36,96%;9;A;
+18;00026;PISTOLET METALOWY NA SPłONKę /S902BN            514174;29;308.56;PLN;10.64; PLN;14.41;PLN;17.72;PLN;35,43%;9;A;
+19;00027;PISTOLET NA SPłONKę /8247SP/                    516222;254;701.04;PLN;2.76; PLN;3.74;PLN;4.6;PLN;35,51%;9;A;
+20;00028;KLOCKI 3 MAŁE /K3M/                             000161;1;9.41;PLN;9.41; PLN;12.24;PLN;15.06;PLN;30,07%;4;A;
+21;00037;KLOCKI BOBO -  50                               306725;9;35.73;PLN;3.97; PLN;5.56;PLN;6.84;PLN;40,05%;4;A;
+22;00038;DZWONKI CHROM.27 TON                            000049;5;108.3;PLN;21.66; PLN;25.98;PLN;31.96;PLN;19,94%;0;A;
+23;00039;KRĘGLE MAŁE /TOYS/                              306084;0;0;PLN;7.02; PLN;9.48;PLN;11.66;PLN;35,04%;0;A;
+24;00048;AUTKO 12CM. W WORKU /8680833/                   808333;6;5.52;PLN;0.92; PLN;1.3;PLN;1.6;PLN;41,30%;9;A;
+25;00049;Cymbałki /TA9901-2/003165/;0;0;PLN;4.04; PLN;5.62;PLN;6.91;PLN;39,11%;0;A;Wymiary:32 x 20 cm
+26;00050;Komplet do prasowania /000155/;0;0;PLN;6.5; PLN;8.78;PLN;10.8;PLN;35,08%;0;A;
+27;00052;Miękka piłka i kostka /004636/;0;0;PLN;3.17; PLN;4.6;PLN;5.66;PLN;45,11%;1R;A;
+28;00053;Zwierzęta domowe 8szt w worku /397041/;0;0;PLN;7.91; PLN;11.47;PLN;14.11;PLN;45,01%;1R;A;
